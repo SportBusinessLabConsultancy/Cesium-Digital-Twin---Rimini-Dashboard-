@@ -1,0 +1,1308 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 294065213,
+        "tipo": "ufficio_postale",
+        "name": "Poste italiane",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5706728,
+          44.0572024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1043978224,
+        "tipo": "ufficio_postale",
+        "name": "Via Gallina",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5867968,
+          44.0493839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1412365230,
+        "tipo": "ufficio_postale",
+        "name": "",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5672501,
+          44.0692028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1598874001,
+        "tipo": "polizia",
+        "name": "Polizia Postale e delle Comunicazioni - Sezione di Rimini",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5704157,
+          44.0570516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718106644,
+        "tipo": "ufficio_governativo",
+        "name": "Associazone Nazionale Mutilati ed Invalidi di Guerra",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5715947,
+          44.0601796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718113329,
+        "tipo": "polizia",
+        "name": "Polizia Locale - Ufficio Verbali",
+        "phone": "",
+        "website": "https://www.polizialocalerimini.it/verbali",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5650933,
+          44.0462237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718120917,
+        "tipo": "ufficio_governativo",
+        "name": "Anagrafe - Delegazione Centro Storico",
+        "phone": "",
+        "website": "https://archivio.comune.rimini.it/comune-e-citta/comune/ufficio-relazioni-con-il-pubblico/guida-ai-servizi/delegazioni-anagrafiche",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5661609,
+          44.0613382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718131890,
+        "tipo": "ufficio_governativo",
+        "name": "Provinca di Rimini",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5651402,
+          44.0624008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718135590,
+        "tipo": "ufficio_governativo",
+        "name": "Anagrafe - Delegazione Villaggio Primo Maggio",
+        "phone": "",
+        "website": "https://archivio.comune.rimini.it/comune-e-citta/comune/ufficio-relazioni-con-il-pubblico/guida-ai-servizi/delegazioni-anagrafiche",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5751153,
+          44.0372067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718135625,
+        "tipo": "ufficio_governativo",
+        "name": "Anagrafe - Delegazione di Miramare",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6178667,
+          44.0310872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718146580,
+        "tipo": "polizia",
+        "name": "Polizia Municipale",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5711954,
+          44.0579484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718147766,
+        "tipo": "ufficio_governativo",
+        "name": "Comune di Rimini - Ufficio Anagrafe",
+        "phone": "",
+        "website": "https://www.comune.rimini.it/",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5528009,
+          44.0534503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718179978,
+        "tipo": "ufficio_postale",
+        "name": "Poste Italiane",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5688337,
+          44.062461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718181721,
+        "tipo": "ufficio_postale",
+        "name": "",
+        "phone": "+390541727915",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5000713,
+          44.046488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718182056,
+        "tipo": "ufficio_governativo",
+        "name": "Palazzo Del Governo",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569912,
+          44.0601024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718183752,
+        "tipo": "ufficio_postale",
+        "name": "Poste Italiane - Rimini 7",
+        "phone": "+39 0541 37 19 32",
+        "website": "",
+        "opening_hours": "Mo-Fr 08:20-13:35; Sa 08:20-12:35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6038942,
+          44.0458428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718195277,
+        "tipo": "polizia",
+        "name": "Sezione Polizia Stradale di Rimini",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5618115,
+          44.0426271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718195747,
+        "tipo": "ufficio_postale",
+        "name": "Prodotti Finanziari Poste Italiane S.P.A.",
+        "phone": "",
+        "website": "",
+        "opening_hours": "Mo-Fr 08:00-17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5323979,
+          44.0884038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718200262,
+        "tipo": "ufficio_governativo",
+        "name": "Comune di Rimini - Servizi Educativi Protezione Sociale Ufficio Tributi",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5651773,
+          44.0632537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3237981683,
+        "tipo": "ufficio_postale",
+        "name": "Ufficio Postale Poste Italiane",
+        "phone": "",
+        "website": "",
+        "opening_hours": "Mo-Sa 08:20-13:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5707202,
+          44.0050693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4488426490,
+        "tipo": "ufficio_postale",
+        "name": "Posta",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4827845,
+          44.0683151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4546345191,
+        "tipo": "ufficio_governativo",
+        "name": "quartiere n.9 Santa Giustina di Rimini",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4815726,
+          44.068143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5555640798,
+        "tipo": "ufficio_postale",
+        "name": "Poste Italiane",
+        "phone": "+39 0541 382129",
+        "website": "",
+        "opening_hours": "Mo-Fr 08:20-13:35; Sa 08:20-12:35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5854838,
+          44.0337993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5811114441,
+        "tipo": "ufficio_postale",
+        "name": "Poste Italiane",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5850744,
+          44.0635858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8156324588,
+        "tipo": "vigili_del_fuoco",
+        "name": "Fire Training Aircraft",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6156441,
+          44.0218872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8167162458,
+        "tipo": "ufficio_governativo",
+        "name": "Anagrafe - Delegazione Viserba",
+        "phone": "",
+        "website": "https://www.comune.rimini.it/amministrazione/uffici/delegazione-anagrafica-di-viserba/",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5354031,
+          44.0878047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8167162461,
+        "tipo": "polizia",
+        "name": "Polizia Locale - Distaccamento di Miramare",
+        "phone": "",
+        "website": "https://www.polizialocalerimini.it/",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6179923,
+          44.0312031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8167162463,
+        "tipo": "ufficio_governativo",
+        "name": "Comune di Rimini - Assessorato al Turismo",
+        "phone": "",
+        "website": "https://www.riminiturismo.it/",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5775124,
+          44.0713307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8294916127,
+        "tipo": "ufficio_postale",
+        "name": "Poste Italiane",
+        "phone": "+390541758827",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4524417,
+          44.0200644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9859741960,
+        "tipo": "ufficio_postale",
+        "name": "RIMINI 9",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5645466,
+          44.0456942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080530805,
+        "tipo": "polizia",
+        "name": "Municipale",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4520822,
+          44.0199701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11217527974,
+        "tipo": "polizia",
+        "name": "Carabinieri - Comando Gruppo Nucleo Forestale Rimini",
+        "phone": "",
+        "website": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5912972,
+          44.0449285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29118673,
+        "tipo": "vigili_del_fuoco",
+        "name": "Comando Provinciale Vigili del Fuoco Rimini"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5952513,
+              44.0369606
+            ],
+            [
+              12.5962151,
+              44.0373792
+            ],
+            [
+              12.5963393,
+              44.0374323
+            ],
+            [
+              12.5965138,
+              44.0373189
+            ],
+            [
+              12.5966412,
+              44.0373938
+            ],
+            [
+              12.5972301,
+              44.0370016
+            ],
+            [
+              12.5972293,
+              44.0369548
+            ],
+            [
+              12.5972522,
+              44.0369068
+            ],
+            [
+              12.5972789,
+              44.0368698
+            ],
+            [
+              12.5973254,
+              44.0368274
+            ],
+            [
+              12.5967297,
+              44.0365665
+            ],
+            [
+              12.5967629,
+              44.0365068
+            ],
+            [
+              12.5959988,
+              44.0361963
+            ],
+            [
+              12.5952513,
+              44.0369606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223792959,
+        "tipo": "polizia",
+        "name": "Stazione Carabinieri Rimini Viserba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5342292,
+              44.085009
+            ],
+            [
+              12.5343332,
+              44.085071
+            ],
+            [
+              12.5345349,
+              44.0851911
+            ],
+            [
+              12.5346633,
+              44.0850792
+            ],
+            [
+              12.5343577,
+              44.084897
+            ],
+            [
+              12.5342292,
+              44.085009
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223795586,
+        "tipo": "municipio",
+        "name": "Comune di Rimini - Distaccamento di Viserba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5352464,
+              44.0877719
+            ],
+            [
+              12.5355433,
+              44.0879836
+            ],
+            [
+              12.535692,
+              44.0878752
+            ],
+            [
+              12.5355161,
+              44.0877499
+            ],
+            [
+              12.5354912,
+              44.0877681
+            ],
+            [
+              12.53537,
+              44.0876818
+            ],
+            [
+              12.5353062,
+              44.0877283
+            ],
+            [
+              12.5352464,
+              44.0877719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223807757,
+        "tipo": "polizia",
+        "name": "Stazione Carabinieri Rimini Miramare"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6172714,
+              44.0294747
+            ],
+            [
+              12.6173514,
+              44.0295239
+            ],
+            [
+              12.6173387,
+              44.0295345
+            ],
+            [
+              12.617391,
+              44.0295665
+            ],
+            [
+              12.617407,
+              44.0295528
+            ],
+            [
+              12.6174661,
+              44.029586
+            ],
+            [
+              12.6175618,
+              44.0295049
+            ],
+            [
+              12.6175359,
+              44.029489
+            ],
+            [
+              12.6175678,
+              44.0294618
+            ],
+            [
+              12.6174725,
+              44.0294032
+            ],
+            [
+              12.6174399,
+              44.0294308
+            ],
+            [
+              12.6174542,
+              44.0294397
+            ],
+            [
+              12.6174058,
+              44.0294805
+            ],
+            [
+              12.6173241,
+              44.0294302
+            ],
+            [
+              12.6172714,
+              44.0294747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223810895,
+        "tipo": "vigili_del_fuoco",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6157244,
+              44.0248603
+            ],
+            [
+              12.6159736,
+              44.025063
+            ],
+            [
+              12.6166664,
+              44.0246225
+            ],
+            [
+              12.6165593,
+              44.0245354
+            ],
+            [
+              12.6166664,
+              44.0244673
+            ],
+            [
+              12.61653,
+              44.0243563
+            ],
+            [
+              12.6165244,
+              44.0243518
+            ],
+            [
+              12.6157244,
+              44.0248603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223826539,
+        "tipo": "polizia",
+        "name": "Capitaneria di porto - comando compamare"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5737489,
+              44.0730348
+            ],
+            [
+              12.5737769,
+              44.0730939
+            ],
+            [
+              12.5737626,
+              44.0730974
+            ],
+            [
+              12.5739479,
+              44.0734884
+            ],
+            [
+              12.5740736,
+              44.0734574
+            ],
+            [
+              12.5740822,
+              44.0734758
+            ],
+            [
+              12.5741247,
+              44.0734653
+            ],
+            [
+              12.5740976,
+              44.073408
+            ],
+            [
+              12.5740783,
+              44.0734127
+            ],
+            [
+              12.5738834,
+              44.0730016
+            ],
+            [
+              12.5737489,
+              44.0730348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223826896,
+        "tipo": "polizia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5436779,
+              44.0559169
+            ],
+            [
+              12.5437424,
+              44.0559181
+            ],
+            [
+              12.543742,
+              44.0560485
+            ],
+            [
+              12.5439432,
+              44.0560525
+            ],
+            [
+              12.5439449,
+              44.056004
+            ],
+            [
+              12.5440185,
+              44.0560053
+            ],
+            [
+              12.5440257,
+              44.0557916
+            ],
+            [
+              12.5439514,
+              44.0557903
+            ],
+            [
+              12.5439523,
+              44.0557616
+            ],
+            [
+              12.5436832,
+              44.055757
+            ],
+            [
+              12.5436779,
+              44.0559169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223827285,
+        "tipo": "polizia",
+        "name": "Questura di Rimini"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5659851,
+              44.0516274
+            ],
+            [
+              12.566052,
+              44.0519994
+            ],
+            [
+              12.5661934,
+              44.0520186
+            ],
+            [
+              12.5661815,
+              44.0520639
+            ],
+            [
+              12.5662804,
+              44.0520774
+            ],
+            [
+              12.566291,
+              44.0520365
+            ],
+            [
+              12.5664093,
+              44.0520525
+            ],
+            [
+              12.5664926,
+              44.0517319
+            ],
+            [
+              12.5662926,
+              44.0517093
+            ],
+            [
+              12.5663028,
+              44.0516677
+            ],
+            [
+              12.5659851,
+              44.0516274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223828015,
+        "tipo": "polizia",
+        "name": "Stazione Carabinieri Rimini principale"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5764327,
+              44.0464231
+            ],
+            [
+              12.5765527,
+              44.0465052
+            ],
+            [
+              12.5768338,
+              44.0462913
+            ],
+            [
+              12.5770216,
+              44.0464197
+            ],
+            [
+              12.5767082,
+              44.0466582
+            ],
+            [
+              12.576627,
+              44.0466026
+            ],
+            [
+              12.5765074,
+              44.0466935
+            ],
+            [
+              12.5768575,
+              44.046933
+            ],
+            [
+              12.5773142,
+              44.0465858
+            ],
+            [
+              12.5773462,
+              44.0466072
+            ],
+            [
+              12.577426,
+              44.046547
+            ],
+            [
+              12.5772625,
+              44.0464348
+            ],
+            [
+              12.5772061,
+              44.0464775
+            ],
+            [
+              12.5771352,
+              44.0464287
+            ],
+            [
+              12.577166,
+              44.0464054
+            ],
+            [
+              12.5770991,
+              44.0463595
+            ],
+            [
+              12.5771279,
+              44.0463377
+            ],
+            [
+              12.5768208,
+              44.0461278
+            ],
+            [
+              12.5764327,
+              44.0464231
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223834426,
+        "tipo": "polizia",
+        "name": "Capitaneria di porto di Rimini"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5736063,
+              44.0722645
+            ],
+            [
+              12.5737028,
+              44.0724992
+            ],
+            [
+              12.5738672,
+              44.0724641
+            ],
+            [
+              12.5737707,
+              44.0722294
+            ],
+            [
+              12.5736063,
+              44.0722645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223842749,
+        "tipo": "polizia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5573395,
+              44.0358575
+            ],
+            [
+              12.5573977,
+              44.035958
+            ],
+            [
+              12.5579558,
+              44.0357966
+            ],
+            [
+              12.5579,
+              44.0356963
+            ],
+            [
+              12.5576214,
+              44.0357768
+            ],
+            [
+              12.5575996,
+              44.0357376
+            ],
+            [
+              12.5575315,
+              44.0357573
+            ],
+            [
+              12.5575529,
+              44.0357958
+            ],
+            [
+              12.5573395,
+              44.0358575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 321725452,
+        "tipo": "municipio",
+        "name": "Comune di Rimini"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5658262,
+              44.061082
+            ],
+            [
+              12.5658885,
+              44.0610127
+            ],
+            [
+              12.5659797,
+              44.0609213
+            ],
+            [
+              12.5660239,
+              44.0609442
+            ],
+            [
+              12.5664113,
+              44.0611453
+            ],
+            [
+              12.5662383,
+              44.0612974
+            ],
+            [
+              12.5660944,
+              44.0612253
+            ],
+            [
+              12.5661259,
+              44.0611926
+            ],
+            [
+              12.565945,
+              44.0611021
+            ],
+            [
+              12.565919,
+              44.061129
+            ],
+            [
+              12.5658262,
+              44.061082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1460681174,
+        "tipo": "polizia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5722565,
+              44.0718582
+            ],
+            [
+              12.5723031,
+              44.0718451
+            ],
+            [
+              12.5722879,
+              44.0718171
+            ],
+            [
+              12.5722414,
+              44.0718301
+            ],
+            [
+              12.5722565,
+              44.0718582
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

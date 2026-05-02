@@ -1,0 +1,9109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 800527541,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6076804,
+          44.0414752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1599775907,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568808,
+          44.0446779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1599817104,
+        "tipo": "fontanella",
+        "name": "Casa dell'Acqua di Rimini",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5768416,
+          44.0593478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1600315025,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683062,
+          44.0543845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1934395165,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5540074,
+          44.0785013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2262867171,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5801976,
+          44.0626386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2342502603,
+        "tipo": "fontanella",
+        "name": "Acqua di Ridracoli",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5510095,
+          44.0411876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2600659665,
+        "tipo": "fontanella",
+        "name": "Fonte del Tituccio",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4526101,
+          44.0198561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3709894643,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6206206,
+          44.025593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4256734441,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567724,
+          44.0527537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4257834514,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567801,
+          44.0620121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4297889192,
+        "tipo": "fontanella",
+        "name": "Sorgente urbana",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5932646,
+          44.0503417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4488432692,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4823816,
+          44.0685083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4488495789,
+        "tipo": "fontanella",
+        "name": "casa dell'acqua",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4818017,
+          44.0675066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4973416087,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5677271,
+          44.0512811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4980185964,
+        "tipo": "fontanella",
+        "name": "Fonte Sacramora",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5415132,
+          44.0797161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4997881820,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5755733,
+          44.0717316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5012898032,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5777325,
+          44.0705481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5325541151,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5664369,
+          44.060998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5383352000,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5763114,
+          44.0711523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5383352001,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5762548,
+          44.0711006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5383352002,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5761625,
+          44.0710164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5383352003,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576494,
+          44.0709754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5383352004,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576546,
+          44.0710295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5383422377,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5751118,
+          44.0774804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5527410366,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5876535,
+          44.0634202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5600525069,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5744587,
+          44.0790025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5600525071,
+        "tipo": "fontana",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5700713,
+          44.0751545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5635298911,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4751649,
+          44.051505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5635298992,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5027337,
+          44.0407676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5635299608,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5025424,
+          44.0406645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5763594567,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5079332,
+          44.1072544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5763594568,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5079647,
+          44.1072737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5819886583,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5791047,
+          44.0612404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5913831295,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675884,
+          44.0726761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6617685671,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580485,
+          44.0635935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6617798116,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580754,
+          44.0649201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6617842524,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5800352,
+          44.0625584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186901,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5752015,
+          44.0585203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186902,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738698,
+          44.0574951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186903,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5788952,
+          44.0610326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186904,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5808809,
+          44.0645194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186905,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5799434,
+          44.0623672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186906,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5789526,
+          44.0610906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186907,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5790034,
+          44.0611408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186908,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5808837,
+          44.0644591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186909,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5739574,
+          44.0575408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186910,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5799265,
+          44.0623407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186911,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5740062,
+          44.057772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186912,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5790421,
+          44.061179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186913,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.574142,
+          44.0576649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186914,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5807608,
+          44.0649769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186915,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572659,
+          44.0569038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186916,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5780109,
+          44.060225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186917,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5780358,
+          44.0602652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186918,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5740504,
+          44.0575956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186920,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5753942,
+          44.0587295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186921,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737685,
+          44.0575677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186922,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5783428,
+          44.0605237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186923,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737982,
+          44.0576516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186924,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5804638,
+          44.063567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6629211426,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5835779,
+          44.0652436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6629396749,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5835617,
+          44.0652691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6629910521,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5824491,
+          44.0662012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6697156456,
+        "tipo": "fontana",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5820662,
+          44.0673212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6865052918,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5489917,
+          44.0626853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7064929998,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5699794,
+          44.0605905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7115546816,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5937974,
+          44.0447795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7925657532,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5498035,
+          44.0772114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7929253151,
+        "tipo": "opera_arte",
+        "name": "Renzo Pasolini",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5829089,
+          44.0460742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8127268253,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5523278,
+          44.0596909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8127268254,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5523298,
+          44.0597415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8164474046,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5667193,
+          44.0490348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8205531592,
+        "tipo": "opera_arte",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6198375,
+          44.0319145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8315448917,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5841424,
+          44.0685772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8315449017,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5839562,
+          44.0684353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8315449117,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5835267,
+          44.0683435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8315449217,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5834003,
+          44.0681433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8383730417,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5830801,
+          44.0680135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8811442625,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567279,
+          44.0467349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9004988203,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5817277,
+          44.0674372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9004988204,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5817475,
+          44.0674137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9004988205,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5817531,
+          44.0674632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9004988206,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5817678,
+          44.0673995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9004988207,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5817757,
+          44.067477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9035771838,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536067,
+          44.0896134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9140125108,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5555163,
+          44.0774647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9140125111,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5553647,
+          44.0773822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9165062568,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5323693,
+          44.0847149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9165108431,
+        "tipo": "fontanella",
+        "name": "Casa dell'acqua",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5760277,
+          44.0374623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9225348798,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5635745,
+          44.0590183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9784813283,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5485587,
+          44.065503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9906222154,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5585427,
+          44.0342795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9952792882,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5750861,
+          44.0787716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9952792894,
+        "tipo": "monumento",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5750263,
+          44.0775629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9952792895,
+        "tipo": "opera_arte",
+        "name": "La sposa del marinaio",
+        "material": "bronze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576655,
+          44.0817618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954133566,
+        "tipo": "panchina",
+        "name": "",
+        "material": "wood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5673661,
+          44.0030085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954133567,
+        "tipo": "panchina",
+        "name": "",
+        "material": "wood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5673615,
+          44.0029888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9977921728,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5754536,
+          44.0772586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9982962334,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.613777,
+          44.0292751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9998237837,
+        "tipo": "fontana",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5369049,
+          44.0884939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10024033317,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6210274,
+          44.0320568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10024033318,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6211041,
+          44.032105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10024033319,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6211706,
+          44.032147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10024033320,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6212144,
+          44.0321768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535867,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563073,
+          44.0628626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535868,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5631527,
+          44.0628798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535869,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5632745,
+          44.0629019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535870,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5634463,
+          44.0629362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535871,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5635532,
+          44.0629751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535872,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5636479,
+          44.0630192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535873,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5637144,
+          44.0630517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535981,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5619322,
+          44.0637352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535982,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5620284,
+          44.0636426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535983,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5620505,
+          44.0638053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535984,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5621932,
+          44.0638294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535985,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5621255,
+          44.0637259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535986,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5621985,
+          44.0637415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535987,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5622611,
+          44.0637565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535988,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5623772,
+          44.0638489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535989,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5624195,
+          44.0638706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535990,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5624988,
+          44.0639936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535991,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5625819,
+          44.0639184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535992,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5626087,
+          44.0639444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535993,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5626582,
+          44.0640073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535994,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5627273,
+          44.0640633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052535995,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5627873,
+          44.06406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10052536044,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5572722,
+          44.0619799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10123850003,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4802092,
+          44.0520505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10215182121,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5779341,
+          44.0720426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10246372350,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5724107,
+          44.0670101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10246372354,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5726573,
+          44.0676683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555069253,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4518439,
+          44.0184251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555069254,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4518643,
+          44.0184399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555069258,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4518479,
+          44.0185214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555069259,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4518577,
+          44.0185281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555139823,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4528422,
+          44.0179582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555139826,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4522651,
+          44.017359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555139827,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4522477,
+          44.017339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555211348,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4511721,
+          44.0190056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555211349,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4506159,
+          44.0191327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555211350,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4506827,
+          44.019156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555211351,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4507535,
+          44.019143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555211352,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4505869,
+          44.0190787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555211353,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4517443,
+          44.0198059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557107236,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5380918,
+          44.0565844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557107244,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5339119,
+          44.0567276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557107257,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5330818,
+          44.0559074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10559055176,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5013937,
+          44.0473398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10559055177,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5013682,
+          44.0473283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10559093366,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4889244,
+          44.0403878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10559093367,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4888312,
+          44.0403607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10670104952,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5973369,
+          44.0423278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10670104953,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5974247,
+          44.0423239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10670104957,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5974256,
+          44.0423905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10670104958,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5973443,
+          44.0423914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10763770552,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5508774,
+          44.0293343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10839265312,
+        "tipo": "fontana",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5770603,
+          44.0723436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10925163219,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5233653,
+          44.0546162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10956792936,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5628557,
+          44.058625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10998205988,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5755069,
+          44.0606649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11049578303,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5627296,
+          44.0598046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11049578304,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5627436,
+          44.0597211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11068746004,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5876718,
+          44.0402873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11068752305,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5871509,
+          44.0409618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11068752306,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5870092,
+          44.0409508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11071573963,
+        "tipo": "opera_arte",
+        "name": "Monumento a Francisco Busignani",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5679184,
+          44.0619445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11071573964,
+        "tipo": "opera_arte",
+        "name": "Monumento ai Caduti della Prima Guerra Mondiale",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5681658,
+          44.0621271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080473396,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4518309,
+          44.0196905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080473397,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4526257,
+          44.0199074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080473398,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4526174,
+          44.0200506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080473399,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4524579,
+          44.019986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080473403,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4526414,
+          44.0199187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080473404,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4524146,
+          44.0199491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11083763103,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866447,
+          44.0523876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11083763104,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866883,
+          44.052341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11083777705,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5871357,
+          44.0524001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11083777706,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5870997,
+          44.0523327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11083777707,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5871611,
+          44.0523529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185183628,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5758468,
+          44.060463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185183629,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5749827,
+          44.0605114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185194624,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5756087,
+          44.0604391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185194625,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5755122,
+          44.0604796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185194626,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5754827,
+          44.060496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185194627,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5754434,
+          44.0605068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185194628,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5753073,
+          44.0605444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11189138947,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563896,
+          44.0614022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11189138948,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5638744,
+          44.0613766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11189138949,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5638266,
+          44.0614266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11189138950,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563798,
+          44.0613972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11189138951,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5638382,
+          44.0614438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11189138952,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5638487,
+          44.0614568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11193257914,
+        "tipo": "fontana",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5815686,
+          44.0122726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11259313791,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5605969,
+          44.0660892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11278082069,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5584564,
+          44.0513114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922210,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5053868,
+          44.1131941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922211,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5052933,
+          44.1132714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922212,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5058511,
+          44.112806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922213,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5059296,
+          44.1127325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922214,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5061428,
+          44.1125477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922215,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5062162,
+          44.1124911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922216,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5067121,
+          44.1120675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922217,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5068046,
+          44.1119935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922218,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5069439,
+          44.1118702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922219,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5070507,
+          44.1117766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922220,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5070916,
+          44.1117464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922221,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5073681,
+          44.1115021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922222,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5075306,
+          44.1112835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922223,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5074901,
+          44.1113023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922224,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5079045,
+          44.1110747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922225,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5079408,
+          44.111048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922226,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5079983,
+          44.1109898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922227,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5081193,
+          44.1109201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922228,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5084073,
+          44.1106374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922229,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5084623,
+          44.110573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922230,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5089348,
+          44.1101878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922231,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5090635,
+          44.1100834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922232,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5091705,
+          44.1098425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922233,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5093935,
+          44.1098466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922234,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5097233,
+          44.1095662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922237,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5102684,
+          44.1091692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922239,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5103539,
+          44.1092046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922240,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5102053,
+          44.1092155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922241,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5102241,
+          44.1092287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922242,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5103748,
+          44.1091934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922243,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5103189,
+          44.1091121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922244,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5107932,
+          44.1086774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922245,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5110992,
+          44.1082971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922246,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5117617,
+          44.1079358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922247,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5118146,
+          44.1079679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922248,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5117909,
+          44.1079532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922249,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5117125,
+          44.1080447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922250,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5116777,
+          44.1080568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922251,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5116623,
+          44.1079135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922252,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5116486,
+          44.107953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922253,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5118451,
+          44.1079329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922254,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5118821,
+          44.1079521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922255,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5117762,
+          44.1078718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922256,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5118088,
+          44.1078031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922257,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5118362,
+          44.1077644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922258,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5121896,
+          44.1073836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922259,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5127016,
+          44.1070717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922260,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5128838,
+          44.1069297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922261,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5130238,
+          44.1068253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922262,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5131217,
+          44.1067354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922263,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5131369,
+          44.1067048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922264,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5134916,
+          44.1064684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922265,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5137769,
+          44.1062279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922266,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5138815,
+          44.1061522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922267,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5141147,
+          44.1058516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340922268,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5141547,
+          44.1058215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997569,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5148269,
+          44.1053733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997570,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5149087,
+          44.1053114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997571,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5149031,
+          44.105308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997572,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5149976,
+          44.1052427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997573,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5151143,
+          44.1051563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997574,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5150826,
+          44.1051654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997575,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5150479,
+          44.1051952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997578,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5155154,
+          44.1048077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997579,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515538,
+          44.1047881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997580,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5156735,
+          44.1046874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997581,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5157903,
+          44.1046101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997582,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515814,
+          44.1045643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997583,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5159633,
+          44.1044421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997584,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5160987,
+          44.1043412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997585,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5162762,
+          44.1042072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997586,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5163561,
+          44.1041365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997587,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5163656,
+          44.1041187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997588,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5170964,
+          44.1035603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997589,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5171488,
+          44.1035208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997590,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5180613,
+          44.1028097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997591,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5181835,
+          44.1027301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997592,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5182086,
+          44.10271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997593,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5183212,
+          44.1026213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997594,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5185108,
+          44.1024684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997596,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5187409,
+          44.1023638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997597,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5187785,
+          44.1023344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997598,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5188552,
+          44.1022816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997599,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.518913,
+          44.102244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997601,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5192357,
+          44.1017639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997602,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5193083,
+          44.1017105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997603,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5193883,
+          44.1016178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997604,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5193621,
+          44.1016646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997605,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5197212,
+          44.1015177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997606,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5196824,
+          44.101548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997607,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5197546,
+          44.101486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997608,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5197787,
+          44.1014568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997609,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5199579,
+          44.1013366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997610,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5199239,
+          44.1013542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997611,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5199024,
+          44.1013771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997612,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5200125,
+          44.1012971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997613,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5200372,
+          44.1012276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997614,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5200527,
+          44.10127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997615,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5201341,
+          44.1012021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997616,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5201655,
+          44.1011796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997617,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5202427,
+          44.1011167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997618,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5202674,
+          44.1010918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997619,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5204637,
+          44.1009219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997620,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5204506,
+          44.1009416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997621,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5206305,
+          44.1007742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997622,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5207833,
+          44.1007334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997623,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5208407,
+          44.1006827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997624,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.520827,
+          44.100668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997625,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5208322,
+          44.100633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997626,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5210805,
+          44.1005208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997627,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5211431,
+          44.1004239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997628,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5212992,
+          44.100299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997629,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5212563,
+          44.1003306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997630,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5216668,
+          44.1000482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997631,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5050765,
+          44.1134436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266794,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510217,
+          44.1092149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266795,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510226,
+          44.1092299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266813,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5126886,
+          44.1070667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266819,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5137787,
+          44.1062284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266859,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5197504,
+          44.1015315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266860,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5197155,
+          44.1015617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266861,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5198027,
+          44.1014943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266862,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5198229,
+          44.1014718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266863,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5199901,
+          44.1013462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266864,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5199736,
+          44.1013621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266865,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5199455,
+          44.1013813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266866,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5200456,
+          44.1013105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266867,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5200268,
+          44.1012135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266868,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5200742,
+          44.101282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266869,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5201641,
+          44.1012203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266870,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5202036,
+          44.1011955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266871,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5202645,
+          44.1011475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266872,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5202981,
+          44.1011227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266873,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5205227,
+          44.1009398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266874,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5204913,
+          44.1009591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266875,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5206975,
+          44.100798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266876,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5207985,
+          44.1007518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266877,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5208797,
+          44.1006908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266878,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5208394,
+          44.1006803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266879,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5209093,
+          44.1006218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266881,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5211556,
+          44.1004296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266882,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5213149,
+          44.1003019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266883,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5212667,
+          44.1003406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266885,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5050864,
+          44.1134376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11465532432,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5037881,
+          44.0484626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11578849074,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4501402,
+          44.0187534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11592749034,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5650369,
+          44.065676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11638171913,
+        "tipo": "opera_arte",
+        "name": "Monumento a Capitan Giulietti",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5726431,
+          44.0708391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11704599669,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5911935,
+          44.0455452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11716950711,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5673221,
+          44.0549671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11753341309,
+        "tipo": "monumento",
+        "name": "150° Anniversario di costituzione del Corpo degli Alpini",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5689497,
+          44.0550086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11799255915,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4501746,
+          44.018764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11842744169,
+        "tipo": "fontanella",
+        "name": "Fontanella Ponte Romano San Vito",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4536475,
+          44.0867072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11883186120,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5385609,
+          44.0536194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11883186121,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5386277,
+          44.0536173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11883186147,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391411,
+          44.0537312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11883186148,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391001,
+          44.0537207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11883251220,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.603392,
+          44.0344246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11895352969,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737465,
+          44.0709278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11900652584,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5530328,
+          44.0522797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11995403169,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5493478,
+          44.0609495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11997569414,
+        "tipo": "opera_arte",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5537839,
+          44.0538706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12062784334,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5811947,
+          44.0475261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12108585234,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5653607,
+          44.0745811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12108585238,
+        "tipo": "opera_arte",
+        "name": "Pesce Spada di Plotskzy",
+        "material": "bronze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5673228,
+          44.0743034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12108609415,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675099,
+          44.0700402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12113247205,
+        "tipo": "fontana",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580855,
+          44.0691573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12113247207,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5816305,
+          44.0683326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12113247209,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581765,
+          44.0680905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12113247210,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5819897,
+          44.0679301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12125630702,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6219934,
+          44.0310293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12157849636,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5353283,
+          44.0885059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12157875752,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.535765,
+          44.0888531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12157884688,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5352429,
+          44.0884418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12157894660,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5356675,
+          44.0887765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12180749301,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5867499,
+          44.0630887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12180749302,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5867717,
+          44.0630794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12196376091,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5458612,
+          44.0597119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12196376092,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5458751,
+          44.0597352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12196386463,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5854487,
+          44.0509556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12203638780,
+        "tipo": "opera_arte",
+        "name": "Sandro Pertini",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6044362,
+          44.0379999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12203694602,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6048816,
+          44.0380982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12231224519,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5834613,
+          44.0448026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12344621924,
+        "tipo": "opera_arte",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4666788,
+          44.0784669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12349576444,
+        "tipo": "panchina",
+        "name": "",
+        "material": "wood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5845253,
+          44.0432249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12386123059,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5735365,
+          44.0656454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12386133760,
+        "tipo": "fontana",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5714899,
+          44.0650137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12386165278,
+        "tipo": "panchina",
+        "name": "",
+        "material": "wood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5734893,
+          44.0656258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12387853362,
+        "tipo": "panchina",
+        "name": "",
+        "material": "wood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738671,
+          44.0654169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12395622811,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5334224,
+          44.0519656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12444567306,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5644123,
+          44.0459531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465444141,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5342661,
+          44.0803593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465446196,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5329417,
+          44.0791499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465450176,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5342967,
+          44.0803267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465450751,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531916,
+          44.0784631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465452060,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5342969,
+          44.0803841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465454868,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5328234,
+          44.0791444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465455141,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5332755,
+          44.0797525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465455291,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5328948,
+          44.0791418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465461748,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5332681,
+          44.0797358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465463807,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5328433,
+          44.0796867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465465785,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531045,
+          44.079485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465472049,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5322935,
+          44.0787541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465478441,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5306206,
+          44.0806292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465484195,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531365,
+          44.0805217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465490879,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5313986,
+          44.0805004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465499962,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5310057,
+          44.080336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465501336,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5315233,
+          44.0805323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465512286,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311308,
+          44.0803543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465513644,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5315067,
+          44.0805202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465514521,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5314857,
+          44.0805055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465518084,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.530579,
+          44.0806155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465518085,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5303799,
+          44.0809844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465523068,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311702,
+          44.080357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12465975380,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531446,
+          44.0804758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12500859308,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5565097,
+          44.0493573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12533661780,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5494159,
+          44.0539957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12554390501,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5661136,
+          44.0559241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12557383101,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5394997,
+          44.0874487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12557384501,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5392295,
+          44.0873624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12558556102,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6237266,
+          44.0235872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12559256602,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6238915,
+          44.0233501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12559256614,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6228813,
+          44.0238904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12559256615,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6235792,
+          44.0236817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12559256616,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6235871,
+          44.0236065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12559256617,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6235721,
+          44.0236157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12559256618,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6232228,
+          44.0238383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12756750974,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566473,
+          44.044997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12770762815,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5762985,
+          44.0426944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12797245108,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5233664,
+          44.0546307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12827769984,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5927076,
+          44.047014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12843673097,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544961,
+          44.0308159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12863926846,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570522,
+          44.0613694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12877480111,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5978874,
+          44.0488366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12898609774,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5294652,
+          44.0558753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12913908669,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5758915,
+          44.062026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12913915615,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5698271,
+          44.0583127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12941935524,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5434604,
+          44.0847337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12941935525,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5432351,
+          44.0848626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12960560314,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5395218,
+          44.0715915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12960560315,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5394624,
+          44.0715723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12963819212,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.452907,
+          44.0198754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783514,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514824,
+          44.0201418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783515,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514642,
+          44.0201526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783516,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514908,
+          44.0201438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783517,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4515562,
+          44.0201173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783518,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.451568,
+          44.0201127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783519,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514574,
+          44.0199897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783520,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514834,
+          44.0199837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783521,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514505,
+          44.019971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783522,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514706,
+          44.0199625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783523,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4513728,
+          44.0200205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783524,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4513949,
+          44.0200123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783525,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4513635,
+          44.0200046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783526,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4513841,
+          44.0199975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783527,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4515321,
+          44.0199233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12972783528,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4512819,
+          44.0200155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12979966401,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6174778,
+          44.0284233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12983923197,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5813351,
+          44.0427145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12986209701,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5604821,
+          44.0553156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12986676331,
+        "tipo": "opera_arte",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5607005,
+          44.0511234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13025667957,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6184515,
+          44.034817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13033307428,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5748229,
+          44.0664924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13033307429,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5748677,
+          44.0664916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13033307431,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5747306,
+          44.0663862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13033307432,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5747374,
+          44.0663499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13040677440,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53821,
+          44.0828022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13040677441,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5381592,
+          44.0827679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13040677464,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5387111,
+          44.0826176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13040677473,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5388233,
+          44.0830508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13064789336,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5804429,
+          44.0600452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13064821013,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5140318,
+          44.0893617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13088998189,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5759289,
+          44.0586993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13089271300,
+        "tipo": "opera_arte",
+        "name": "Pescatori",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5642397,
+          44.0643833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13120728866,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5706178,
+          44.057141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13136022601,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5639546,
+          44.0601199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13136024901,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5640413,
+          44.0602023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336175,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538937,
+          44.0221596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336190,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4546445,
+          44.0221332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336191,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4542042,
+          44.0218128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336192,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4533824,
+          44.0219979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336194,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538572,
+          44.0226459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13188533924,
+        "tipo": "panchina",
+        "name": "",
+        "material": "wood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.562493,
+          44.0629303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13188544740,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5580156,
+          44.0626152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13188562164,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5622165,
+          44.0630646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13188576215,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.560039,
+          44.0639619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13188591106,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5560703,
+          44.0622525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13188602436,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5572339,
+          44.0619917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13188602437,
+        "tipo": "cestino",
+        "name": "",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.557351,
+          44.0619753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13320076386,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6067835,
+          44.0451786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13350960685,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588061,
+          44.0586291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13350967508,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866011,
+          44.0577485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13350967509,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5873022,
+          44.0574186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13352623829,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881416,
+          44.057543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13352623830,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881609,
+          44.0575267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13352623831,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588184,
+          44.057515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358792412,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588278,
+          44.055491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358792413,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5883536,
+          44.055412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358792414,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886864,
+          44.0550578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358892197,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5847688,
+          44.0641227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358892198,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5847147,
+          44.0641681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13361000599,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5508651,
+          44.0604531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13361000600,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5510141,
+          44.0605842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13361045240,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890218,
+          44.054409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13361045244,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886661,
+          44.054554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13361045247,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5889563,
+          44.0547479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13361045248,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890717,
+          44.0546261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13363154208,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5899881,
+          44.0591491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13363154212,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5904784,
+          44.0599754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13363154213,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890293,
+          44.0612235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13363154218,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886309,
+          44.0613927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13363154220,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886544,
+          44.0604648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13363154221,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886622,
+          44.0604585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13369163382,
+        "tipo": "opera_arte",
+        "name": "La rinocerontessa felliniana",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5653632,
+          44.0613801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13369222701,
+        "tipo": "opera_arte",
+        "name": "Lanterne dedicate a Tolstoj",
+        "material": "iron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5644516,
+          44.0595676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371292298,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866745,
+          44.0569867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371338359,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5874328,
+          44.0624212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371338371,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880028,
+          44.0621635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371338378,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881121,
+          44.0616856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371338379,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588209,
+          44.0620947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371338380,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880909,
+          44.0621171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371338381,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5877391,
+          44.0624599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371338392,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5865666,
+          44.0624806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13373469473,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903183,
+          44.0599632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13397013966,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590886,
+          44.059925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13397013967,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5913435,
+          44.0594763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13399309230,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5610958,
+          44.0511784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13399309231,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5610378,
+          44.0511373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13399309232,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5611308,
+          44.0512102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175369,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5918432,
+          44.0587494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175370,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5918377,
+          44.0587355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175372,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5923196,
+          44.0582806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175373,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5923882,
+          44.0582149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175374,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5921158,
+          44.0584813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175375,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5920355,
+          44.0585466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175378,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5928676,
+          44.0577556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408175379,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5929376,
+          44.0577001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412653900,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884143,
+          44.0615272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412665693,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5897752,
+          44.05933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699301,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881691,
+          44.0618082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699302,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881426,
+          44.0618193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699304,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5877881,
+          44.0621058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699305,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5878002,
+          44.0620852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415105385,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5899315,
+          44.0603284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415105397,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5896632,
+          44.0606999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415113308,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5735698,
+          44.0724896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13417429832,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851749,
+          44.0635477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13417429833,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851766,
+          44.0635017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447917,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5888479,
+          44.0614673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447926,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5887184,
+          44.061525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447935,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5885756,
+          44.0617007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447978,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880862,
+          44.0624076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447979,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880348,
+          44.0624477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447980,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880011,
+          44.0624821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13426257961,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5649554,
+          44.0702375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13426296424,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5673273,
+          44.0622733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13428914225,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563593,
+          44.0666748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13430152980,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5690846,
+          44.0586984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13431983187,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5660523,
+          44.062365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13431983188,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5659987,
+          44.0624063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13431983189,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5659987,
+          44.0624583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13432005136,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5654083,
+          44.0481953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13441837082,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5918093,
+          44.0577521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13461802798,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737742,
+          44.0425023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820001,
+        "tipo": "fontanella",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311013,
+          44.0838273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820002,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531133,
+          44.083817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820003,
+        "tipo": "cestino",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311239,
+          44.0838274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984079,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5997981,
+          44.0402361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052059,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5972969,
+          44.0395812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052060,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5972711,
+          44.0395651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551205428,
+        "tipo": "rastrelliera_bici",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5631196,
+          44.0610917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563604670,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5870679,
+          44.0474416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563604671,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587115,
+          44.0473278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563604672,
+        "tipo": "panchina",
+        "name": "",
+        "material": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5872459,
+          44.0472696
+        ]
+      }
+    }
+  ]
+}

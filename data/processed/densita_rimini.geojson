@@ -1,0 +1,332 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro Storico",
+        "popolazione": 8500,
+        "densita_ab_kmq": 4200,
+        "eta_0_14": 765,
+        "eta_15_64": 5414,
+        "eta_65_plus": 2320,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548,
+          44.059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Marina Centro",
+        "popolazione": 12000,
+        "densita_ab_kmq": 5800,
+        "eta_0_14": 1080,
+        "eta_15_64": 7644,
+        "eta_65_plus": 3276,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.542,
+          44.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Miramare",
+        "popolazione": 9800,
+        "densita_ab_kmq": 3900,
+        "eta_0_14": 882,
+        "eta_15_64": 6243,
+        "eta_65_plus": 2675,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rivabella",
+        "popolazione": 7200,
+        "densita_ab_kmq": 3100,
+        "eta_0_14": 648,
+        "eta_15_64": 4586,
+        "eta_65_plus": 1966,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54,
+          44.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Viserba",
+        "popolazione": 11000,
+        "densita_ab_kmq": 2800,
+        "eta_0_14": 990,
+        "eta_15_64": 7007,
+        "eta_65_plus": 3003,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Viserbella",
+        "popolazione": 6500,
+        "densita_ab_kmq": 2200,
+        "eta_0_14": 585,
+        "eta_15_64": 4140,
+        "eta_65_plus": 1775,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51,
+          44.101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Torre Pedrera",
+        "popolazione": 5800,
+        "densita_ab_kmq": 1900,
+        "eta_0_14": 522,
+        "eta_15_64": 3695,
+        "eta_65_plus": 1583,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.505,
+          44.114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Spadarolo",
+        "popolazione": 4200,
+        "densita_ab_kmq": 890,
+        "eta_0_14": 378,
+        "eta_15_64": 2675,
+        "eta_65_plus": 1147,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.518,
+          44.096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Vergiano",
+        "popolazione": 3100,
+        "densita_ab_kmq": 650,
+        "eta_0_14": 279,
+        "eta_15_64": 1975,
+        "eta_65_plus": 846,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.503,
+          44.083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "San Giuliano",
+        "popolazione": 9200,
+        "densita_ab_kmq": 4100,
+        "eta_0_14": 828,
+        "eta_15_64": 5860,
+        "eta_65_plus": 2512,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545,
+          44.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Borgo San Giovanni",
+        "popolazione": 7800,
+        "densita_ab_kmq": 3200,
+        "eta_0_14": 702,
+        "eta_15_64": 4969,
+        "eta_65_plus": 2129,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Corpolò",
+        "popolazione": 2800,
+        "densita_ab_kmq": 480,
+        "eta_0_14": 252,
+        "eta_15_64": 1784,
+        "eta_65_plus": 764,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.508,
+          44.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Gaiofana",
+        "popolazione": 2100,
+        "densita_ab_kmq": 320,
+        "eta_0_14": 189,
+        "eta_15_64": 1338,
+        "eta_65_plus": 573,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525,
+          44.037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Grotta Rossa",
+        "popolazione": 3400,
+        "densita_ab_kmq": 720,
+        "eta_0_14": 306,
+        "eta_15_64": 2166,
+        "eta_65_plus": 928,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.535,
+          44.027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Covignano",
+        "popolazione": 4100,
+        "densita_ab_kmq": 980,
+        "eta_0_14": 369,
+        "eta_15_64": 2612,
+        "eta_65_plus": 1119,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528,
+          44.047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Comune di Rimini - TOTALE",
+        "popolazione_totale": 150755,
+        "maschi": 72890,
+        "femmine": 77865,
+        "eta_0_14": 13568,
+        "eta_15_64": 95978,
+        "eta_65_plus": 41209,
+        "eta_media": 46.2,
+        "stranieri": 21106,
+        "nuclei_familiari": 72340,
+        "dimensione_media_famiglia": 2.08,
+        "densita_abitanti_kmq": 665,
+        "superficie_kmq": 135.7,
+        "anno": 2023,
+        "fonte": "ISTAT - Rimini in cifre 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.059
+        ]
+      }
+    }
+  ]
+}

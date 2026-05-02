@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rimini Dashboard — SBL Consultancy</title>
+  <script src="https://unpkg.com/maplibre-gl@4.5.0/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@4.5.0/dist/maplibre-gl.css" rel="stylesheet"/>
+  <script src="https://unpkg.com/pmtiles@3.2.0/dist/pmtiles.js"></script>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+
+<div id="map"></div>
+
+<!-- SIDEBAR -->
+<div id="sidebar">
+  <div id="sidebar-header">
+    <img src="img/logo_sbl.jpg" alt="SBL"/>
+    <div><h2>Rimini Dashboard</h2><span>SBL Consultancy</span></div>
+  </div>
+
+  <div class="sidebar-scroll">
+
+    <!-- ── TERRITORIO ──────────────────────────────────── -->
+    <div class="layer-group">
+      <h3> Territorio</h3>
+      <label>
+        <input type="checkbox" id="cb-confini" onchange="toggleLayer('confini', this.checked)"/>
+        <span class="dot" style="background:#e94560"></span>Confini amministrativi
+      </label>
+      <label>
+        <input type="checkbox" id="cb-catasto" onchange="toggleLayer('catasto', this.checked)"/>
+        <span class="dot" style="background:#ccff00"></span>Particelle catastali
+        <small id="catasto-lod-hint" style="display:none;color:#f5a623;font-size:9px;margin-left:4px;">⚠ zoom in</small>
+      </label>
+      <label>
+        <input type="checkbox" id="cb-edifici" onchange="toggleLayer('edifici', this.checked)"/>
+        <span class="dot" style="background:#f5a623"></span>Edifici
+      </label>
+      <!-- Uso del suolo + sottoflag -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-uso-suolo" onchange="toggleLayer('uso-suolo', this.checked)"/>
+          <span class="dot" style="background:#66bb66"></span>Uso del suolo
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-uso-suolo',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-uso-suolo">
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="residential"  onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#f5e6a3"></span>Residenziale</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="commercial"   onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#f5a623"></span>Commerciale</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="retail"       onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#e8604c"></span>Negozi / Retail</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="industrial"   onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#808080"></span>Industriale</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="farmland"     onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#c8b87a"></span>Terreni agricoli</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="meadow"       onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#a8d58a"></span>Prati / Pascoli</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="grass"        onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#b8e6a0"></span>Aree erbose</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="forest"       onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#3a7a3a"></span>Boschi</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="park"         onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#60c070"></span>Parchi pubblici</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="cemetery"     onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#4a7a4a"></span>Cimiteri</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="religious"    onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#7ab8d8"></span>Aree religiose</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="construction" onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#c8843c"></span>Cantieri</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="education"    onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#7090e0"></span>Istruzione</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="orchard"      onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#d4e870"></span>Frutteti</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="allotments"   onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#b8d890"></span>Orti urbani</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="basin"        onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#4a90d9"></span>Bacini idrici</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="military"     onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#8b4513"></span>Zone militari</label>
+          <label><input type="checkbox" class="sub-uso-suolo" data-field="landuse" data-val="brownfield"   onchange="applySubFilter('uso-suolo')"/><span class="dot" style="background:#a06030"></span>Aree dismesse</label>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── INFRASTRUTTURE ─────────────────────────────── -->
+    <div class="layer-group">
+      <h3> Infrastrutture</h3>
+      <!-- Rete stradale + sottoflag -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-strade" onchange="toggleLayer('strade', this.checked)"/>
+          <span class="dot" style="background:#dddddd"></span>Rete stradale
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-strade',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-strade">
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="motorway"     onchange="applySubFilter('strade')"/><span class="dot" style="background:#e892a2"></span>Autostrada</label>
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="trunk"        onchange="applySubFilter('strade')"/><span class="dot" style="background:#fda29b"></span>Superstrada</label>
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="primary"      onchange="applySubFilter('strade')"/><span class="dot" style="background:#fcd6a4"></span>Strada primaria</label>
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="secondary"    onchange="applySubFilter('strade')"/><span class="dot" style="background:#f7fabf"></span>Strada secondaria</label>
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="tertiary"     onchange="applySubFilter('strade')"/><span class="dot" style="background:#ffffff"></span>Strada terziaria</label>
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="residential"  onchange="applySubFilter('strade')"/><span class="dot" style="background:#cccccc"></span>Strada residenziale</label>
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="service"      onchange="applySubFilter('strade')"/><span class="dot" style="background:#aaaaaa"></span>Strada di servizio</label>
+          <label><input type="checkbox" class="sub-strade" data-field="highway" data-val="unclassified" onchange="applySubFilter('strade')"/><span class="dot" style="background:#bbbbbb"></span>Non classificata</label>
+        </div>
+      </div>
+      <label>
+        <input type="checkbox" id="cb-ciclabili" onchange="toggleLayer('ciclabili', this.checked)"/>
+        <span class="dot" style="background:#00ff88"></span>Piste ciclabili
+      </label>
+      <label>
+        <input type="checkbox" id="cb-parcheggi" onchange="toggleLayer('parcheggi', this.checked)"/>
+        <span class="dot" style="background:#4a90d9"></span>Parcheggi
+      </label>
+      <label>
+        <input type="checkbox" id="cb-illuminazione" onchange="toggleLayer('illuminazione', this.checked)"/>
+        <span class="dot" style="background:#ffff44"></span>Illuminazione pubblica
+      </label>
+      <!-- Arredo urbano + sottoflag -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-arredo-urbano" onchange="toggleLayer('arredo-urbano', this.checked)"/>
+          <span class="dot" style="background:#ff8c00"></span>Arredo urbano
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-arredo-urbano',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-arredo-urbano">
+          <label><input type="checkbox" class="sub-arredo-urbano" data-field="tipo" data-val="panchina"          onchange="applySubFilter('arredo-urbano')"/><span class="dot" style="background:#8b6914"></span>Panchine</label>
+          <label><input type="checkbox" class="sub-arredo-urbano" data-field="tipo" data-val="cestino"           onchange="applySubFilter('arredo-urbano')"/><span class="dot" style="background:#888888"></span>Cestini</label>
+          <label><input type="checkbox" class="sub-arredo-urbano" data-field="tipo" data-val="fontanella"        onchange="applySubFilter('arredo-urbano')"/><span class="dot" style="background:#4a90d9"></span>Fontanelle</label>
+          <label><input type="checkbox" class="sub-arredo-urbano" data-field="tipo" data-val="fontana"           onchange="applySubFilter('arredo-urbano')"/><span class="dot" style="background:#00aaff"></span>Fontane</label>
+          <label><input type="checkbox" class="sub-arredo-urbano" data-field="tipo" data-val="opera_arte"        onchange="applySubFilter('arredo-urbano')"/><span class="dot" style="background:#cc44ff"></span>Opere d'arte</label>
+          <label><input type="checkbox" class="sub-arredo-urbano" data-field="tipo" data-val="rastrelliera_bici" onchange="applySubFilter('arredo-urbano')"/><span class="dot" style="background:#00ff88"></span>Rastrelliere bici</label>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── POPOLAZIONE ────────────────────────────────── -->
+    <div class="layer-group">
+      <h3> Popolazione</h3>
+      <label>
+        <input type="checkbox" id="cb-quartieri" onchange="toggleLayer('quartieri', this.checked)"/>
+        <span class="dot" style="background:#00ccff"></span>Quartieri
+      </label>
+      <label>
+        <input type="checkbox" id="cb-zone-topo" onchange="toggleLayer('zone-topo', this.checked)"/>
+        <span class="dot" style="background:#00e5ff"></span>Zone toponomastiche
+      </label>
+    </div>
+
+    <!-- ── MOBILITÀ ───────────────────────────────────── -->
+    <div class="layer-group">
+      <h3> Mobilità</h3>
+      <label>
+        <input type="checkbox" id="cb-tpl" onchange="toggleLayer('tpl', this.checked)"/>
+        <span class="dot" style="background:#aa44ff"></span>Trasporto pubblico
+      </label>
+      <label>
+        <input type="checkbox" id="cb-incidenti" onchange="toggleLayer('incidenti', this.checked)"/>
+        <span class="dot" style="background:#ff4444"></span>Sicurezza stradale
+      </label>
+    </div>
+
+    <!-- ── AMBIENTE ───────────────────────────────────── -->
+    <div class="layer-group">
+      <h3> Ambiente</h3>
+      <!-- Rumore + sottoflag -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-rumore" onchange="toggleLayer('rumore', this.checked)"/>
+          <span class="dot" style="background:#ff44aa"></span>Rumore urbano
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-rumore',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-rumore">
+          <label><input type="checkbox" class="sub-rumore" data-field="tipo" data-val="discoteca"       onchange="applySubFilter('rumore')"/><span class="dot" style="background:#ff44aa"></span>Discoteche</label>
+          <label><input type="checkbox" class="sub-rumore" data-field="tipo" data-val="locale_notturno" onchange="applySubFilter('rumore')"/><span class="dot" style="background:#aa44ff"></span>Locali notturni</label>
+          <label><input type="checkbox" class="sub-rumore" data-field="tipo" data-val="aeroporto"       onchange="applySubFilter('rumore')"/><span class="dot" style="background:#ff6600"></span>Aeroporto</label>
+          <label><input type="checkbox" class="sub-rumore" data-field="tipo" data-val="ferrovia"        onchange="applySubFilter('rumore')"/><span class="dot" style="background:#888888"></span>Ferrovia</label>
+          <label><input type="checkbox" class="sub-rumore" data-field="tipo" data-val="autostrada"      onchange="applySubFilter('rumore')"/><span class="dot" style="background:#aaaaaa"></span>Autostrada</label>
+        </div>
+      </div>
+      <!-- Energia + sottoflag -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-energia" onchange="toggleLayer('energia', this.checked)"/>
+          <span class="dot" style="background:#ffee00"></span>Energia
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-energia',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-energia">
+          <label><input type="checkbox" class="sub-energia" data-field="tipo" data-val="colonnina_ricarica" onchange="applySubFilter('energia')"/><span class="dot" style="background:#00ff88"></span>Colonnine ricarica</label>
+          <label><input type="checkbox" class="sub-energia" data-field="tipo" data-val="pannello_solare"    onchange="applySubFilter('energia')"/><span class="dot" style="background:#ffee00"></span>Pannelli solari</label>
+          <label><input type="checkbox" class="sub-energia" data-field="tipo" data-val="turbina_eolica"     onchange="applySubFilter('energia')"/><span class="dot" style="background:#00ccff"></span>Turbine eoliche</label>
+          <label><input type="checkbox" class="sub-energia" data-field="tipo" data-val="cabina_elettrica"   onchange="applySubFilter('energia')"/><span class="dot" style="background:#ff9900"></span>Cabine elettriche</label>
+          <label><input type="checkbox" class="sub-energia" data-field="tipo" data-val="centrale_elettrica" onchange="applySubFilter('energia')"/><span class="dot" style="background:#ff4400"></span>Centrali elettriche</label>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── SERVIZI E POI ──────────────────────────────── -->
+    <div class="layer-group">
+      <h3> Servizi e POI</h3>
+      <label>
+        <input type="checkbox" id="cb-scuole" onchange="toggleLayer('scuole', this.checked)"/>
+        <span class="dot" style="background:#4488ff"></span>Scuole
+      </label>
+      <!-- Ospedali + sottoflag (rimosso: altro) -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-ospedali" onchange="toggleLayer('ospedali', this.checked)"/>
+          <span class="dot" style="background:#ff4444"></span>Ospedali e sanità
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-ospedali',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-ospedali">
+          <label><input type="checkbox" class="sub-ospedali" data-field="tipo" data-val="ospedale" onchange="applySubFilter('ospedali')"/><span class="dot" style="background:#ff4444"></span>Ospedali</label>
+          <label><input type="checkbox" class="sub-ospedali" data-field="tipo" data-val="clinica"  onchange="applySubFilter('ospedali')"/><span class="dot" style="background:#ff8888"></span>Cliniche</label>
+          <label><input type="checkbox" class="sub-ospedali" data-field="tipo" data-val="farmacia" onchange="applySubFilter('ospedali')"/><span class="dot" style="background:#00cc44"></span>Farmacie</label>
+          <label><input type="checkbox" class="sub-ospedali" data-field="tipo" data-val="medico"   onchange="applySubFilter('ospedali')"/><span class="dot" style="background:#ff9900"></span>Medici</label>
+        </div>
+      </div>
+      <!-- Monumenti + sottoflag (rimossi: statue, musei, rovine, memoriali) -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-monumenti" onchange="toggleLayer('monumenti', this.checked)"/>
+          <span class="dot" style="background:#ffd700"></span>Monumenti
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-monumenti',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-monumenti">
+          <label><input type="checkbox" class="sub-monumenti" data-field="tipo" data-val="monumento" onchange="applySubFilter('monumenti')"/><span class="dot" style="background:#ffd700"></span>Monumenti</label>
+          <label><input type="checkbox" class="sub-monumenti" data-field="tipo" data-val="castello"  onchange="applySubFilter('monumenti')"/><span class="dot" style="background:#8b4513"></span>Castelli</label>
+          <label><input type="checkbox" class="sub-monumenti" data-field="tipo" data-val="chiesa"    onchange="applySubFilter('monumenti')"/><span class="dot" style="background:#7ab8d8"></span>Chiese</label>
+        </div>
+      </div>
+      <label>
+        <input type="checkbox" id="cb-defibrillatori" onchange="toggleLayer('defibrillatori', this.checked)"/>
+        <span class="dot" style="background:#ff0000"></span>Defibrillatori
+      </label>
+      <!-- Edifici pubblici + sottoflag (rimosso: tribunale) -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-edifici-pubblici" onchange="toggleLayer('edifici-pubblici', this.checked)"/>
+          <span class="dot" style="background:#4a90d9"></span>Edifici pubblici
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-edifici-pubblici',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-edifici-pubblici">
+          <label><input type="checkbox" class="sub-edifici-pubblici" data-field="tipo" data-val="municipio"           onchange="applySubFilter('edifici-pubblici')"/><span class="dot" style="background:#e94560"></span>Municipio</label>
+          <label><input type="checkbox" class="sub-edifici-pubblici" data-field="tipo" data-val="ufficio_postale"     onchange="applySubFilter('edifici-pubblici')"/><span class="dot" style="background:#f5a623"></span>Uffici postali</label>
+          <label><input type="checkbox" class="sub-edifici-pubblici" data-field="tipo" data-val="polizia"             onchange="applySubFilter('edifici-pubblici')"/><span class="dot" style="background:#4488ff"></span>Polizia</label>
+          <label><input type="checkbox" class="sub-edifici-pubblici" data-field="tipo" data-val="vigili_del_fuoco"    onchange="applySubFilter('edifici-pubblici')"/><span class="dot" style="background:#ff6600"></span>Vigili del fuoco</label>
+          <label><input type="checkbox" class="sub-edifici-pubblici" data-field="tipo" data-val="ufficio_governativo" onchange="applySubFilter('edifici-pubblici')"/><span class="dot" style="background:#00ccff"></span>Uffici gov.</label>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── TURISMO & EVENTI ───────────────────────────── -->
+    <div class="layer-group">
+      <h3> Turismo &amp; Eventi</h3>
+      <label>
+        <input type="checkbox" id="cb-balneari" onchange="toggleLayer('balneari', this.checked)"/>
+        <span class="dot" style="background:#00e5ff"></span>Stabilimenti balneari
+      </label>
+      <label>
+        <input type="checkbox" id="cb-ricettive" onchange="toggleLayer('ricettive', this.checked)"/>
+        <span class="dot" style="background:#44ddff"></span>Strutture ricettive
+      </label>
+      <!-- Luoghi eventi + sottoflag (rimosso: arena) -->
+      <div class="layer-with-sub">
+        <label>
+          <input type="checkbox" id="cb-eventi" onchange="toggleLayer('eventi', this.checked)"/>
+          <span class="dot" style="background:#cc44ff"></span>Luoghi eventi
+          <button class="sub-toggle" onclick="event.preventDefault();toggleSub('sub-eventi',this)">▶</button>
+        </label>
+        <div class="sub-items" id="sub-eventi">
+          <label><input type="checkbox" class="sub-eventi" data-field="tipo" data-val="teatro"           onchange="applySubFilter('eventi')"/><span class="dot" style="background:#cc44ff"></span>Teatri</label>
+          <label><input type="checkbox" class="sub-eventi" data-field="tipo" data-val="cinema"           onchange="applySubFilter('eventi')"/><span class="dot" style="background:#ff6600"></span>Cinema</label>
+          <label><input type="checkbox" class="sub-eventi" data-field="tipo" data-val="centro_congressi" onchange="applySubFilter('eventi')"/><span class="dot" style="background:#4a90d9"></span>Centri congressi</label>
+          <label><input type="checkbox" class="sub-eventi" data-field="tipo" data-val="stadio"           onchange="applySubFilter('eventi')"/><span class="dot" style="background:#00ff88"></span>Stadi</label>
+          <label><input type="checkbox" class="sub-eventi" data-field="tipo" data-val="palazzetto"       onchange="applySubFilter('eventi')"/><span class="dot" style="background:#00ccff"></span>Palazzetti</label>
+          <label><input type="checkbox" class="sub-eventi" data-field="tipo" data-val="centro_arte"      onchange="applySubFilter('eventi')"/><span class="dot" style="background:#ff44aa"></span>Centri arte</label>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- sidebar-scroll -->
+</div><!-- sidebar -->
+
+<!-- PULSANTE GRAFICI -->
+<button id="toggle-charts" onclick="toggleCharts()">📊</button>
+
+<!-- PANNELLO GRAFICI -->
+<div id="charts-panel">
+  <div id="charts-header">
+    <h3> Analisi Statistiche</h3>
+    <button onclick="toggleCharts()">✕</button>
+  </div>
+
+  <!-- ── GRAFICI ESISTENTI ────────────────────────────── -->
+  <div class="chart-section">
+    <h4>Popolazione per Quartiere</h4>
+    <div class="chart-tabs">
+      <button class="tab-btn active" onclick="switchPop('bar')">Barre</button>
+      <button class="tab-btn" onclick="switchPop('pie')">Torta</button>
+    </div>
+    <canvas id="chart-popolazione"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Flussi Turistici Mensili</h4>
+    <div class="chart-tabs">
+      <button class="tab-btn active" onclick="switchTurismo('arrivi')">Arrivi</button>
+      <button class="tab-btn" onclick="switchTurismo('presenze')">Presenze</button>
+    </div>
+    <canvas id="chart-turismo"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Uso del Suolo — Superficie (ha)</h4>
+    <canvas id="chart-suolo"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Edifici per Tipo</h4>
+    <canvas id="chart-edifici"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Km Strade per Tipo</h4>
+    <canvas id="chart-strade-km"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Strade vs Piste Ciclabili (km)</h4>
+    <canvas id="chart-confronto-strade"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Rimini vs Media Nazionale — Ciclabili</h4>
+    <small style="color:#888;padding:0 4px;display:block;margin-bottom:7px;">km ciclabili per 100km di strade</small>
+    <canvas id="chart-benchmark"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Parcheggi per Tipo</h4>
+    <canvas id="chart-parcheggi-tipo"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Distribuzione Parcheggi per Zona</h4>
+    <canvas id="chart-parcheggi-zona"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Distribuzione Limiti di Velocità</h4>
+    <canvas id="chart-traffico-velocita"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Distribuzione per Numero di Corsie</h4>
+    <canvas id="chart-traffico-corsie"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Sicurezza Stradale</h4>
+    <canvas id="chart-sicurezza"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Trasporto Pubblico per Tipo</h4>
+    <canvas id="chart-tpl-tipi"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <div class="chart-section">
+    <h4>Fermate per Operatore</h4>
+    <canvas id="chart-tpl-operatori"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <!-- ── 5 NUOVI GRAFICI ──────────────────────────────── -->
+
+  <!-- 1. Radar Sostenibilità -->
+  <div class="chart-section">
+    <h4> Profilo Sostenibilità Urbana</h4>
+    <small style="color:#888;padding:0 4px;display:block;margin-bottom:7px;">Rimini vs Media Italiana — indicatori 0–10</small>
+    <canvas id="chart-radar-sostenibilita"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <!-- 2. Polar Area Arredo Urbano -->
+  <div class="chart-section">
+    <h4> Distribuzione Arredo Urbano</h4>
+    <canvas id="chart-arredo-polar"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <!-- 3. Bubble Demografica -->
+  <div class="chart-section">
+    <h4>Profilo Demografico per Quartiere</h4>
+    <small style="color:#888;padding:0 4px;display:block;margin-bottom:7px;">X = % anziani (65+) · Y = % giovani (0–14) · Bolla = popolazione</small>
+    <canvas id="chart-bubble-demo"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <!-- 4. Soggiorno medio mensile -->
+  <div class="chart-section">
+    <h4> Durata Media Soggiorno Turistico</h4>
+    <small style="color:#888;padding:0 4px;display:block;margin-bottom:7px;">Giorni medi per mese (presenze ÷ arrivi)</small>
+    <canvas id="chart-soggiorno-medio"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <!-- 5. Servizi per zona -->
+  <div class="chart-section">
+    <h4> Servizi Essenziali per Zona</h4>
+    <small style="color:#888;padding:0 4px;display:block;margin-bottom:7px;">Scuole · Sanità · Monumenti · Edifici pubblici</small>
+    <canvas id="chart-servizi-zona"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <!-- 6. Rumore per zona -->
+  <div class="chart-section">
+    <h4> Pressione Acustica per Zona</h4>
+    <small style="color:#888;padding:0 4px;display:block;margin-bottom:7px;">Sorgenti di rumore per area geografica</small>
+    <canvas id="chart-rumore-zona"></canvas>
+  </div>
+  <hr class="chart-divider"/>
+
+  <!-- 7. Energia benchmark -->
+  <div class="chart-section">
+    <h4> Infrastrutture Energetiche — Rimini vs Italia</h4>
+    <small style="color:#888;padding:0 4px;display:block;margin-bottom:7px;">Impianti per 100.000 abitanti · linea = media nazionale</small>
+    <canvas id="chart-energia-benchmark"></canvas>
+  </div>
+
+</div><!-- charts-panel -->
+
+<!-- PERFORMANCE PANEL -->
+<div id="perf-panel">
+  <h4> Performance</h4>
+  <div class="perf-row"><span>Layer attivi</span><span id="perf-layers">0</span></div>
+  <div class="perf-row"><span>Features caricate</span><span id="perf-features">0</span></div>
+  <div class="perf-row"><span>Ultimo caricamento</span><span id="perf-time">—</span></div>
+  <div class="perf-row"><span>FPS stimati</span><span id="perf-fps">—</span></div>
+  <div class="perf-row"><span>Renderer</span><span style="color:#4a90d9">MapLibre GL 4.5</span></div>
+</div>
+
+<!-- LOAD INDICATOR -->
+<div id="load-indicator">
+  <div class="spinner"></div>
+  <strong id="load-name">Caricamento...</strong>
+  <p id="load-time"></p>
+</div>
+
+<script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+{
+  "uso_suolo": {
+    "superfici_ha": {
+      "construction": 44.9,
+      "grass": 280.3,
+      "cemetery": 16.5,
+      "commercial": 130.2,
+      "residential": 555.2,
+      "industrial": 238.9,
+      "education": 3.5,
+      "military": 2.4,
+      "retail": 50.7,
+      "basin": 4.8,
+      "recreation_ground": 0.4,
+      "depot": 2.7,
+      "reservoir": 0.1,
+      "religious": 15.6,
+      "farmland": 742.6,
+      "allotments": 1.7,
+      "railway": 14.2,
+      "orchard": 11.1,
+      "meadow": 76.1,
+      "greenhouse_horticulture": 4.1,
+      "brownfield": 11.7,
+      "plant_nursery": 1.8,
+      "flowerbed": 0.1,
+      "quarry": 16.6,
+      "greenfield": 16.6,
+      "forest": 14.7
+    },
+    "conteggi": {
+      "construction": 30,
+      "grass": 444,
+      "cemetery": 12,
+      "commercial": 94,
+      "residential": 563,
+      "industrial": 42,
+      "education": 1,
+      "military": 6,
+      "retail": 62,
+      "basin": 1,
+      "recreation_ground": 2,
+      "depot": 3,
+      "reservoir": 1,
+      "religious": 23,
+      "farmland": 254,
+      "allotments": 3,
+      "railway": 1,
+      "orchard": 11,
+      "meadow": 49,
+      "greenhouse_horticulture": 20,
+      "brownfield": 12,
+      "plant_nursery": 2,
+      "flowerbed": 5,
+      "quarry": 1,
+      "greenfield": 20,
+      "forest": 5
+    },
+    "top10_superficie": [
+      {
+        "tipo": "farmland",
+        "ha": 742.6
+      },
+      {
+        "tipo": "residential",
+        "ha": 555.2
+      },
+      {
+        "tipo": "grass",
+        "ha": 280.3
+      },
+      {
+        "tipo": "industrial",
+        "ha": 238.9
+      },
+      {
+        "tipo": "commercial",
+        "ha": 130.2
+      },
+      {
+        "tipo": "meadow",
+        "ha": 76.1
+      },
+      {
+        "tipo": "retail",
+        "ha": 50.7
+      },
+      {
+        "tipo": "construction",
+        "ha": 44.9
+      },
+      {
+        "tipo": "quarry",
+        "ha": 16.6
+      },
+      {
+        "tipo": "greenfield",
+        "ha": 16.6
+      }
+    ]
+  },
+  "edifici": {
+    "tipi_totali": {
+      "yes": 22208,
+      "apartments": 670,
+      "industrial": 443,
+      "service": 127,
+      "roof": 124,
+      "hotel": 117,
+      "farm": 105,
+      "commercial": 100,
+      "school": 73,
+      "church": 56,
+      "detached": 40,
+      "house": 36,
+      "retail": 32,
+      "residential": 26,
+      "construction": 21
+    },
+    "edifici_per_quartiere": {},
+    "tipi_per_quartiere": {}
+  }
+}

@@ -1,0 +1,4181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 51 \"BAGNO STEFANO N. 51\"",
+        "numero": "65",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525146015127222,
+          44.09778703254156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 19 \"BAGNO BRUNO 19\"",
+        "numero": "75",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545123519304669,
+          44.08372862006708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 148/A \"BAGNO 148/A\"",
+        "numero": "26",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Miramare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.625128984840755,
+          44.02986486523129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO BLUE GARDEN (RIMINI TERME)\"",
+        "numero": "56",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Miramare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.627972171179298,
+          44.02716653736152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO SPIAGGIA GRAND HOTEL RIMINI\"",
+        "numero": "14",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578375518991848,
+          44.073748057568125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO MAESTRALE\"",
+        "numero": "2",
+        "indirizzo": "VIALE ORTIGARA",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56491771268027,
+          44.075694149375295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO TRAMONTANA\"",
+        "numero": "48",
+        "indirizzo": "VIALE ORTIGARA",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566308119087076,
+          44.07540755801986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO LIBECCIO\"",
+        "numero": "74",
+        "indirizzo": "VIALE ORTIGARA",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568861216725368,
+          44.07567429459653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 28/A \"BAGNO BELVEDERE\"",
+        "numero": "34",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583352725254462,
+          44.06801410637236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO SPIAGGIA NETTUNO\"",
+        "numero": "2",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583758385652478,
+          44.067796060381546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 29 \"BAGNO PALM BEACH\"",
+        "numero": "2",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58393192627363,
+          44.06741958269954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 30 \"BAGNO 30\"",
+        "numero": "2",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.584168195592493,
+          44.06718269955845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 31 \"BAGNO COLOMBO\"",
+        "numero": "4",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58443305212246,
+          44.06693027841859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 32 \"BAGNO LA FENICE\"",
+        "numero": "4",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.584654949037157,
+          44.06673780789909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 33 \"BAGNO BEACH 33\"",
+        "numero": "4",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.584823717258326,
+          44.06654345685327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 34 \"BAGNO ALTA MAREA\"",
+        "numero": "6",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585096552724139,
+          44.06623656392293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 35 \"BAGNO 35\"",
+        "numero": "6",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585508732747071,
+          44.06583966154694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 36 \"BAGNO 36\"",
+        "numero": "8",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585770513268784,
+          44.06558367903433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 37 \"BAGNO 37\"",
+        "numero": "8",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585939125253173,
+          44.065408346261016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 38 \"BAGNO MARCO\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586125910527953,
+          44.06525187154097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 39 \"BAGNO CARLO\"",
+        "numero": "12",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586505768535456,
+          44.064880939919114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 40 \"BAGNO MARINA LIDO\"",
+        "numero": "12",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586721930419051,
+          44.06463200349443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 41 \"BAGNO LUCIO\"",
+        "numero": "14",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587091201856298,
+          44.064258388302335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 42 \"BAGNO RIMINI\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587436620568749,
+          44.0639041374259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 43 \"BAGNO ONDA\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587689452646451,
+          44.06366146578232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 44 \"BAGNO PINO\"",
+        "numero": "18",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587921674886193,
+          44.06341342453484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 45 \"BAGNO 45\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58821650347604,
+          44.063123130910505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 46 \"BAGNO EAST COAST\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58840526719395,
+          44.06294343950444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 47 \"BAGNO LE SPIAGGE\"",
+        "numero": "22",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588761459301827,
+          44.06257408001886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 48 \"BAGNO LE SPIAGGE\"",
+        "numero": "24",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588977918806325,
+          44.062342881348584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 49 \"BAGNO LE SPIAGGE\"",
+        "numero": "26",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589262959739646,
+          44.06204461771187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 50 \"BAGNO LE SPIAGGE\"",
+        "numero": "26",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589528570937109,
+          44.061783557566045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 51 \"BAGNO LIDO CENTER\"",
+        "numero": "28",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58982551789876,
+          44.0614754335119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 52 \"BAGNO 52\"",
+        "numero": "28",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589960587426717,
+          44.06134613002542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 53 \"BAGNO LE SPIAGGE\"",
+        "numero": "30",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590275811122126,
+          44.06103485239169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 54 \"BAGNO LE SPIAGGE\"",
+        "numero": "32",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590544377240596,
+          44.0607930465343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 55 \"BAGNO CINQUANTACINQUE\"",
+        "numero": "32",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590862124755096,
+          44.06044926575058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 56 \"BAGNO 56\"",
+        "numero": "34",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59113285668788,
+          44.06016810716026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 57 \"BAGNO NEW BEACH MIRANDA\"",
+        "numero": "36",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591435491391332,
+          44.05986339390631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 58 \"BAGNO LE SPIAGGE\"",
+        "numero": "38",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591558484745132,
+          44.0597709259959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 59 \"BAGNO LE SPIAGGE\"",
+        "numero": "40",
+        "indirizzo": "LUNGOMARE MURRI",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591810302350192,
+          44.05948714304193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 60 \"BAGNO LE SPIAGGE\"",
+        "numero": "4",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.592063906124045,
+          44.05923714034233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 61 \"BAGNO LE SPIAGGE\"",
+        "numero": "6",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.592291014606,
+          44.05903549151704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 62 \"BAGNO LE SPIAGGE\"",
+        "numero": "6",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.592505731735471,
+          44.05879701986011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 63 \"BAGNO VITTORIO\"",
+        "numero": "8",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.592978689539654,
+          44.05831772477796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 63/A \"BAGNO 63/A\"",
+        "numero": "8",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.593262484711289,
+          44.05806922012331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 63/B \"BAGNO SEA SUN FITNESS\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.593436985617169,
+          44.05790181472909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 64 \"BAGNO DARIO\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59367136256016,
+          44.057650259741294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 65 \"BAGNO CARLO\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.593914347120407,
+          44.057385876347304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 66 \"BAGNO ALBERTO\"",
+        "numero": "12",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59421690909174,
+          44.05712106422424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 66/A \"BAGNO 66/A\"",
+        "numero": "14",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.594559920807313,
+          44.05682657437245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 67 \"BAGNO BEACH CLUB\"",
+        "numero": "14",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.595072554961527,
+          44.056339634503146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 68 \"BAGNO CALDARI\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59540533957796,
+          44.05594572279378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 69 \"BAGNO BIAGIO\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.595661510252214,
+          44.05569106642477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 70 \"BAGNO MIRA\"",
+        "numero": "18",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59606432913356,
+          44.05536110820882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 71 \"BAGNO AMARCORD 71\"",
+        "numero": "18",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59618965407644,
+          44.05524547462091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 72 \"BAGNO CLAUDIO\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.596459093118655,
+          44.05495430958097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 73 \"BAGNO RIVIERA\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.596693387524745,
+          44.05476093278301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 74 \"BAGNO TROPICAL BEACH\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59693344854882,
+          44.0545295942451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 75 \"BAGNO BULLI\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.597189487499111,
+          44.0542127749986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 76 \"BAGNO HEDONISM\"",
+        "numero": "22",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.597501251776619,
+          44.05392461385275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 78 \"BAGNO SABBIA D'ORO\"",
+        "numero": "24",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.598033650537015,
+          44.05342832604682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 79 \"BAGNO GIOVANNI\"",
+        "numero": "24",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.598370375351452,
+          44.05311634350488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 80 \"BAGNO 80\"",
+        "numero": "26",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59879014990503,
+          44.05273145380309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 81 \"BAGNO NO PROBLEM\"",
+        "numero": "28",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599166325412664,
+          44.05238830191722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 82 \"BAGNO PETER PAN\"",
+        "numero": "28",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marina Centro",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59944714716899,
+          44.05211779678222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 83 \"BAGNO 83\"",
+        "numero": "30",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599742161611603,
+          44.051892028051775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 84 \"BAGNO GRAZIANO\"",
+        "numero": "30",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60008032969241,
+          44.05154635451541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 85 \"BAGNO LA PLAYA\"",
+        "numero": "32",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.600455825760799,
+          44.05117978524604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 85/A \"BAGNO LUCA E DEA\"",
+        "numero": "32",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.600762402857965,
+          44.05088851700575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 85/B \"BAGNO GIBO\"",
+        "numero": "34",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60103240188944,
+          44.05064453735128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 86 \"BAGNO LAILAI ISLAND\"",
+        "numero": "34",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.601432494002944,
+          44.05032793500846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 86/A \"BAGNO 86/A\"",
+        "numero": "36",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.602221880877618,
+          44.049499917650664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 87 \"BAGNO 87\"",
+        "numero": "38",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60266087255075,
+          44.04917791576206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 88 \"BAGNO 88\"",
+        "numero": "38",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.602911823584886,
+          44.04890879140738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 89 \"BAGNO 89\"",
+        "numero": "38",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60318702583115,
+          44.04867925756113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 90 \"BAGNO 90\"",
+        "numero": "40",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.603401530431308,
+          44.048473693400155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 91 \"BAGNO 91\"",
+        "numero": "40",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.603595155556587,
+          44.04826305406146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 92 \"SPIAGGIA 92\"",
+        "numero": "42",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.603871398501205,
+          44.048038212930244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 93 \"BAGNO 93\"",
+        "numero": "42",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.604144253736482,
+          44.04776702464395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 94 \"BAGNO 94\"",
+        "numero": "46",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.604516611795866,
+          44.04742812311435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 95 \"BAGNO 95\"",
+        "numero": "46",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.605287020538498,
+          44.046791062585164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 96 \"BAGNO 96\"",
+        "numero": "50",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "San Giuliano Mare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.605865515065934,
+          44.04621749526493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 97 \"BAGNO MATTEO\"",
+        "numero": "50",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.606419978386633,
+          44.04577012035003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 99 \"BAGNO LORETTA\"",
+        "numero": "54",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.607705614178755,
+          44.04452249212893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 98 \"BAGNO ANTONIO\"",
+        "numero": "54",
+        "indirizzo": "LUNGOMARE DI VITTORIO",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.606890965097604,
+          44.04535131520443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 100 \"BAGNO SOLE CALIENTE\"",
+        "numero": "8",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.607916055899297,
+          44.044312899870356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 101 \"BAGNO MAREBELLO\"",
+        "numero": "8",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.608264752419695,
+          44.044037924619005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 102 \"BAGNO 102\"",
+        "numero": "8",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.608437574978172,
+          44.043865445981076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 103 \"BAGNO 103\"",
+        "numero": "10",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.608709502928257,
+          44.043663100080494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 104 \"BRADIPO BEACH\"",
+        "numero": "10",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.608867107469676,
+          44.043530023299375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 105/A \"BRADIPO BEACH\"",
+        "numero": "18",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.609903595240075,
+          44.04262112051833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 106/B \"BAGNO COCO BEACH\"",
+        "numero": "22",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.610416207537895,
+          44.04218489579233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 107 \"BAGNO DELIO\"",
+        "numero": "22",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611261028613814,
+          44.04150320214038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 108 \"BAGNO ANGELO\"",
+        "numero": "26",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611902480141694,
+          44.04095533685212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 109 \"BAGNO TONI\"",
+        "numero": "26",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.612134353374607,
+          44.04071270273111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 111 \"BAGNO SERGIO\"",
+        "numero": "26",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.612630077969238,
+          44.040308912655554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 112 \"BAGNO PAOLO\"",
+        "numero": "30",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.612746738985651,
+          44.04006156346036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 113 \"BAGNO ETTORE\"",
+        "numero": "30",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.612980571790784,
+          44.03996040577784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 114 \"BAGNO DINO\"",
+        "numero": "34",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.613598294726263,
+          44.03940682196969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 115 \"BAGNO SUNDAY BEACH 115\"",
+        "numero": "34",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.613795286019446,
+          44.03926048075472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 116 \"BAGNO SUNDAY BEACH 116\"",
+        "numero": "38",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614076838262731,
+          44.0390247687887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 117 \"BAGNO SUNDAY BEACH 117\"",
+        "numero": "38",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614387656239717,
+          44.038795546549274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 118 \"BAGNO SUNDAY BEACH 118\"",
+        "numero": "42",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614654589731073,
+          44.038532779757574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 119-120 \"RIVAZZURRA GOLDEN BEACH\"",
+        "numero": "46",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614990371596546,
+          44.03830770558741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 121 \"BAGNO GIULIO\"",
+        "numero": "50",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.615616800404027,
+          44.03772970529066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 122 \"BAGNO PARADISE\"",
+        "numero": "54",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61587694146721,
+          44.0375103052856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 123 \"BAGNO SILVANO\"",
+        "numero": "56",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.616117598006213,
+          44.037299644932986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 124 \"BAGNO MARIO\"",
+        "numero": "58",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.616399123176258,
+          44.03708902696831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 124/A \"BAGNO LUCA\"",
+        "numero": "60",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.616625768860686,
+          44.03689870793709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 125 \"BAGNO GILBERTO\"",
+        "numero": "62",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.616829413829505,
+          44.036674750286174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 126 \"BAGNO TONELLI\"",
+        "numero": "64",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61710200035492,
+          44.036476206092736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 127 \"BAGNO ANTONELLI\"",
+        "numero": "64",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.617310807910345,
+          44.036304554769195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 128 \"BAGNO NOVELLO\"",
+        "numero": "66",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.617477336618993,
+          44.035869790113466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 129 \"BAGNO CORRADO\"",
+        "numero": "70",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.618059132493462,
+          44.03560137672243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 130 \"BAGNO CHIARA\"",
+        "numero": "70",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.618375755459436,
+          44.03531676997485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 131 \"BAGNO MIRAMARE BEACH\"",
+        "numero": "2",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.618735106756041,
+          44.035013444889664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 132 \"BAGNO CECI\"",
+        "numero": "2",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.619030597578766,
+          44.034767405632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 133 \"BAGNO GIORGIO\"",
+        "numero": "4",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.619578179255315,
+          44.03435169287003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 134 \"BAGNO VITTORIO\"",
+        "numero": "6",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.619975041475263,
+          44.03398704303499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 135 \"BAGNO VITTORIO\"",
+        "numero": "6",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.620245193053856,
+          44.03376302494835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 137 \"BAGNO ACQUA E SALE\"",
+        "numero": "8",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.620830480966916,
+          44.03336353213024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 138 \"BAGNO ACQUA E SALE\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.621277487787184,
+          44.032935145828624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 139 \"BAGNO ACQUA E SALE\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.621516994190731,
+          44.0327968521937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 140 \"BAGNO DINO\"",
+        "numero": "14",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.622156653796635,
+          44.032219108947444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 141 \"BAGNO 141\"",
+        "numero": "14",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.622288784547436,
+          44.032094890960735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 142 \"BAGNO RICCI\"",
+        "numero": "14",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.622454803292111,
+          44.03196766021459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 143 \"BAGNO CONCHIGLIA\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.622984027458559,
+          44.03156506213591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 144 \"BAGNO RUDY\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.623422882209258,
+          44.03123494558533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 148 \"BAGNO 148\"",
+        "numero": "24",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.624859231815584,
+          44.03007015006276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 149 \"BAGNO 149\"",
+        "numero": "36",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Miramare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62583802514323,
+          44.029323511773626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 150 \"BAGNO SILVANO\"",
+        "numero": "36",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Miramare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.626219282470831,
+          44.02902593900811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 151 \"BAGNO GUSTAVO\"",
+        "numero": "62",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Miramare",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.629407477666312,
+          44.02651370913437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO SCIROCCO\"",
+        "numero": "72",
+        "indirizzo": "VIALE ORTIGARA",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56771745889147,
+          44.07540424373135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 1 \"BAGNO RIVIERA\"",
+        "numero": "5",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.560821762226317,
+          44.07589115613611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 2 \"BAGNO EDERA\"",
+        "numero": "19",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.559194371831751,
+          44.07641684640291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 6 \"BAGNO CELLI\"",
+        "numero": "37",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55480714162169,
+          44.07820443290622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 7 \"BAGNO MICKY\"",
+        "numero": "39",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.554014684246704,
+          44.07859557966407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 8 \"BAGNO GIOVANNA\"",
+        "numero": "49",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.553315246597982,
+          44.078924919471014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 9 \"BAGNO OTELLO\"",
+        "numero": "53",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.552594270090264,
+          44.079291200473676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 10 \"BAGNO VATIKAKI\"",
+        "numero": "53",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.551742761903794,
+          44.07968897007945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 5 \"PRIME SPIAGGE\"",
+        "numero": "8",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577572596946581,
+          44.07498176904542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 6 \"PRIME SPIAGGE\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577642114346395,
+          44.07466369317141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 8 \"BAGNO LUCIANO\"",
+        "numero": "12",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578105050514742,
+          44.07429201396474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 9/B \"BAGNO MAURO\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578987647468466,
+          44.073223283699804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 10 \"BAGNO DELLE ROSE\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57915391152466,
+          44.07297247566047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 11 \"BAGNO AUGUSTO\"",
+        "numero": "16",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.579387550383798,
+          44.0726863097328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 12 \"BAGNO AZZURRO\"",
+        "numero": "18",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.579022477427307,
+          44.0721469716138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 13 \"BAGNO ALCIDE\"",
+        "numero": "18",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57975525586608,
+          44.07220102199722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 14 \"BAGNO L'AMARISSIMO\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.579988157489518,
+          44.07192390514863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 15 \"BAGNO OASI\"",
+        "numero": "20",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58011608049552,
+          44.07170762858107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 16 \"BAGNO GIORGIO\"",
+        "numero": "22",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580420753411948,
+          44.07139287811119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 17 \"BAGNO MOAI\"",
+        "numero": "22",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58063160145612,
+          44.07111747125996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 18 \"BAGNO ATTILIO\"",
+        "numero": "24",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58082524209738,
+          44.07091615387623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 19 \"BAGNO GASTONE\"",
+        "numero": "24",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581130365341405,
+          44.07053133197015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 20 \"BAGNO ARCOBALENO\"",
+        "numero": "26",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581336953179658,
+          44.07028952259035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 21 \"BAGNO MANLIO\"",
+        "numero": "26",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581541082086844,
+          44.070052549347146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 23 \"BAGNO SIRENA BEACH\"",
+        "numero": "26",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581820428400885,
+          44.06974544225409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 24 \"BAGNO SERAFINO\"",
+        "numero": "28",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.582011456271188,
+          44.06949678391585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 25 \"BAGNO ALDO\"",
+        "numero": "30",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.582291461407813,
+          44.06917337622367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 26 \"BAGNO 26\"",
+        "numero": "30",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58258076127464,
+          44.0688436464785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 27 \"BAGNO 27\"",
+        "numero": "32",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.582820157382061,
+          44.06857318832906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 28 \"BAGNO OTELLO\"",
+        "numero": "34",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Rivabella",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583038432567042,
+          44.06832183699015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 1 \"BAGNO FAUSTO\"",
+        "numero": "2",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576389798009627,
+          44.076381195349136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 2 \"BAGNO 2\"",
+        "numero": "2",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576588510846385,
+          44.076111516582955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO TURQUOISE\"",
+        "numero": "4",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57685744533451,
+          44.07576073474478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 17 \"BAGNO CARLO\"",
+        "numero": "71",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.547245221109833,
+          44.08227819400433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 18 \"BAGNO ATHOS E ANDREA\"",
+        "numero": "73",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545629170624395,
+          44.08333857269519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 20 \"BAGNO BRUNO 20\"",
+        "numero": "81",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544627094329929,
+          44.08405613114755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 21 \"BAGNO 21\"",
+        "numero": "83",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544366693389094,
+          44.084236540226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 22 \"BAGNO ANNA 22\"",
+        "numero": "1",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.543502330329337,
+          44.08497059999261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 23 \"BAGNO EDMONDO\"",
+        "numero": "7",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.542998109685817,
+          44.085302203552224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 24 \"BAGNO GIANCARLO\"",
+        "numero": "11",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54246762621125,
+          44.08564924676118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 25 \"BAGNO ADELMO\"",
+        "numero": "15",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.541897725234652,
+          44.086039796256195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 26 \"BAGNO ARNALDO\"",
+        "numero": "23",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.541106399376543,
+          44.08657708453591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 27 \"BAGNO WALTER\"",
+        "numero": "29",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.540441362062294,
+          44.08703578251124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 29 \"BAGNO PLAYA TAMARINDO\"",
+        "numero": "39",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.539570340861527,
+          44.08759844192712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 30 \"BAGNO PLAYA TAMARINDO\"",
+        "numero": "47",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.539109826769335,
+          44.08794698620748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 35 \"BAGNO BAHIA RICO'S CAFE\"",
+        "numero": "99",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536341968690339,
+          44.08973751965856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 37 \"BAGNO 37\"",
+        "numero": "111",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.534988709357117,
+          44.090633423116586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 38 \"BAGNO EGISTO\"",
+        "numero": "113",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.534479809713583,
+          44.09099321077305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 39 \"BAGNO 39\"",
+        "numero": "3",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.533262698639836,
+          44.09184501133459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 40 \"BAGNO 40\"",
+        "numero": "7",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.532843185721003,
+          44.09214101053347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 42 \"BAGNO ROMEO\"",
+        "numero": "23",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531366526047927,
+          44.093312916194186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 43 \"BAGNO 43\"",
+        "numero": "27",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.530801493713746,
+          44.0937254639792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 46 \"BAGNO GIOVANNI\"",
+        "numero": "31",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52912012393931,
+          44.094913430229994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 48 \"BAGNO MASSIMO\"",
+        "numero": "33",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.527842327307761,
+          44.095939919833796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 49 \"BAGNO MARCO\"",
+        "numero": "35",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.527686421939014,
+          44.09605138498752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 50 \"BAGNO STEFANO N. 50\"",
+        "numero": "45",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.526958963865118,
+          44.096623474827574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 52 \"BAGNO MARIO\"",
+        "numero": "73",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524169839415022,
+          44.09817423054362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 53 \"BAGNO NERI\"",
+        "numero": "79",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.523302819949748,
+          44.09899344305955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 54 \"BAGNO 54\"",
+        "numero": "83",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.522342933394757,
+          44.099666604963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 55 \"BAGNO 55\"",
+        "numero": "89",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.521683200560759,
+          44.100273144124195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 56 \"BAGNO 56\"",
+        "numero": "89",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52123250912855,
+          44.10058529470995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 57 \"BAGNO 57\"",
+        "numero": "91",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.520875478638663,
+          44.100841516649886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 58 \"BAGNO AMERIGO\"",
+        "numero": "5",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.518456065801569,
+          44.1026454429184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 59 \"BAGNO AMERIGO\"",
+        "numero": "7",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.518103182222529,
+          44.10303538530439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 60 \"BAGNO AMERIGO\"",
+        "numero": "15",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.517092477071962,
+          44.10368924782338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 61 \"BAGNO 61\"",
+        "numero": "17",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51682929957758,
+          44.104012345913524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 63 \"BAGNO ROSA\"",
+        "numero": "41",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514540765696431,
+          44.106033042434504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 64 \"BAGNO UMBERTO\"",
+        "numero": "55",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51386179070086,
+          44.10684325736716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 65 \"BAGNO CARLINO\"",
+        "numero": "61",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.512759768678887,
+          44.10750732730622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 66 \"BAGNO OASIS\"",
+        "numero": "81",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.511804997354542,
+          44.10812115466348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 67 \"BAGNO SMERALDO\"",
+        "numero": "85",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.511558342700406,
+          44.10840903898505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 68 \"BAGNO RINATO\"",
+        "numero": "95",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510276179803254,
+          44.10921064755298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 69 \"BAGNO 69\"",
+        "numero": "101",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.509784309647593,
+          44.10961383683571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO ELIO\"",
+        "numero": "103",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.509429631582968,
+          44.10994061143387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 72 \"BAGNO ONDA BLU VILLAGE\"",
+        "numero": "119",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50788747273744,
+          44.11158110885128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 72/A \"BAGNO LIDO TALISMANO\"",
+        "numero": "121",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.507438165623594,
+          44.111702913310765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 73 \"BAGNO 73\"",
+        "numero": "123",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.506661703151465,
+          44.112261071820974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 74 \"BAGNO 74\"",
+        "numero": "125",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50649506344949,
+          44.11253091308953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 74/A \"BAGNO 74/A\"",
+        "numero": "127",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.506232580066179,
+          44.11269440713457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 75 \"BAGNO 75\"",
+        "numero": "129",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.505824203333,
+          44.11304884259342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 76 \"BAGNO KAMOKE BEACH\"",
+        "numero": "135",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.505245212946912,
+          44.11347095031356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 7 \"PRIME SPIAGGE\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE TINTORI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577923954373414,
+          44.07451805374657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 110 \"BAGNO EMILIO\"",
+        "numero": "26",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.612433700262384,
+          44.04048734236526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 5 \"BAGNO CELLI\"",
+        "numero": "37",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.555560575410402,
+          44.07784174969179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 105 \"BRADIPO BEACH\"",
+        "numero": "10",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.609493346071657,
+          44.043010833858396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 104/C \"BRADIPO BEACH\"",
+        "numero": "10",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.609252842625931,
+          44.04321061657246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 106 \"BAGNO MASSIMILIANO\"",
+        "numero": "22",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.610997716451463,
+          44.0417211296229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 31 \"BAGNO PLAYA TAMARINDO\"",
+        "numero": "53",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538552501694435,
+          44.08836344820137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 33 \"BAGNO MARIO\"",
+        "numero": "91",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53690210660406,
+          44.089367413314385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 36 \"BAGNO BAHIA RICO'S CAFE\"",
+        "numero": "105",
+        "indirizzo": "VIALE DATI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53564925536292,
+          44.09019209001284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 145 \"BAGNO PRIMO\"",
+        "numero": "18",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.623671270740333,
+          44.031055535394124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 3 \"BAGNO AMARACMAND\"",
+        "numero": "33",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55708610200211,
+          44.07731905465483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 4 \"BAGNO AMARACMAND\"",
+        "numero": "37",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Torre Pedrera",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55603553061919,
+          44.07765690480669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 44 \"BAGNO SALSEDINE\"",
+        "numero": "31",
+        "indirizzo": "VIALE PORTO PALOS",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.529294083435202,
+          44.09449219431683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO LE FONTANE\"",
+        "numero": "20",
+        "indirizzo": "VIALE PRINCIPE DI PIEMONTE",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.624120299955681,
+          44.03047498376854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE \"BAGNO DOLCEVITA BEACH CLUB\"",
+        "numero": "63",
+        "indirizzo": "VIALE TOSCANELLI",
+        "zona": "Viserba",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.550147259833416,
+          44.080624060476374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 104/A \"BRADIPO BEACH\"",
+        "numero": "10",
+        "indirizzo": "VIALE REGINA MARGHERITA",
+        "zona": "Marebello",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.609112606851085,
+          44.04332246840042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 62 \"BAGNO GIORGIO\"",
+        "numero": "35",
+        "indirizzo": "VIALE SAN SALVADOR",
+        "zona": "Rimini",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515402608728069,
+          44.105362539948985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "STABILIMENTO BALNEARE N. 138/A \"BAGNO ACQUA E SALE\"",
+        "numero": "10",
+        "indirizzo": "LUNGOMARE SPADAZZI",
+        "zona": "Rivazzurra",
+        "tipo_att": "Stabilimenti balneari",
+        "fonte": "Comune di Rimini — Ufficio SIT 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.620938613372454,
+          44.03317207451674
+        ]
+      }
+    }
+  ]
+}

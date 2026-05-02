@@ -1,0 +1,9373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 737216446,
+        "tipo": "locale_notturno",
+        "name": "Caffè letterario Assenzio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5608204,
+          44.0561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 737216593,
+        "tipo": "locale_notturno",
+        "name": "Bar 70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5566195,
+          44.0494996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2326927051,
+        "tipo": "locale_notturno",
+        "name": "Soleluna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.594992,
+          44.0541573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2389301028,
+        "tipo": "locale_notturno",
+        "name": "Darsena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5698076,
+          44.0764311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718096093,
+        "tipo": "discoteca",
+        "name": "Carnaby Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60912,
+          44.039009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718103015,
+        "tipo": "locale_notturno",
+        "name": "Bar Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5837583,
+          44.0649121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718109424,
+        "tipo": "locale_notturno",
+        "name": "Bar dei Portici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5501523,
+          44.0682605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718112698,
+        "tipo": "locale_notturno",
+        "name": "Enoteca Biberius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5636739,
+          44.0645241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718117767,
+        "tipo": "locale_notturno",
+        "name": "Copacabana Fun Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6120232,
+          44.0371058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718117820,
+        "tipo": "locale_notturno",
+        "name": "Ma.Da.Me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5619899,
+          44.0648422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718118860,
+        "tipo": "locale_notturno",
+        "name": "RiminiCafè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577339,
+          44.073366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718123225,
+        "tipo": "locale_notturno",
+        "name": "Dovesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5681565,
+          44.0593151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718125039,
+        "tipo": "locale_notturno",
+        "name": "Fob"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5699564,
+          44.0573433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718125576,
+        "tipo": "locale_notturno",
+        "name": "Naked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5700283,
+          44.0609428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718126874,
+        "tipo": "locale_notturno",
+        "name": "3 sei 6 (356)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5654599,
+          44.0619345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718127118,
+        "tipo": "locale_notturno",
+        "name": "Savage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6171312,
+          44.0348312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718129223,
+        "tipo": "locale_notturno",
+        "name": "El Cantinero Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5663569,
+          44.0601771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718136817,
+        "tipo": "locale_notturno",
+        "name": "The Rose and Crown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5861179,
+          44.0632236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718138159,
+        "tipo": "locale_notturno",
+        "name": "Esperanto bistro'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5669135,
+          44.0621202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718138176,
+        "tipo": "locale_notturno",
+        "name": "Malandrino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566129,
+          44.060237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718145484,
+        "tipo": "locale_notturno",
+        "name": "Peacock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5632226,
+          44.0645095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718147728,
+        "tipo": "locale_notturno",
+        "name": "Neon Caffè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5676261,
+          44.0587891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718158636,
+        "tipo": "locale_notturno",
+        "name": "Pit Stop Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5164165,
+          44.0532987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718180616,
+        "tipo": "locale_notturno",
+        "name": "Rex Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5654433,
+          44.0748918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718183798,
+        "tipo": "locale_notturno",
+        "name": "Cafè del Market 43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886931,
+          44.0603268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718190539,
+        "tipo": "locale_notturno",
+        "name": "Post Meridian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580315,
+          44.039711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718197446,
+        "tipo": "locale_notturno",
+        "name": "Bon Bon Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6101972,
+          44.0386794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718201950,
+        "tipo": "locale_notturno",
+        "name": "Nelson's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5906519,
+          44.058465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718208146,
+        "tipo": "locale_notturno",
+        "name": "Bar de Gianni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5723518,
+          44.0553043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718208321,
+        "tipo": "locale_notturno",
+        "name": "Nón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5618798,
+          44.065285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718208827,
+        "tipo": "locale_notturno",
+        "name": "Civico 88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.600513,
+          44.0474298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718209101,
+        "tipo": "locale_notturno",
+        "name": "Mr Bear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675104,
+          44.059043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718212949,
+        "tipo": "locale_notturno",
+        "name": "Mack Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5490772,
+          44.0608723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718212978,
+        "tipo": "locale_notturno",
+        "name": "Bar Latino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6075097,
+          44.0383983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718213634,
+        "tipo": "locale_notturno",
+        "name": "Diamond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5618606,
+          44.0459395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718213688,
+        "tipo": "locale_notturno",
+        "name": "Bull & Bush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5920322,
+          44.057073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2937982887,
+        "tipo": "locale_notturno",
+        "name": "LOB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5764682,
+          44.0745446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3237987502,
+        "tipo": "locale_notturno",
+        "name": "Caffè da Gigi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5711413,
+          44.0048108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3620943063,
+        "tipo": "locale_notturno",
+        "name": "Caramia's Cafè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5921209,
+          44.0430669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4189209029,
+        "tipo": "locale_notturno",
+        "name": "Bar Hollywood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549295,
+          44.0613011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4245913291,
+        "tipo": "locale_notturno",
+        "name": "Retroborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5645711,
+          44.0645315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4299191415,
+        "tipo": "locale_notturno",
+        "name": "Bounty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5846628,
+          44.0649029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4344991392,
+        "tipo": "locale_notturno",
+        "name": "Music Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6137009,
+          44.0359101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4344991394,
+        "tipo": "locale_notturno",
+        "name": "pasticc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6183545,
+          44.0318367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4344991395,
+        "tipo": "locale_notturno",
+        "name": "Bar Spport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6192935,
+          44.0310907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4344991397,
+        "tipo": "locale_notturno",
+        "name": "Dilan Horror pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6188443,
+          44.0308134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4345126296,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6175065,
+          44.0343814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4345129592,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6160849,
+          44.0339175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4345133192,
+        "tipo": "locale_notturno",
+        "name": "gelateria pasticc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6195034,
+          44.0308538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4345133943,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6158661,
+          44.0337925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4345133950,
+        "tipo": "locale_notturno",
+        "name": "ottico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6202332,
+          44.032269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4345807997,
+        "tipo": "locale_notturno",
+        "name": "Shooters Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6103479,
+          44.0389011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4348482912,
+        "tipo": "locale_notturno",
+        "name": "Shibuya Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6095576,
+          44.0391882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4349062832,
+        "tipo": "locale_notturno",
+        "name": "Long street bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5942986,
+          44.0548558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4349672402,
+        "tipo": "discoteca",
+        "name": "Blow Up disco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599788,
+          44.0494204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4358935398,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5631187,
+          44.0646511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4358935493,
+        "tipo": "locale_notturno",
+        "name": "Bar Ferrari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674889,
+          44.0618573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4359007297,
+        "tipo": "locale_notturno",
+        "name": "Corso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5667757,
+          44.0607425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4546846909,
+        "tipo": "locale_notturno",
+        "name": "esco bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4777891,
+          44.067884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4960355662,
+        "tipo": "locale_notturno",
+        "name": "Hot Shot pub café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6030918,
+          44.0466583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5012898030,
+        "tipo": "locale_notturno",
+        "name": "Gineria Illegale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5800639,
+          44.0682523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5035235121,
+        "tipo": "locale_notturno",
+        "name": "Red Devil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6102348,
+          44.040592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5658887522,
+        "tipo": "locale_notturno",
+        "name": "Bar della Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5474687,
+          44.0818928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5805352161,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5791741,
+          44.0692385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6422936439,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5271258,
+          44.0956558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6629431308,
+        "tipo": "locale_notturno",
+        "name": "Giorgio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5664152,
+          44.0707563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9690321145,
+        "tipo": "locale_notturno",
+        "name": "Bar Gelateria Oasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5876667,
+          44.0613166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9860685759,
+        "tipo": "locale_notturno",
+        "name": "Bar Florian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5646523,
+          44.0587664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10836742796,
+        "tipo": "locale_notturno",
+        "name": "Ferramenta Cafè Bistrò"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5657315,
+          44.0603484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10837926440,
+        "tipo": "locale_notturno",
+        "name": "Caffè vecchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563612,
+          44.0641246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11075138841,
+        "tipo": "locale_notturno",
+        "name": "L'Ombelico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5818698,
+          44.0677713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080529915,
+        "tipo": "locale_notturno",
+        "name": "L'Artista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4523687,
+          44.0200154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11100019000,
+        "tipo": "locale_notturno",
+        "name": "Leroy cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5368154,
+          44.0886136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11266288449,
+        "tipo": "locale_notturno",
+        "name": "Fermata Est"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5708204,
+          44.0551679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12037483156,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5826942,
+          44.0686032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12103425280,
+        "tipo": "locale_notturno",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5475704,
+          44.0831235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12108585229,
+        "tipo": "locale_notturno",
+        "name": "Tiki Taka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5643662,
+          44.0748543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12110742815,
+        "tipo": "locale_notturno",
+        "name": "Yerbabuena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5663024,
+          44.060013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12110742817,
+        "tipo": "locale_notturno",
+        "name": "Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566345,
+          44.0601014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12158365248,
+        "tipo": "locale_notturno",
+        "name": "La Buratella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5233342,
+          44.098821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12203691557,
+        "tipo": "locale_notturno",
+        "name": "Coffe & Music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5541604,
+          44.0568138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12988423033,
+        "tipo": "locale_notturno",
+        "name": "Tortuga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510015,
+          44.1093512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13064777215,
+        "tipo": "locale_notturno",
+        "name": "Chiosco Aragosta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903621,
+          44.0594378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13114338195,
+        "tipo": "locale_notturno",
+        "name": "Bagni Ricci di Mare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6225073,
+          44.03163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13423798828,
+        "tipo": "locale_notturno",
+        "name": "Lilliput"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5669121,
+          44.0591205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23188987,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4620329,
+            44.0868243
+          ],
+          [
+            12.4618507,
+            44.0869433
+          ],
+          [
+            12.4587064,
+            44.0891401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23191740,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4627863,
+            44.0861418
+          ],
+          [
+            12.4648205,
+            44.0849704
+          ],
+          [
+            12.466374,
+            44.0842429
+          ],
+          [
+            12.4678503,
+            44.0836325
+          ],
+          [
+            12.4707342,
+            44.0826337
+          ],
+          [
+            12.4766282,
+            44.0806592
+          ],
+          [
+            12.4795319,
+            44.0796865
+          ],
+          [
+            12.4841129,
+            44.078095
+          ],
+          [
+            12.4851255,
+            44.0776852
+          ],
+          [
+            12.4861117,
+            44.0772087
+          ],
+          [
+            12.4877178,
+            44.0763546
+          ],
+          [
+            12.4882388,
+            44.075977
+          ],
+          [
+            12.4892948,
+            44.0752116
+          ],
+          [
+            12.4906754,
+            44.0738425
+          ],
+          [
+            12.4912252,
+            44.07318
+          ],
+          [
+            12.4916995,
+            44.0724831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23193850,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5654025,
+            44.0382293
+          ],
+          [
+            12.5658574,
+            44.0379578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23193858,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5659003,
+            44.0379331
+          ],
+          [
+            12.5679898,
+            44.036648
+          ],
+          [
+            12.5688308,
+            44.036077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23193862,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5659498,
+            44.0380381
+          ],
+          [
+            12.5654949,
+            44.0382973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23193863,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5654949,
+            44.0382973
+          ],
+          [
+            12.5637939,
+            44.039318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23231591,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5603511,
+            44.0701559
+          ],
+          [
+            12.5611404,
+            44.0699797
+          ],
+          [
+            12.5617703,
+            44.0698107
+          ],
+          [
+            12.562201,
+            44.0696845
+          ],
+          [
+            12.5626466,
+            44.0695355
+          ],
+          [
+            12.5631503,
+            44.0693439
+          ],
+          [
+            12.5635272,
+            44.0691913
+          ],
+          [
+            12.5641991,
+            44.0688787
+          ],
+          [
+            12.5665394,
+            44.067802
+          ],
+          [
+            12.5671268,
+            44.0675333
+          ],
+          [
+            12.5674521,
+            44.0673858
+          ],
+          [
+            12.568563,
+            44.0668764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23357355,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5803209,
+            44.0615989
+          ],
+          [
+            12.5802474,
+            44.061633
+          ],
+          [
+            12.5796797,
+            44.0618908
+          ],
+          [
+            12.5795703,
+            44.0619461
+          ],
+          [
+            12.579473,
+            44.0619981
+          ],
+          [
+            12.5791746,
+            44.0621675
+          ],
+          [
+            12.5788878,
+            44.06234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23372762,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.568563,
+            44.0668764
+          ],
+          [
+            12.569497,
+            44.066451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25376321,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5315347,
+            44.0899406
+          ],
+          [
+            12.5312985,
+            44.0901038
+          ],
+          [
+            12.5284146,
+            44.0920765
+          ],
+          [
+            12.5255437,
+            44.094066
+          ],
+          [
+            12.5252389,
+            44.0942772
+          ],
+          [
+            12.5194024,
+            44.0983393
+          ],
+          [
+            12.5179721,
+            44.0995008
+          ],
+          [
+            12.5142778,
+            44.1025089
+          ],
+          [
+            12.5088122,
+            44.106959
+          ],
+          [
+            12.5086535,
+            44.1070862
+          ],
+          [
+            12.5051225,
+            44.1099495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517917,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5720065,
+            44.0334409
+          ],
+          [
+            12.5722356,
+            44.0332293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517918,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5723322,
+            44.0333135
+          ],
+          [
+            12.5721068,
+            44.0335292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517919,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5722356,
+            44.0332293
+          ],
+          [
+            12.5790617,
+            44.0271647
+          ],
+          [
+            12.5793059,
+            44.0269477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517927,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5010225,
+            44.0619577
+          ],
+          [
+            12.4994405,
+            44.0626606
+          ],
+          [
+            12.4987609,
+            44.0630026
+          ],
+          [
+            12.4981746,
+            44.0633244
+          ],
+          [
+            12.4978949,
+            44.0635074
+          ],
+          [
+            12.4969785,
+            44.0641068
+          ],
+          [
+            12.4960978,
+            44.0648572
+          ],
+          [
+            12.4954738,
+            44.0655063
+          ],
+          [
+            12.4948086,
+            44.0663742
+          ],
+          [
+            12.4946004,
+            44.0667031
+          ],
+          [
+            12.4940361,
+            44.0677613
+          ],
+          [
+            12.4934382,
+            44.0691611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517928,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4932563,
+            44.0691364
+          ],
+          [
+            12.4939212,
+            44.0676042
+          ],
+          [
+            12.4944152,
+            44.0666663
+          ],
+          [
+            12.4947265,
+            44.0661909
+          ],
+          [
+            12.4952231,
+            44.0655332
+          ],
+          [
+            12.495702,
+            44.0650237
+          ],
+          [
+            12.4963765,
+            44.0644158
+          ],
+          [
+            12.4969668,
+            44.0639295
+          ],
+          [
+            12.4978604,
+            44.0633422
+          ],
+          [
+            12.4979028,
+            44.0633144
+          ],
+          [
+            12.4983343,
+            44.063049
+          ],
+          [
+            12.4993308,
+            44.0625385
+          ],
+          [
+            12.5009385,
+            44.0618257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517929,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4928889,
+            44.0705987
+          ],
+          [
+            12.492547,
+            44.0713234
+          ],
+          [
+            12.4919775,
+            44.0723817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517931,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5009385,
+            44.0618257
+          ],
+          [
+            12.5035303,
+            44.0607891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517932,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5036234,
+            44.060916
+          ],
+          [
+            12.5010225,
+            44.0619577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517933,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5035303,
+            44.0607891
+          ],
+          [
+            12.5041465,
+            44.0605455
+          ],
+          [
+            12.506658,
+            44.0595524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517934,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5203632,
+            44.0541854
+          ],
+          [
+            12.5186388,
+            44.0549268
+          ],
+          [
+            12.5176308,
+            44.0553253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517935,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5203951,
+            44.0540292
+          ],
+          [
+            12.5230824,
+            44.0527362
+          ],
+          [
+            12.52401,
+            44.0522801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517936,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.520537,
+            44.0541089
+          ],
+          [
+            12.5203632,
+            44.0541854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517937,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5201836,
+            44.0541243
+          ],
+          [
+            12.5203951,
+            44.0540292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517938,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5240984,
+            44.0524046
+          ],
+          [
+            12.5229879,
+            44.0529515
+          ],
+          [
+            12.520537,
+            44.0541089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517939,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5242545,
+            44.0521516
+          ],
+          [
+            12.5278053,
+            44.050426
+          ],
+          [
+            12.5309517,
+            44.0488617
+          ],
+          [
+            12.5315059,
+            44.048602
+          ],
+          [
+            12.532428,
+            44.0482432
+          ],
+          [
+            12.5335171,
+            44.0478749
+          ],
+          [
+            12.5346678,
+            44.0475262
+          ],
+          [
+            12.5358661,
+            44.0472659
+          ],
+          [
+            12.5384873,
+            44.0468582
+          ],
+          [
+            12.5488267,
+            44.0452499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517940,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5243226,
+            44.0522861
+          ],
+          [
+            12.5240984,
+            44.0524046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25517941,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.52401,
+            44.0522801
+          ],
+          [
+            12.5242545,
+            44.0521516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25528007,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6129612,
+            43.9977943
+          ],
+          [
+            12.6093657,
+            43.9995212
+          ],
+          [
+            12.6090019,
+            43.9997061
+          ],
+          [
+            12.6074628,
+            44.0005534
+          ],
+          [
+            12.6052854,
+            44.0018559
+          ],
+          [
+            12.6034567,
+            44.0032324
+          ],
+          [
+            12.5993048,
+            44.0066451
+          ],
+          [
+            12.5908707,
+            44.0134839
+          ],
+          [
+            12.5900483,
+            44.0141938
+          ],
+          [
+            12.5892206,
+            44.014913
+          ],
+          [
+            12.5883015,
+            44.0157184
+          ],
+          [
+            12.5875168,
+            44.0165619
+          ],
+          [
+            12.5873982,
+            44.0166894
+          ],
+          [
+            12.5862213,
+            44.0181903
+          ],
+          [
+            12.5847133,
+            44.0203772
+          ],
+          [
+            12.5822034,
+            44.0241746
+          ],
+          [
+            12.5814985,
+            44.0250324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25528008,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6128661,
+            43.9976699
+          ],
+          [
+            12.6131284,
+            43.9975297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25528009,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6132859,
+            43.9976215
+          ],
+          [
+            12.6129612,
+            43.9977943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25532193,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.557558,
+            44.0705545
+          ],
+          [
+            12.559605,
+            44.0702731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25532194,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5518855,
+            44.0707996
+          ],
+          [
+            12.5541904,
+            44.0708056
+          ],
+          [
+            12.5551277,
+            44.0707891
+          ],
+          [
+            12.5557538,
+            44.070755
+          ],
+          [
+            12.5564328,
+            44.0706918
+          ],
+          [
+            12.557558,
+            44.0705545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25532195,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5740538,
+            44.0642177
+          ],
+          [
+            12.575473,
+            44.063566
+          ],
+          [
+            12.5757823,
+            44.0634313
+          ],
+          [
+            12.5759498,
+            44.0633598
+          ],
+          [
+            12.5761507,
+            44.0632769
+          ],
+          [
+            12.5764279,
+            44.0631607
+          ],
+          [
+            12.5767822,
+            44.0630248
+          ],
+          [
+            12.5771473,
+            44.0628852
+          ],
+          [
+            12.5775771,
+            44.0627248
+          ],
+          [
+            12.5779119,
+            44.0625982
+          ],
+          [
+            12.5782019,
+            44.0624809
+          ],
+          [
+            12.5786028,
+            44.0623198
+          ],
+          [
+            12.578903,
+            44.062189
+          ],
+          [
+            12.5793152,
+            44.0620052
+          ],
+          [
+            12.5795692,
+            44.0618878
+          ],
+          [
+            12.5797741,
+            44.0617903
+          ],
+          [
+            12.5812494,
+            44.0611171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25532196,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5817018,
+            44.0609116
+          ],
+          [
+            12.5819129,
+            44.0608135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25532198,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.625198,
+            44.0247199
+          ],
+          [
+            12.6263087,
+            44.0238282
+          ],
+          [
+            12.6283727,
+            44.02219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25532200,
+        "tipo": "ferrovia",
+        "name": "Ravenna Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5601239,
+            44.0707841
+          ],
+          [
+            12.5585243,
+            44.0715212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561168,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5793764,
+            44.0271091
+          ],
+          [
+            12.5783745,
+            44.0280006
+          ],
+          [
+            12.5775159,
+            44.0287672
+          ],
+          [
+            12.5754843,
+            44.0305606
+          ],
+          [
+            12.5723322,
+            44.0333135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561169,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5813762,
+            44.0249317
+          ],
+          [
+            12.5816372,
+            44.0246107
+          ],
+          [
+            12.5819498,
+            44.0242147
+          ],
+          [
+            12.582259,
+            44.0237795
+          ],
+          [
+            12.582568,
+            44.0233302
+          ],
+          [
+            12.5828521,
+            44.0228743
+          ],
+          [
+            12.5852309,
+            44.0192128
+          ],
+          [
+            12.5862936,
+            44.0178146
+          ],
+          [
+            12.5867921,
+            44.0171528
+          ],
+          [
+            12.5873109,
+            44.016509
+          ],
+          [
+            12.5876865,
+            44.0160951
+          ],
+          [
+            12.5883898,
+            44.0154086
+          ],
+          [
+            12.5893057,
+            44.0146311
+          ],
+          [
+            12.5906298,
+            44.0135423
+          ],
+          [
+            12.5995004,
+            44.0062664
+          ],
+          [
+            12.6035387,
+            44.0029523
+          ],
+          [
+            12.6054614,
+            44.0015508
+          ],
+          [
+            12.6073208,
+            44.0004539
+          ],
+          [
+            12.6089337,
+            43.9996324
+          ],
+          [
+            12.6092998,
+            43.999446
+          ],
+          [
+            12.6128661,
+            43.9976699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561170,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5814985,
+            44.0250324
+          ],
+          [
+            12.5808732,
+            44.0257037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561171,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5793059,
+            44.0269477
+          ],
+          [
+            12.5799619,
+            44.0263883
+          ],
+          [
+            12.5805707,
+            44.025795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561207,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5488239,
+            44.0453837
+          ],
+          [
+            12.5369133,
+            44.0472207
+          ],
+          [
+            12.5358625,
+            44.047405
+          ],
+          [
+            12.5347606,
+            44.047672
+          ],
+          [
+            12.5334587,
+            44.0480461
+          ],
+          [
+            12.5323501,
+            44.0484357
+          ],
+          [
+            12.5311251,
+            44.0489437
+          ],
+          [
+            12.530026,
+            44.0494353
+          ],
+          [
+            12.5290097,
+            44.0499433
+          ],
+          [
+            12.5243226,
+            44.0522861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561208,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5527806,
+            44.0445912
+          ],
+          [
+            12.5536434,
+            44.0444074
+          ],
+          [
+            12.5545936,
+            44.0441454
+          ],
+          [
+            12.5550893,
+            44.0439638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561209,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5527927,
+            44.0447376
+          ],
+          [
+            12.5521502,
+            44.0448659
+          ],
+          [
+            12.5488239,
+            44.0453837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25561210,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5488267,
+            44.0452499
+          ],
+          [
+            12.552108,
+            44.0447376
+          ],
+          [
+            12.5527806,
+            44.0445912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25600375,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4587064,
+            44.0891401
+          ],
+          [
+            12.457029,
+            44.0903125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25600376,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4587007,
+            44.0889715
+          ],
+          [
+            12.4627863,
+            44.0861418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25600378,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4569207,
+            44.0902133
+          ],
+          [
+            12.4587007,
+            44.0889715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25644039,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5976575,
+            44.0495572
+          ],
+          [
+            12.5978651,
+            44.0493463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25644040,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5819129,
+            44.0608135
+          ],
+          [
+            12.5823249,
+            44.0606269
+          ],
+          [
+            12.583763,
+            44.0599691
+          ],
+          [
+            12.5851362,
+            44.0593257
+          ],
+          [
+            12.588956,
+            44.057508
+          ],
+          [
+            12.5893566,
+            44.0573129
+          ],
+          [
+            12.5898723,
+            44.0570182
+          ],
+          [
+            12.5903827,
+            44.0566931
+          ],
+          [
+            12.5908508,
+            44.0563671
+          ],
+          [
+            12.5919672,
+            44.0554468
+          ],
+          [
+            12.5930057,
+            44.0543735
+          ],
+          [
+            12.5935545,
+            44.0537767
+          ],
+          [
+            12.5939269,
+            44.053389
+          ],
+          [
+            12.5941176,
+            44.0531974
+          ],
+          [
+            12.5976575,
+            44.0495572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25644677,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6007731,
+            44.0463376
+          ],
+          [
+            12.6021048,
+            44.0449612
+          ],
+          [
+            12.6033053,
+            44.0437396
+          ],
+          [
+            12.6045308,
+            44.0424701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25644681,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6045308,
+            44.0424701
+          ],
+          [
+            12.6046352,
+            44.0423586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25655004,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6283727,
+            44.02219
+          ],
+          [
+            12.6284458,
+            44.0221341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25791747,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5557009,
+            44.0439107
+          ],
+          [
+            12.5550425,
+            44.0441653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25791748,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5550425,
+            44.0441653
+          ],
+          [
+            12.554678,
+            44.0442885
+          ],
+          [
+            12.5537335,
+            44.0445584
+          ],
+          [
+            12.5527927,
+            44.0447376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25791749,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5550893,
+            44.0439638
+          ],
+          [
+            12.5556317,
+            44.0437646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25791750,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5556317,
+            44.0437646
+          ],
+          [
+            12.5573078,
+            44.0429581
+          ],
+          [
+            12.557652,
+            44.0427924
+          ],
+          [
+            12.5634234,
+            44.0393859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27439910,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6083109,
+            44.038554
+          ],
+          [
+            12.6096085,
+            44.037224
+          ],
+          [
+            12.6097261,
+            44.03711
+          ],
+          [
+            12.6109529,
+            44.0360564
+          ],
+          [
+            12.618277,
+            44.0302541
+          ],
+          [
+            12.6191389,
+            44.0295544
+          ],
+          [
+            12.6194076,
+            44.0293401
+          ],
+          [
+            12.6201625,
+            44.0287379
+          ],
+          [
+            12.6250821,
+            44.0248168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28974903,
+        "tipo": "ferrovia",
+        "name": "Ravenna-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5028308,
+            44.1118132
+          ],
+          [
+            12.5025507,
+            44.1120336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30241656,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5605871,
+            44.0705731
+          ],
+          [
+            12.560475,
+            44.0706275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30241658,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.560475,
+            44.0706275
+          ],
+          [
+            12.5601239,
+            44.0707841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30241660,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5602042,
+            44.0701834
+          ],
+          [
+            12.5603511,
+            44.0701559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30241663,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.559605,
+            44.0702731
+          ],
+          [
+            12.5602042,
+            44.0701834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256586,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4926514,
+            44.0706048
+          ],
+          [
+            12.4927321,
+            44.0704131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256588,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4927321,
+            44.0704131
+          ],
+          [
+            12.4931796,
+            44.0693394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256589,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4931796,
+            44.0693394
+          ],
+          [
+            12.4932563,
+            44.0691364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256590,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4934382,
+            44.0691611
+          ],
+          [
+            12.4933626,
+            44.0693542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256591,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4933626,
+            44.0693542
+          ],
+          [
+            12.4929786,
+            44.0703878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256592,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4929786,
+            44.0703878
+          ],
+          [
+            12.4928889,
+            44.0705987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256647,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4919775,
+            44.0723817
+          ],
+          [
+            12.4919111,
+            44.0725038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256649,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4919111,
+            44.0725038
+          ],
+          [
+            12.4914296,
+            44.0732049
+          ],
+          [
+            12.4908379,
+            44.0739086
+          ],
+          [
+            12.4894539,
+            44.0752963
+          ],
+          [
+            12.4884319,
+            44.0760583
+          ],
+          [
+            12.487866,
+            44.0764802
+          ],
+          [
+            12.4861347,
+            44.0774059
+          ],
+          [
+            12.4852376,
+            44.0778232
+          ],
+          [
+            12.4841853,
+            44.0782474
+          ],
+          [
+            12.4741674,
+            44.0816153
+          ],
+          [
+            12.4719434,
+            44.082363
+          ],
+          [
+            12.4688116,
+            44.0834044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256650,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4916995,
+            44.0724831
+          ],
+          [
+            12.4917711,
+            44.0723613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30256651,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4917711,
+            44.0723613
+          ],
+          [
+            12.4923452,
+            44.0712809
+          ],
+          [
+            12.4926514,
+            44.0706048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65667138,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6046352,
+            44.0423586
+          ],
+          [
+            12.6082221,
+            44.0386417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65667139,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6082221,
+            44.0386417
+          ],
+          [
+            12.6083109,
+            44.038554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70141490,
+        "tipo": "ferrovia",
+        "name": "Ravenna-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5051225,
+            44.1099495
+          ],
+          [
+            12.5050393,
+            44.1100206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70141515,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5050393,
+            44.1100206
+          ],
+          [
+            12.5028308,
+            44.1118132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108688804,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5807263,
+            44.0256369
+          ],
+          [
+            12.5810853,
+            44.0252671
+          ],
+          [
+            12.5813762,
+            44.0249317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108688806,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5808732,
+            44.0257037
+          ],
+          [
+            12.5807139,
+            44.025873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108688807,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5807139,
+            44.025873
+          ],
+          [
+            12.5800375,
+            44.0265507
+          ],
+          [
+            12.5793764,
+            44.0271091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108688809,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5805707,
+            44.025795
+          ],
+          [
+            12.5807263,
+            44.0256369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874715,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5175642,
+            44.0552069
+          ],
+          [
+            12.5201836,
+            44.0541243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874717,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5174862,
+            44.0553816
+          ],
+          [
+            12.5146529,
+            44.0565123
+          ],
+          [
+            12.5069662,
+            44.0595796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874718,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5069662,
+            44.0595796
+          ],
+          [
+            12.5067514,
+            44.0596659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874722,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5067514,
+            44.0596659
+          ],
+          [
+            12.5042379,
+            44.0606704
+          ],
+          [
+            12.5036234,
+            44.060916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874725,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.506658,
+            44.0595524
+          ],
+          [
+            12.5068869,
+            44.0594612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874726,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5068869,
+            44.0594612
+          ],
+          [
+            12.5146959,
+            44.0563498
+          ],
+          [
+            12.5174135,
+            44.055267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874727,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5174135,
+            44.055267
+          ],
+          [
+            12.5175642,
+            44.0552069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118874728,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5176308,
+            44.0553253
+          ],
+          [
+            12.5174862,
+            44.0553816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121391200,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4688116,
+            44.0834044
+          ],
+          [
+            12.4674686,
+            44.0839043
+          ],
+          [
+            12.4662538,
+            44.0844217
+          ],
+          [
+            12.4644772,
+            44.0853033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974715,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5518603,
+            44.0707683
+          ],
+          [
+            12.5541949,
+            44.0707759
+          ],
+          [
+            12.5551274,
+            44.0707571
+          ],
+          [
+            12.5557499,
+            44.070724
+          ],
+          [
+            12.5564264,
+            44.0706602
+          ],
+          [
+            12.5575486,
+            44.0705182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974716,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5601873,
+            44.0701553
+          ],
+          [
+            12.5603428,
+            44.0701271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974717,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5695276,
+            44.0664896
+          ],
+          [
+            12.5686032,
+            44.0669155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974718,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5575486,
+            44.0705182
+          ],
+          [
+            12.5595978,
+            44.0702325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974719,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5685228,
+            44.0668373
+          ],
+          [
+            12.5694563,
+            44.0664119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974721,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5595978,
+            44.0702325
+          ],
+          [
+            12.5601873,
+            44.0701553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974722,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5655821,
+            44.068304
+          ],
+          [
+            12.5645637,
+            44.0687666
+          ],
+          [
+            12.5639689,
+            44.0690418
+          ],
+          [
+            12.5632314,
+            44.0693738
+          ],
+          [
+            12.5623066,
+            44.0697894
+          ],
+          [
+            12.5605871,
+            44.0705731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974723,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5603428,
+            44.0701271
+          ],
+          [
+            12.5611203,
+            44.0699546
+          ],
+          [
+            12.5617559,
+            44.0697866
+          ],
+          [
+            12.5621849,
+            44.0696556
+          ],
+          [
+            12.5626401,
+            44.0695032
+          ],
+          [
+            12.5631277,
+            44.069315
+          ],
+          [
+            12.5634894,
+            44.0691626
+          ],
+          [
+            12.5641659,
+            44.0688455
+          ],
+          [
+            12.5660876,
+            44.0679496
+          ],
+          [
+            12.5673026,
+            44.0673892
+          ],
+          [
+            12.568378,
+            44.0669063
+          ],
+          [
+            12.5685228,
+            44.0668373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974982,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5818778,
+            44.0607898
+          ],
+          [
+            12.5823011,
+            44.0605973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152974983,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5702378,
+            44.0660462
+          ],
+          [
+            12.570823,
+            44.0657378
+          ],
+          [
+            12.5711885,
+            44.0655394
+          ],
+          [
+            12.5716255,
+            44.0652924
+          ],
+          [
+            12.5720164,
+            44.0650773
+          ],
+          [
+            12.5720805,
+            44.065042
+          ],
+          [
+            12.5721717,
+            44.064993
+          ],
+          [
+            12.5725024,
+            44.0648153
+          ],
+          [
+            12.5727749,
+            44.0646804
+          ],
+          [
+            12.5731592,
+            44.0644946
+          ],
+          [
+            12.573972,
+            44.0641241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975613,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5823011,
+            44.0605973
+          ],
+          [
+            12.58296,
+            44.0602924
+          ],
+          [
+            12.5851079,
+            44.0593075
+          ],
+          [
+            12.5889384,
+            44.0574902
+          ],
+          [
+            12.5893424,
+            44.0572908
+          ],
+          [
+            12.5898519,
+            44.0570013
+          ],
+          [
+            12.590359,
+            44.056676
+          ],
+          [
+            12.5908258,
+            44.0563457
+          ],
+          [
+            12.5919471,
+            44.0554181
+          ],
+          [
+            12.5929826,
+            44.054356
+          ],
+          [
+            12.5935213,
+            44.0537613
+          ],
+          [
+            12.5938927,
+            44.0533763
+          ],
+          [
+            12.5940755,
+            44.0531814
+          ],
+          [
+            12.5976248,
+            44.0495367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975614,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5976248,
+            44.0495367
+          ],
+          [
+            12.5978309,
+            44.0493234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975663,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6007484,
+            44.0463305
+          ],
+          [
+            12.6020659,
+            44.044948
+          ],
+          [
+            12.6032692,
+            44.043721
+          ],
+          [
+            12.6044849,
+            44.0424416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975739,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6044849,
+            44.0424416
+          ],
+          [
+            12.6045981,
+            44.0423344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975763,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.608187,
+            44.0386129
+          ],
+          [
+            12.6082753,
+            44.0385358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975764,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6082753,
+            44.0385358
+          ],
+          [
+            12.6095723,
+            44.037205
+          ],
+          [
+            12.6096951,
+            44.0370859
+          ],
+          [
+            12.6109236,
+            44.0360323
+          ],
+          [
+            12.6182358,
+            44.0302322
+          ],
+          [
+            12.6191093,
+            44.0295344
+          ],
+          [
+            12.6193845,
+            44.0293211
+          ],
+          [
+            12.6242561,
+            44.0254295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975765,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6045981,
+            44.0423344
+          ],
+          [
+            12.608187,
+            44.0386129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975991,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6242561,
+            44.0254295
+          ],
+          [
+            12.6250607,
+            44.0247787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975992,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6251743,
+            44.0246797
+          ],
+          [
+            12.6262737,
+            44.0238115
+          ],
+          [
+            12.6283375,
+            44.0221688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152976098,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6283375,
+            44.0221688
+          ],
+          [
+            12.6284122,
+            44.022112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160913484,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5741758,
+            44.0643573
+          ],
+          [
+            12.5729132,
+            44.064936
+          ],
+          [
+            12.5724496,
+            44.065152
+          ],
+          [
+            12.5723695,
+            44.0651893
+          ],
+          [
+            12.5715182,
+            44.0655835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168515910,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5702794,
+            44.0351525
+          ],
+          [
+            12.5701195,
+            44.0352741
+          ],
+          [
+            12.5698352,
+            44.0354978
+          ],
+          [
+            12.5692218,
+            44.0359824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168515911,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5688308,
+            44.036077
+          ],
+          [
+            12.5690918,
+            44.0358901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168515912,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5689985,
+            44.0361532
+          ],
+          [
+            12.5681937,
+            44.0367125
+          ],
+          [
+            12.5671562,
+            44.0373391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168515913,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5690918,
+            44.0358901
+          ],
+          [
+            12.5698057,
+            44.0353589
+          ],
+          [
+            12.5702413,
+            44.0349982
+          ],
+          [
+            12.571548,
+            44.0338483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184658793,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5634234,
+            44.0393859
+          ],
+          [
+            12.5637158,
+            44.039215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184658795,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5637158,
+            44.039215
+          ],
+          [
+            12.5654025,
+            44.0382293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184658797,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5637939,
+            44.039318
+          ],
+          [
+            12.5634981,
+            44.0394901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184658800,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5634981,
+            44.0394901
+          ],
+          [
+            12.5582804,
+            44.0425525
+          ],
+          [
+            12.5577035,
+            44.0428911
+          ],
+          [
+            12.5567506,
+            44.0434246
+          ],
+          [
+            12.5557009,
+            44.0439107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633629,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4756153,
+            44.0703918
+          ],
+          [
+            12.4911657,
+            44.070474
+          ],
+          [
+            12.5011292,
+            44.0705356
+          ],
+          [
+            12.5096123,
+            44.0705644
+          ],
+          [
+            12.5224976,
+            44.0706343
+          ],
+          [
+            12.5254683,
+            44.0706425
+          ],
+          [
+            12.5263386,
+            44.0706511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633631,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4756113,
+            44.070426
+          ],
+          [
+            12.4911632,
+            44.070505
+          ],
+          [
+            12.5011267,
+            44.0705657
+          ],
+          [
+            12.5096123,
+            44.0706024
+          ],
+          [
+            12.5224949,
+            44.0706688
+          ],
+          [
+            12.5254633,
+            44.0706761
+          ],
+          [
+            12.5263407,
+            44.0706895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633632,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5263386,
+            44.0706511
+          ],
+          [
+            12.5266976,
+            44.0706541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633633,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.551593,
+            44.0707666
+          ],
+          [
+            12.5518603,
+            44.0707683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633634,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5516145,
+            44.0708012
+          ],
+          [
+            12.5518855,
+            44.0707996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633635,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5263407,
+            44.0706895
+          ],
+          [
+            12.5266996,
+            44.0706939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633636,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5266996,
+            44.0706939
+          ],
+          [
+            12.5367088,
+            44.0707346
+          ],
+          [
+            12.5447135,
+            44.0707699
+          ],
+          [
+            12.5516145,
+            44.0708012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263633637,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5266976,
+            44.0706541
+          ],
+          [
+            12.5367088,
+            44.0707022
+          ],
+          [
+            12.5447181,
+            44.0707414
+          ],
+          [
+            12.551593,
+            44.0707666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 295926674,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6250821,
+            44.0248168
+          ],
+          [
+            12.625198,
+            44.0247199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 295926675,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6250607,
+            44.0247787
+          ],
+          [
+            12.6251743,
+            44.0246797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 361208109,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5692218,
+            44.0359824
+          ],
+          [
+            12.5689985,
+            44.0361532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 378584562,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5585243,
+            44.0715212
+          ],
+          [
+            12.5578803,
+            44.0718101
+          ],
+          [
+            12.5573653,
+            44.0720999
+          ],
+          [
+            12.5498175,
+            44.0773417
+          ],
+          [
+            12.5421255,
+            44.0826377
+          ],
+          [
+            12.5420359,
+            44.0827017
+          ],
+          [
+            12.5379891,
+            44.0855077
+          ],
+          [
+            12.5339849,
+            44.0882471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 378584564,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5025507,
+            44.1120336
+          ],
+          [
+            12.5005212,
+            44.1137042
+          ],
+          [
+            12.4985112,
+            44.1153308
+          ],
+          [
+            12.4958247,
+            44.1175614
+          ],
+          [
+            12.4945802,
+            44.1187568
+          ],
+          [
+            12.4886111,
+            44.1248545
+          ],
+          [
+            12.4861679,
+            44.1273514
+          ],
+          [
+            12.4850975,
+            44.1284453
+          ],
+          [
+            12.4827621,
+            44.1308319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 378584573,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5708146,
+            44.0658187
+          ],
+          [
+            12.5722461,
+            44.0650668
+          ],
+          [
+            12.5723394,
+            44.0650178
+          ],
+          [
+            12.5726904,
+            44.064845
+          ],
+          [
+            12.5740538,
+            44.0642177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 378584575,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.573972,
+            44.0641241
+          ],
+          [
+            12.5749585,
+            44.0636703
+          ],
+          [
+            12.5756285,
+            44.0633757
+          ],
+          [
+            12.5761064,
+            44.0631794
+          ],
+          [
+            12.5764158,
+            44.0630588
+          ],
+          [
+            12.5767209,
+            44.0629492
+          ],
+          [
+            12.5775401,
+            44.0626537
+          ],
+          [
+            12.5782897,
+            44.0623773
+          ],
+          [
+            12.578528,
+            44.0622843
+          ],
+          [
+            12.5787435,
+            44.0621972
+          ],
+          [
+            12.5790715,
+            44.0620601
+          ],
+          [
+            12.5793677,
+            44.0619306
+          ],
+          [
+            12.5797509,
+            44.0617596
+          ],
+          [
+            12.5812315,
+            44.0610838
+          ],
+          [
+            12.5816543,
+            44.0608915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520143975,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5754692,
+            44.0632849
+          ],
+          [
+            12.5770529,
+            44.0627183
+          ],
+          [
+            12.5782598,
+            44.0622758
+          ],
+          [
+            12.5788328,
+            44.0620697
+          ],
+          [
+            12.5790125,
+            44.0619982
+          ],
+          [
+            12.579194,
+            44.0619183
+          ],
+          [
+            12.5795611,
+            44.0617514
+          ],
+          [
+            12.5798331,
+            44.0616292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520143981,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5754423,
+            44.0632539
+          ],
+          [
+            12.5770307,
+            44.0626869
+          ],
+          [
+            12.5782316,
+            44.0622463
+          ],
+          [
+            12.57851,
+            44.0621502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 653475359,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.571548,
+            44.0338483
+          ],
+          [
+            12.5720065,
+            44.0334409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 653475379,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5658574,
+            44.0379578
+          ],
+          [
+            12.5659003,
+            44.0379331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 653583289,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5671562,
+            44.0373391
+          ],
+          [
+            12.5659498,
+            44.0380381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 653583297,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5721068,
+            44.0335292
+          ],
+          [
+            12.5702794,
+            44.0351525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 681121105,
+        "tipo": "aeroporto",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6000565,
+            44.0268092
+          ],
+          [
+            12.6077481,
+            44.0225197
+          ],
+          [
+            12.6157596,
+            44.018052
+          ],
+          [
+            12.6234493,
+            44.0137687
+          ],
+          [
+            12.6235561,
+            44.0137092
+          ],
+          [
+            12.6262107,
+            44.0122304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 717909381,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5715727,
+            44.0656369
+          ],
+          [
+            12.5710111,
+            44.0658205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 717909382,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5715182,
+            44.0655835
+          ],
+          [
+            12.5710111,
+            44.0658205
+          ],
+          [
+            12.5695276,
+            44.0664896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 797853796,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5978651,
+            44.0493463
+          ],
+          [
+            12.599994,
+            44.0471425
+          ],
+          [
+            12.6001456,
+            44.0469861
+          ],
+          [
+            12.6007731,
+            44.0463376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 797853797,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5978309,
+            44.0493234
+          ],
+          [
+            12.599969,
+            44.0471245
+          ],
+          [
+            12.600116,
+            44.0469763
+          ],
+          [
+            12.6007484,
+            44.0463305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364729,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5825161,
+            44.0602176
+          ],
+          [
+            12.5828058,
+            44.0600287
+          ],
+          [
+            12.5829291,
+            44.0599323
+          ],
+          [
+            12.5830311,
+            44.0598321
+          ],
+          [
+            12.5831893,
+            44.0596856
+          ],
+          [
+            12.5833367,
+            44.0595238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364730,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5834843,
+            44.0594793
+          ],
+          [
+            12.5832778,
+            44.0596798
+          ],
+          [
+            12.5831464,
+            44.0597993
+          ],
+          [
+            12.5829935,
+            44.059913
+          ],
+          [
+            12.5828058,
+            44.0600287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364731,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5835299,
+            44.0595044
+          ],
+          [
+            12.5833422,
+            44.0596933
+          ],
+          [
+            12.5831947,
+            44.0598167
+          ],
+          [
+            12.5830337,
+            44.0599284
+          ],
+          [
+            12.5828218,
+            44.0600537
+          ],
+          [
+            12.5825161,
+            44.0602176
+          ],
+          [
+            12.5823793,
+            44.0602947
+          ],
+          [
+            12.5822345,
+            44.060392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364732,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5845739,
+            44.0592702
+          ],
+          [
+            12.5844553,
+            44.0593772
+          ],
+          [
+            12.5843239,
+            44.0594639
+          ],
+          [
+            12.5841829,
+            44.0595443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364733,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5843554,
+            44.0591582
+          ],
+          [
+            12.5841898,
+            44.0593117
+          ],
+          [
+            12.5839779,
+            44.0594909
+          ],
+          [
+            12.5837472,
+            44.0596798
+          ],
+          [
+            12.5835702,
+            44.0598032
+          ],
+          [
+            12.5834821,
+            44.0598615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364734,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5854586,
+            44.0587013
+          ],
+          [
+            12.5854863,
+            44.0586749
+          ],
+          [
+            12.585514,
+            44.0586486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364735,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.585262,
+            44.0588882
+          ],
+          [
+            12.5854387,
+            44.0587207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364736,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5836507,
+            44.0595593
+          ],
+          [
+            12.5838022,
+            44.0593965
+          ],
+          [
+            12.5839242,
+            44.0592692
+          ],
+          [
+            12.5840114,
+            44.0591873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364737,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5834675,
+            44.0597432
+          ],
+          [
+            12.5836507,
+            44.0595593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364738,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5830625,
+            44.0600515
+          ],
+          [
+            12.5831853,
+            44.0599766
+          ],
+          [
+            12.583302,
+            44.0598957
+          ],
+          [
+            12.5833918,
+            44.0598157
+          ],
+          [
+            12.5834675,
+            44.0597432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364739,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5848755,
+            44.0583935
+          ],
+          [
+            12.5840476,
+            44.0592105
+          ],
+          [
+            12.5839162,
+            44.059356
+          ],
+          [
+            12.5837432,
+            44.0595497
+          ],
+          [
+            12.5836252,
+            44.059675
+          ],
+          [
+            12.5834884,
+            44.0598012
+          ],
+          [
+            12.5833824,
+            44.0598812
+          ],
+          [
+            12.5832686,
+            44.0599582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364742,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5854496,
+            44.058655
+          ],
+          [
+            12.5849399,
+            44.0583871
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364743,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5818912,
+            44.0606246
+          ],
+          [
+            12.5826743,
+            44.0602272
+          ],
+          [
+            12.5830625,
+            44.0600515
+          ],
+          [
+            12.5832686,
+            44.0599582
+          ],
+          [
+            12.5834821,
+            44.0598615
+          ],
+          [
+            12.5841829,
+            44.0595443
+          ],
+          [
+            12.5845009,
+            44.0594003
+          ],
+          [
+            12.584753,
+            44.0592827
+          ],
+          [
+            12.584914,
+            44.059196
+          ],
+          [
+            12.5850481,
+            44.0590977
+          ],
+          [
+            12.585262,
+            44.0588882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364744,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5816867,
+            44.0607196
+          ],
+          [
+            12.5814435,
+            44.0608298
+          ],
+          [
+            12.5810631,
+            44.0609791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364745,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5827579,
+            44.0598061
+          ],
+          [
+            12.5829465,
+            44.0596265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364746,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5826502,
+            44.0599072
+          ],
+          [
+            12.5827579,
+            44.0598061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364747,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5817034,
+            44.060657
+          ],
+          [
+            12.5818187,
+            44.0605992
+          ],
+          [
+            12.5820199,
+            44.0604855
+          ],
+          [
+            12.5822076,
+            44.0603563
+          ],
+          [
+            12.5823203,
+            44.0602503
+          ],
+          [
+            12.5824276,
+            44.060125
+          ],
+          [
+            12.5825348,
+            44.0600152
+          ],
+          [
+            12.5826502,
+            44.0599072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364748,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5772774,
+            44.0632934
+          ],
+          [
+            12.5774591,
+            44.0632299
+          ],
+          [
+            12.5775403,
+            44.0632041
+          ],
+          [
+            12.5777382,
+            44.0631443
+          ],
+          [
+            12.5778506,
+            44.063108
+          ],
+          [
+            12.5780064,
+            44.0630513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364749,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5733838,
+            44.0651004
+          ],
+          [
+            12.5736916,
+            44.0649319
+          ],
+          [
+            12.5738606,
+            44.0648375
+          ],
+          [
+            12.5740644,
+            44.0647373
+          ],
+          [
+            12.5762846,
+            44.0637249
+          ],
+          [
+            12.5767218,
+            44.0635256
+          ],
+          [
+            12.5769665,
+            44.0634239
+          ],
+          [
+            12.5772774,
+            44.0632934
+          ],
+          [
+            12.5777007,
+            44.0631201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364750,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.57305,
+            44.0652368
+          ],
+          [
+            12.5733838,
+            44.0651004
+          ],
+          [
+            12.5736997,
+            44.0649609
+          ],
+          [
+            12.5763145,
+            44.063769
+          ],
+          [
+            12.5767367,
+            44.0635766
+          ],
+          [
+            12.5769195,
+            44.0634931
+          ],
+          [
+            12.5771293,
+            44.0634057
+          ],
+          [
+            12.5774117,
+            44.0632902
+          ],
+          [
+            12.577749,
+            44.0631579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364751,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5733972,
+            44.0651128
+          ],
+          [
+            12.5737134,
+            44.0650039
+          ],
+          [
+            12.5738787,
+            44.0649397
+          ],
+          [
+            12.5740984,
+            44.0648456
+          ],
+          [
+            12.5742951,
+            44.0647566
+          ],
+          [
+            12.5763468,
+            44.0638166
+          ],
+          [
+            12.5770279,
+            44.0635045
+          ],
+          [
+            12.5771781,
+            44.0634344
+          ],
+          [
+            12.577324,
+            44.0633633
+          ],
+          [
+            12.5775316,
+            44.0632591
+          ],
+          [
+            12.5776294,
+            44.0632121
+          ],
+          [
+            12.577749,
+            44.0631579
+          ],
+          [
+            12.5780064,
+            44.0630513
+          ],
+          [
+            12.5780948,
+            44.0630154
+          ],
+          [
+            12.5782332,
+            44.0629474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364752,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5738189,
+            44.0649881
+          ],
+          [
+            12.5740464,
+            44.0649161
+          ],
+          [
+            12.574142,
+            44.0648821
+          ],
+          [
+            12.5742417,
+            44.064841
+          ],
+          [
+            12.5743462,
+            44.0647971
+          ],
+          [
+            12.5763806,
+            44.0638664
+          ],
+          [
+            12.5773255,
+            44.0634342
+          ],
+          [
+            12.5774728,
+            44.0633611
+          ],
+          [
+            12.5779473,
+            44.0631042
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364753,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5756564,
+            44.0646147
+          ],
+          [
+            12.5756975,
+            44.0646084
+          ],
+          [
+            12.5757528,
+            44.0645981
+          ],
+          [
+            12.5759044,
+            44.0645638
+          ],
+          [
+            12.5761243,
+            44.0644766
+          ],
+          [
+            12.5764708,
+            44.064363
+          ],
+          [
+            12.5768437,
+            44.0642831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364755,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5777304,
+            44.0641721
+          ],
+          [
+            12.5769348,
+            44.0642717
+          ],
+          [
+            12.5768437,
+            44.0642831
+          ],
+          [
+            12.5767195,
+            44.0642987
+          ],
+          [
+            12.5764592,
+            44.0643383
+          ],
+          [
+            12.5762901,
+            44.0643582
+          ],
+          [
+            12.576146,
+            44.0643725
+          ],
+          [
+            12.5757286,
+            44.0644217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364756,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5747499,
+            44.0646675
+          ],
+          [
+            12.5750688,
+            44.0645623
+          ],
+          [
+            12.5753985,
+            44.0644473
+          ],
+          [
+            12.5757852,
+            44.0643084
+          ],
+          [
+            12.5761798,
+            44.0641164
+          ],
+          [
+            12.5764692,
+            44.0639752
+          ],
+          [
+            12.5765383,
+            44.0639415
+          ],
+          [
+            12.5769287,
+            44.0637561
+          ],
+          [
+            12.5772038,
+            44.0636236
+          ],
+          [
+            12.5773534,
+            44.0635434
+          ],
+          [
+            12.5774804,
+            44.0634729
+          ],
+          [
+            12.578265,
+            44.0629791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364757,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5762966,
+            44.0641819
+          ],
+          [
+            12.5764843,
+            44.0641095
+          ],
+          [
+            12.5765569,
+            44.0640777
+          ],
+          [
+            12.5766136,
+            44.0640529
+          ],
+          [
+            12.5767504,
+            44.0639862
+          ],
+          [
+            12.5768718,
+            44.0639178
+          ],
+          [
+            12.5770279,
+            44.0638228
+          ],
+          [
+            12.5795448,
+            44.0622794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364758,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5795984,
+            44.0623344
+          ],
+          [
+            12.5771862,
+            44.0638063
+          ],
+          [
+            12.5770168,
+            44.0639011
+          ],
+          [
+            12.5769237,
+            44.0639525
+          ],
+          [
+            12.576834,
+            44.0639962
+          ],
+          [
+            12.5767433,
+            44.0640359
+          ],
+          [
+            12.5766234,
+            44.0640773
+          ],
+          [
+            12.5765709,
+            44.0640941
+          ],
+          [
+            12.5762966,
+            44.0641819
+          ],
+          [
+            12.5760903,
+            44.0642491
+          ],
+          [
+            12.5759525,
+            44.0642949
+          ],
+          [
+            12.5758289,
+            44.0643406
+          ],
+          [
+            12.5756735,
+            44.0643838
+          ],
+          [
+            12.5753985,
+            44.0644473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364759,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5780512,
+            44.063574
+          ],
+          [
+            12.578355,
+            44.0634434
+          ],
+          [
+            12.578566,
+            44.0633585
+          ],
+          [
+            12.5787293,
+            44.0632935
+          ],
+          [
+            12.5788811,
+            44.0632411
+          ],
+          [
+            12.579065,
+            44.0631966
+          ],
+          [
+            12.5798262,
+            44.0630622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364761,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5793665,
+            44.06277
+          ],
+          [
+            12.57975,
+            44.0625943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364762,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5781366,
+            44.0633726
+          ],
+          [
+            12.5782796,
+            44.063311
+          ],
+          [
+            12.5783702,
+            44.0632688
+          ],
+          [
+            12.579134,
+            44.0628886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364763,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5771862,
+            44.0638063
+          ],
+          [
+            12.5775379,
+            44.063631
+          ],
+          [
+            12.5777705,
+            44.0635199
+          ],
+          [
+            12.5780128,
+            44.0634
+          ],
+          [
+            12.5788257,
+            44.0629954
+          ],
+          [
+            12.5789122,
+            44.0629536
+          ],
+          [
+            12.5789993,
+            44.062919
+          ],
+          [
+            12.5791205,
+            44.0628741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364764,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5793001,
+            44.0629735
+          ],
+          [
+            12.5787578,
+            44.0631419
+          ],
+          [
+            12.5781366,
+            44.0633726
+          ],
+          [
+            12.5780299,
+            44.0634127
+          ],
+          [
+            12.5779231,
+            44.0634547
+          ],
+          [
+            12.5777705,
+            44.0635199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364765,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.578397,
+            44.0633935
+          ],
+          [
+            12.5786014,
+            44.0632996
+          ],
+          [
+            12.5787495,
+            44.0632337
+          ],
+          [
+            12.5788645,
+            44.0631937
+          ],
+          [
+            12.5790134,
+            44.0631506
+          ],
+          [
+            12.579137,
+            44.0631242
+          ],
+          [
+            12.5798021,
+            44.0629951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364766,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5777806,
+            44.0637067
+          ],
+          [
+            12.5780512,
+            44.063574
+          ],
+          [
+            12.578397,
+            44.0633935
+          ],
+          [
+            12.5787087,
+            44.0632288
+          ],
+          [
+            12.5789437,
+            44.0631165
+          ],
+          [
+            12.5791076,
+            44.0630462
+          ],
+          [
+            12.5793001,
+            44.0629735
+          ],
+          [
+            12.57984,
+            44.0627962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364767,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5767866,
+            44.0640736
+          ],
+          [
+            12.5771731,
+            44.0639525
+          ],
+          [
+            12.5772868,
+            44.0639132
+          ],
+          [
+            12.5774286,
+            44.0638632
+          ],
+          [
+            12.5777806,
+            44.0637067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364773,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.58296,
+            44.0602924
+          ],
+          [
+            12.583763,
+            44.0599691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364774,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5818972,
+            44.0608036
+          ],
+          [
+            12.5823011,
+            44.0605973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364775,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5803209,
+            44.0615989
+          ],
+          [
+            12.58052,
+            44.0614994
+          ],
+          [
+            12.5806206,
+            44.0614464
+          ],
+          [
+            12.5808985,
+            44.0612927
+          ],
+          [
+            12.5810162,
+            44.0612316
+          ],
+          [
+            12.5812494,
+            44.0611171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364776,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5798331,
+            44.0616292
+          ],
+          [
+            12.5801498,
+            44.0614938
+          ],
+          [
+            12.5803746,
+            44.0614068
+          ],
+          [
+            12.5806532,
+            44.0612924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364777,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5819644,
+            44.0608475
+          ],
+          [
+            12.5817434,
+            44.060944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364778,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5858662,
+            44.0590187
+          ],
+          [
+            12.5851876,
+            44.0593483
+          ],
+          [
+            12.5843132,
+            44.0597704
+          ],
+          [
+            12.5834736,
+            44.060152
+          ],
+          [
+            12.5824033,
+            44.0606557
+          ],
+          [
+            12.5819644,
+            44.0608475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364779,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5735269,
+            44.0647911
+          ],
+          [
+            12.5761824,
+            44.0635743
+          ],
+          [
+            12.5764794,
+            44.0634479
+          ],
+          [
+            12.5767968,
+            44.0633143
+          ],
+          [
+            12.5780567,
+            44.0627914
+          ],
+          [
+            12.5783355,
+            44.0626757
+          ],
+          [
+            12.578709,
+            44.0625211
+          ],
+          [
+            12.5787984,
+            44.0624795
+          ],
+          [
+            12.5789154,
+            44.062421
+          ],
+          [
+            12.5789881,
+            44.0623783
+          ],
+          [
+            12.5792137,
+            44.0622523
+          ],
+          [
+            12.5793343,
+            44.062186
+          ],
+          [
+            12.5795557,
+            44.0620486
+          ],
+          [
+            12.579949,
+            44.0617892
+          ],
+          [
+            12.580069,
+            44.0617211
+          ],
+          [
+            12.5802474,
+            44.061633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364780,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5721672,
+            44.0654771
+          ],
+          [
+            12.572486,
+            44.0653805
+          ],
+          [
+            12.5726085,
+            44.0653374
+          ],
+          [
+            12.5727475,
+            44.0652817
+          ],
+          [
+            12.5728832,
+            44.0652248
+          ],
+          [
+            12.5731548,
+            44.0651043
+          ],
+          [
+            12.5762566,
+            44.0636836
+          ],
+          [
+            12.5763097,
+            44.0636593
+          ],
+          [
+            12.5764917,
+            44.0635785
+          ],
+          [
+            12.5767347,
+            44.0634754
+          ],
+          [
+            12.5768462,
+            44.0634304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364781,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5788878,
+            44.06234
+          ],
+          [
+            12.5780576,
+            44.0626819
+          ],
+          [
+            12.5771198,
+            44.0630528
+          ],
+          [
+            12.5766548,
+            44.0632417
+          ],
+          [
+            12.576387,
+            44.0633499
+          ],
+          [
+            12.5760336,
+            44.0635089
+          ],
+          [
+            12.5757881,
+            44.0636125
+          ],
+          [
+            12.5741758,
+            44.0643573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364782,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.578448,
+            44.0625838
+          ],
+          [
+            12.5785919,
+            44.0625106
+          ],
+          [
+            12.5786773,
+            44.0624645
+          ],
+          [
+            12.5788878,
+            44.06234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364783,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5752419,
+            44.0641043
+          ],
+          [
+            12.5762338,
+            44.06365
+          ],
+          [
+            12.5762692,
+            44.0636338
+          ],
+          [
+            12.5765515,
+            44.063512
+          ],
+          [
+            12.5769409,
+            44.0633522
+          ],
+          [
+            12.5776461,
+            44.0630576
+          ],
+          [
+            12.5779008,
+            44.0629538
+          ],
+          [
+            12.5781179,
+            44.062862
+          ],
+          [
+            12.5782447,
+            44.0628092
+          ],
+          [
+            12.5783927,
+            44.0627409
+          ],
+          [
+            12.5785448,
+            44.0626665
+          ],
+          [
+            12.5786674,
+            44.0626013
+          ],
+          [
+            12.5788261,
+            44.0625083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364784,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5748162,
+            44.0642578
+          ],
+          [
+            12.5762123,
+            44.0636184
+          ],
+          [
+            12.5763559,
+            44.0635528
+          ],
+          [
+            12.5766743,
+            44.0634055
+          ],
+          [
+            12.5770536,
+            44.0632487
+          ],
+          [
+            12.5780865,
+            44.0628223
+          ],
+          [
+            12.5782834,
+            44.0627419
+          ],
+          [
+            12.5784345,
+            44.0626754
+          ],
+          [
+            12.5785653,
+            44.0626115
+          ],
+          [
+            12.5787007,
+            44.0625409
+          ],
+          [
+            12.5789154,
+            44.062421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364785,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5716131,
+            44.0654522
+          ],
+          [
+            12.5708146,
+            44.0658187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364786,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5715182,
+            44.0655835
+          ],
+          [
+            12.5722331,
+            44.0652077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364787,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5810761,
+            44.0612541
+          ],
+          [
+            12.5808964,
+            44.0613432
+          ],
+          [
+            12.5807915,
+            44.0614003
+          ],
+          [
+            12.5805111,
+            44.0615727
+          ],
+          [
+            12.5803732,
+            44.0616477
+          ],
+          [
+            12.5800321,
+            44.0618461
+          ],
+          [
+            12.5798246,
+            44.0619666
+          ],
+          [
+            12.5795389,
+            44.0621254
+          ],
+          [
+            12.5791729,
+            44.062326
+          ],
+          [
+            12.5790584,
+            44.0624003
+          ],
+          [
+            12.5789421,
+            44.0624831
+          ],
+          [
+            12.5786386,
+            44.0626956
+          ],
+          [
+            12.5784598,
+            44.0628174
+          ],
+          [
+            12.5782332,
+            44.0629474
+          ],
+          [
+            12.5779473,
+            44.0631042
+          ],
+          [
+            12.5777961,
+            44.0631971
+          ],
+          [
+            12.5776909,
+            44.0632693
+          ],
+          [
+            12.5775821,
+            44.0633436
+          ],
+          [
+            12.5774761,
+            44.0634076
+          ],
+          [
+            12.5773832,
+            44.0634578
+          ],
+          [
+            12.5772176,
+            44.0635371
+          ],
+          [
+            12.5764107,
+            44.0639068
+          ],
+          [
+            12.5747499,
+            44.0646675
+          ],
+          [
+            12.5745524,
+            44.064758
+          ],
+          [
+            12.5741599,
+            44.0649305
+          ],
+          [
+            12.5736935,
+            44.0651467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364788,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5715727,
+            44.0656369
+          ],
+          [
+            12.5718592,
+            44.065551
+          ],
+          [
+            12.5721672,
+            44.0654771
+          ],
+          [
+            12.5724953,
+            44.0654022
+          ],
+          [
+            12.5726724,
+            44.0653617
+          ],
+          [
+            12.5729942,
+            44.0652904
+          ],
+          [
+            12.5732034,
+            44.0652384
+          ],
+          [
+            12.5734073,
+            44.0651825
+          ],
+          [
+            12.5736621,
+            44.0651073
+          ],
+          [
+            12.5740482,
+            44.0649683
+          ],
+          [
+            12.5741599,
+            44.0649305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364789,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5721765,
+            44.065388
+          ],
+          [
+            12.5723194,
+            44.0653197
+          ],
+          [
+            12.5724336,
+            44.065261
+          ],
+          [
+            12.5724547,
+            44.0652501
+          ],
+          [
+            12.5726358,
+            44.065156
+          ],
+          [
+            12.5730266,
+            44.0649757
+          ],
+          [
+            12.574234,
+            44.0644239
+          ],
+          [
+            12.5761212,
+            44.0635616
+          ],
+          [
+            12.5761617,
+            44.0635438
+          ],
+          [
+            12.5765451,
+            44.0633754
+          ],
+          [
+            12.5767997,
+            44.063268
+          ],
+          [
+            12.5780362,
+            44.0627623
+          ],
+          [
+            12.5782177,
+            44.0626838
+          ],
+          [
+            12.578448,
+            44.0625838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364790,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5717527,
+            44.0653858
+          ],
+          [
+            12.5719844,
+            44.0652787
+          ],
+          [
+            12.5721305,
+            44.065215
+          ],
+          [
+            12.5723196,
+            44.0651397
+          ],
+          [
+            12.5724521,
+            44.065087
+          ],
+          [
+            12.5726064,
+            44.0650247
+          ],
+          [
+            12.5728363,
+            44.0649266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364791,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5722331,
+            44.0652077
+          ],
+          [
+            12.5723386,
+            44.0651586
+          ],
+          [
+            12.5724246,
+            44.0651185
+          ],
+          [
+            12.5728363,
+            44.0649266
+          ],
+          [
+            12.5741467,
+            44.064324
+          ],
+          [
+            12.5756883,
+            44.0636151
+          ],
+          [
+            12.57613,
+            44.0634193
+          ],
+          [
+            12.576434,
+            44.0632864
+          ],
+          [
+            12.5769104,
+            44.0630949
+          ],
+          [
+            12.5780342,
+            44.0626537
+          ],
+          [
+            12.5784565,
+            44.0624882
+          ],
+          [
+            12.5786056,
+            44.0624248
+          ],
+          [
+            12.5788187,
+            44.0623283
+          ],
+          [
+            12.5791746,
+            44.0621675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364792,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5805715,
+            44.0612434
+          ],
+          [
+            12.5804572,
+            44.0613135
+          ],
+          [
+            12.5802308,
+            44.0614437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364793,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.57851,
+            44.0621502
+          ],
+          [
+            12.5787749,
+            44.0620521
+          ],
+          [
+            12.5791406,
+            44.0619218
+          ],
+          [
+            12.5791633,
+            44.0619137
+          ],
+          [
+            12.579299,
+            44.0618612
+          ],
+          [
+            12.5795611,
+            44.0617514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364794,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5802308,
+            44.0614437
+          ],
+          [
+            12.5806704,
+            44.0612354
+          ],
+          [
+            12.5808471,
+            44.0611555
+          ],
+          [
+            12.581023,
+            44.0610774
+          ],
+          [
+            12.5812577,
+            44.060948
+          ],
+          [
+            12.5816867,
+            44.0607196
+          ],
+          [
+            12.5818912,
+            44.0606246
+          ],
+          [
+            12.5820708,
+            44.0605048
+          ],
+          [
+            12.5822345,
+            44.060392
+          ],
+          [
+            12.5830057,
+            44.0596577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364795,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5717527,
+            44.0653858
+          ],
+          [
+            12.5719793,
+            44.0652735
+          ],
+          [
+            12.5721186,
+            44.0652014
+          ],
+          [
+            12.5722883,
+            44.0651087
+          ],
+          [
+            12.5725479,
+            44.0649668
+          ],
+          [
+            12.572718,
+            44.0648766
+          ],
+          [
+            12.5729198,
+            44.0647798
+          ],
+          [
+            12.5740782,
+            44.0642457
+          ],
+          [
+            12.575604,
+            44.0635481
+          ],
+          [
+            12.5760788,
+            44.06334
+          ],
+          [
+            12.5768116,
+            44.0630564
+          ],
+          [
+            12.5771708,
+            44.0629184
+          ],
+          [
+            12.5779698,
+            44.062619
+          ],
+          [
+            12.5786294,
+            44.0623565
+          ],
+          [
+            12.5790773,
+            44.0621644
+          ],
+          [
+            12.5796797,
+            44.0618908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364796,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5702378,
+            44.0660462
+          ],
+          [
+            12.5708681,
+            44.0656662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364797,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5708681,
+            44.0656662
+          ],
+          [
+            12.5712535,
+            44.0654369
+          ],
+          [
+            12.5713727,
+            44.0653682
+          ],
+          [
+            12.5717416,
+            44.0651555
+          ],
+          [
+            12.5721118,
+            44.0649512
+          ],
+          [
+            12.5721225,
+            44.0649456
+          ],
+          [
+            12.5724551,
+            44.0647701
+          ],
+          [
+            12.5727421,
+            44.0646255
+          ],
+          [
+            12.5731096,
+            44.0644443
+          ],
+          [
+            12.5739331,
+            44.0640796
+          ],
+          [
+            12.5752508,
+            44.0634927
+          ],
+          [
+            12.575618,
+            44.0633394
+          ],
+          [
+            12.5759969,
+            44.0631825
+          ],
+          [
+            12.5764701,
+            44.0630001
+          ],
+          [
+            12.5774911,
+            44.0626201
+          ],
+          [
+            12.5781317,
+            44.0623902
+          ],
+          [
+            12.5784192,
+            44.0622843
+          ],
+          [
+            12.5786167,
+            44.0622051
+          ],
+          [
+            12.578866,
+            44.0621027
+          ],
+          [
+            12.579255,
+            44.0619334
+          ],
+          [
+            12.579799,
+            44.0616843
+          ],
+          [
+            12.5806532,
+            44.0612924
+          ],
+          [
+            12.5808331,
+            44.0612105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364798,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5665394,
+            44.067802
+          ],
+          [
+            12.5655821,
+            44.068304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364799,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5671268,
+            44.0675333
+          ],
+          [
+            12.5660876,
+            44.0679496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829364800,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.568378,
+            44.0669063
+          ],
+          [
+            12.5674521,
+            44.0673858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829374407,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5710111,
+            44.0658205
+          ],
+          [
+            12.5706058,
+            44.0659595
+          ],
+          [
+            12.5704421,
+            44.0660202
+          ],
+          [
+            12.5703208,
+            44.0660692
+          ],
+          [
+            12.5701658,
+            44.0661396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 980227739,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5339849,
+            44.0882471
+          ],
+          [
+            12.5315347,
+            44.0899406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 980227740,
+        "tipo": "ferrovia",
+        "name": "Ferrara-Rimini"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5686032,
+            44.0669155
+          ],
+          [
+            12.5673643,
+            44.067484
+          ],
+          [
+            12.5661355,
+            44.0680453
+          ],
+          [
+            12.5655821,
+            44.068304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1072451368,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5793765,
+            44.0627836
+          ],
+          [
+            12.5794852,
+            44.0627454
+          ],
+          [
+            12.5797682,
+            44.0626216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1072451370,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.585523,
+            44.0586948
+          ],
+          [
+            12.5854863,
+            44.0586749
+          ],
+          [
+            12.5854496,
+            44.058655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1072451371,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5854387,
+            44.0587207
+          ],
+          [
+            12.5854586,
+            44.0587013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1072451372,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5849309,
+            44.0583408
+          ],
+          [
+            12.5849032,
+            44.0583672
+          ],
+          [
+            12.5848755,
+            44.0583935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1072451373,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5848666,
+            44.0583473
+          ],
+          [
+            12.5845492,
+            44.0581821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1072451374,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5849399,
+            44.0583871
+          ],
+          [
+            12.5849032,
+            44.0583672
+          ],
+          [
+            12.5848666,
+            44.0583473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1102547249,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5793343,
+            44.062186
+          ],
+          [
+            12.5798352,
+            44.0619108
+          ],
+          [
+            12.5800158,
+            44.0618164
+          ],
+          [
+            12.5803732,
+            44.0616477
+          ],
+          [
+            12.5807945,
+            44.0614574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217116932,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5702047,
+            44.0660074
+          ],
+          [
+            12.57046,
+            44.0658787
+          ],
+          [
+            12.5706095,
+            44.0658014
+          ],
+          [
+            12.5708681,
+            44.0656662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217183065,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5756735,
+            44.0643838
+          ],
+          [
+            12.5758386,
+            44.0643517
+          ],
+          [
+            12.5760265,
+            44.0643038
+          ],
+          [
+            12.5761062,
+            44.0642831
+          ],
+          [
+            12.5762544,
+            44.0642389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217185029,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5770298,
+            44.0643735
+          ],
+          [
+            12.577261,
+            44.0643427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217185030,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5754761,
+            44.0646386
+          ],
+          [
+            12.5756564,
+            44.0646147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217186210,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5792894,
+            44.0621392
+          ],
+          [
+            12.5788878,
+            44.06234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217186211,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5817434,
+            44.060944
+          ],
+          [
+            12.5810761,
+            44.0612541
+          ],
+          [
+            12.5803209,
+            44.0615989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217186212,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5791746,
+            44.0621675
+          ],
+          [
+            12.5795503,
+            44.0619951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217188408,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5816943,
+            44.0609073
+          ],
+          [
+            12.5818972,
+            44.0608036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217188409,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5816543,
+            44.0608915
+          ],
+          [
+            12.581731,
+            44.0608566
+          ],
+          [
+            12.5818778,
+            44.0607898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217188410,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5808331,
+            44.0612105
+          ],
+          [
+            12.5810546,
+            44.0611166
+          ],
+          [
+            12.5812318,
+            44.0610473
+          ],
+          [
+            12.581479,
+            44.0609566
+          ],
+          [
+            12.5816491,
+            44.0608886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217188411,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5808331,
+            44.0612105
+          ],
+          [
+            12.5814594,
+            44.0609253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217188412,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5816491,
+            44.0608886
+          ],
+          [
+            12.581731,
+            44.0608566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217188413,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5812494,
+            44.0611171
+          ],
+          [
+            12.5815224,
+            44.0609951
+          ],
+          [
+            12.5817018,
+            44.0609116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217188414,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5815224,
+            44.0609951
+          ],
+          [
+            12.5816943,
+            44.0609073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1243388740,
+        "tipo": "aeroporto",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5969843,
+            44.0285225
+          ],
+          [
+            12.5999968,
+            44.0268426
+          ],
+          [
+            12.6000565,
+            44.0268092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1268452808,
+        "tipo": "autostrada",
+        "name": "Autostrada Adriatica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4644772,
+            44.0853033
+          ],
+          [
+            12.4635502,
+            44.0858335
+          ],
+          [
+            12.4620329,
+            44.0868243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374619,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5750688,
+            44.0645623
+          ],
+          [
+            12.575398,
+            44.0644789
+          ],
+          [
+            12.5757286,
+            44.0644217
+          ],
+          [
+            12.5758896,
+            44.0643893
+          ],
+          [
+            12.5761551,
+            44.0643482
+          ],
+          [
+            12.5763282,
+            44.0643077
+          ],
+          [
+            12.5765168,
+            44.0642741
+          ],
+          [
+            12.5769212,
+            44.0642195
+          ],
+          [
+            12.5777307,
+            44.0641074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374620,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5738189,
+            44.0649881
+          ],
+          [
+            12.5733972,
+            44.0651128
+          ],
+          [
+            12.57305,
+            44.0652368
+          ],
+          [
+            12.5726724,
+            44.0653617
+          ],
+          [
+            12.5725027,
+            44.0654195
+          ],
+          [
+            12.572136,
+            44.0655445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374623,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5767866,
+            44.0640736
+          ],
+          [
+            12.5771041,
+            44.0640068
+          ],
+          [
+            12.5775359,
+            44.0639004
+          ],
+          [
+            12.577669,
+            44.0638608
+          ],
+          [
+            12.5778217,
+            44.0638107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374624,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5771041,
+            44.0640068
+          ],
+          [
+            12.5774964,
+            44.0639439
+          ],
+          [
+            12.5778642,
+            44.0639005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374625,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5762544,
+            44.0642389
+          ],
+          [
+            12.5766054,
+            44.0641344
+          ],
+          [
+            12.5767866,
+            44.0640736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374700,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.578448,
+            44.0625838
+          ],
+          [
+            12.5787379,
+            44.0624511
+          ],
+          [
+            12.5789501,
+            44.062362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374701,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.57851,
+            44.0621502
+          ],
+          [
+            12.5790409,
+            44.0619067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374702,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5798331,
+            44.0616292
+          ],
+          [
+            12.5802308,
+            44.0614437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374703,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5718592,
+            44.065551
+          ],
+          [
+            12.5721555,
+            44.0654608
+          ],
+          [
+            12.5722935,
+            44.0654156
+          ],
+          [
+            12.5724279,
+            44.0653683
+          ],
+          [
+            12.5724734,
+            44.0653509
+          ],
+          [
+            12.5725519,
+            44.065321
+          ],
+          [
+            12.5726942,
+            44.0652643
+          ],
+          [
+            12.5728464,
+            44.0651978
+          ],
+          [
+            12.5729464,
+            44.0651537
+          ],
+          [
+            12.5731252,
+            44.0650737
+          ],
+          [
+            12.5751561,
+            44.0641436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374704,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5697139,
+            44.0664487
+          ],
+          [
+            12.5701135,
+            44.0662637
+          ],
+          [
+            12.5704756,
+            44.066096
+          ],
+          [
+            12.5709343,
+            44.0658956
+          ],
+          [
+            12.5712508,
+            44.0657607
+          ],
+          [
+            12.5715727,
+            44.0656369
+          ],
+          [
+            12.5718263,
+            44.0655323
+          ],
+          [
+            12.5721765,
+            44.065388
+          ],
+          [
+            12.5724413,
+            44.0652783
+          ],
+          [
+            12.5724632,
+            44.0652692
+          ],
+          [
+            12.5727181,
+            44.0651597
+          ],
+          [
+            12.5730585,
+            44.0650057
+          ],
+          [
+            12.5734229,
+            44.0648387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374705,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5718263,
+            44.0655323
+          ],
+          [
+            12.5719781,
+            44.0654764
+          ],
+          [
+            12.5720716,
+            44.0654438
+          ],
+          [
+            12.5721868,
+            44.0654059
+          ],
+          [
+            12.5723189,
+            44.0653624
+          ],
+          [
+            12.5724273,
+            44.0653245
+          ],
+          [
+            12.5724569,
+            44.0653129
+          ],
+          [
+            12.5725934,
+            44.0652597
+          ],
+          [
+            12.5727847,
+            44.0651836
+          ],
+          [
+            12.5730698,
+            44.0650577
+          ],
+          [
+            12.574714,
+            44.0643046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374706,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5769675,
+            44.0633814
+          ],
+          [
+            12.577255,
+            44.0632633
+          ],
+          [
+            12.5777088,
+            44.0630736
+          ],
+          [
+            12.5778851,
+            44.0630078
+          ],
+          [
+            12.578019,
+            44.062958
+          ],
+          [
+            12.5781539,
+            44.0629029
+          ],
+          [
+            12.578265,
+            44.0628511
+          ],
+          [
+            12.5784202,
+            44.0627697
+          ],
+          [
+            12.578541,
+            44.0627
+          ],
+          [
+            12.5788261,
+            44.0625083
+          ],
+          [
+            12.5792137,
+            44.0622523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374710,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.569497,
+            44.066451
+          ],
+          [
+            12.5701658,
+            44.0661396
+          ],
+          [
+            12.5708146,
+            44.0658187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374711,
+        "tipo": "ferrovia",
+        "name": "Ferrovia Bologna – Ancona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5694563,
+            44.0664119
+          ],
+          [
+            12.5702378,
+            44.0660462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374712,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5710365,
+            44.0657539
+          ],
+          [
+            12.5716131,
+            44.0654522
+          ],
+          [
+            12.5717527,
+            44.0653858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1432374713,
+        "tipo": "ferrovia",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5714882,
+            44.0655569
+          ],
+          [
+            12.5722331,
+            44.0652077
+          ]
+        ]
+      }
+    }
+  ]
+}

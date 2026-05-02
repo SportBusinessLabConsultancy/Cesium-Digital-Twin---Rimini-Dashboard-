@@ -1,0 +1,57 @@
+{
+  "traffico": {
+    "maxspeed": {
+      "30": 21,
+      "40": 57,
+      "50": 491,
+      "70": 67,
+      "80": 1,
+      "90": 22,
+      "110": 1,
+      "130": 76,
+      "Non spec.": 207
+    },
+    "lanes": {
+      "2": 398,
+      "Non specificato": 237,
+      "1": 217,
+      "3": 87,
+      "4": 3,
+      "8": 1
+    },
+    "highway": {
+      "primary": 332,
+      "primary_link": 43,
+      "secondary": 448,
+      "motorway_link": 39,
+      "motorway": 78,
+      "trunk": 2,
+      "trunk_link": 1
+    },
+    "totale_tratti": 943
+  },
+  "sicurezza": {
+    "tipi": {
+      "Semaforo": 74,
+      "Attraversamento semaforico": 50,
+      "Autovelox": 7
+    },
+    "totale": 131
+  },
+  "tpl": {
+    "tipi": {
+      "Stazione ferroviaria": 5,
+      "Fermata bus": 408,
+      "Stazione bus": 3,
+      "Terminal traghetti": 2
+    },
+    "operatori": {
+      "RFI": 5,
+      "Start Romagna": 193,
+      "Bonelli Bus": 2,
+      "Amrimini": 1,
+      "Non specificato": 217
+    },
+    "totale": 418
+  }
+}

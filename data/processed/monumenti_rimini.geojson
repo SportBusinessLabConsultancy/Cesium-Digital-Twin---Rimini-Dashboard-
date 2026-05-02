@@ -1,0 +1,2820 @@
+{
+  "type": "FeatureCollection",
+  "name": "Monumenti_e_chiese",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "FONDAZIONE": "I a.C",
+        "TIPOLOGIA": "Ripartizione spaziale",
+        "CATEGORIAU": "Infrastrutture",
+        "USO": "Ponte",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Romana",
+        "NOME": "Ponte di Tiberio",
+        "Numero": 306,
+        "tipo": "ponte",
+        "nome": "Ponte di Tiberio",
+        "tipo_label": "Ponti storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563843499495833,
+          44.06365242949317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Fortificazione",
+        "USO": "Ponte",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "borgo san giuliano",
+        "EPOCA": "Moderna",
+        "NOME": "Porta Gervasona",
+        "Numero": 307,
+        "tipo": "arco",
+        "nome": "Porta Gervasona",
+        "tipo_label": "Porte e mura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56763087483018,
+          44.06641662277795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro_",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di San Nicolò al porto",
+        "Numero": 308,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Nicolò al porto",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569427837022602,
+          44.06569490801901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Fortificazione",
+        "USO": "Porta urbica",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Porta Galliana",
+        "Numero": 309,
+        "tipo": "arco",
+        "nome": "Porta Galliana",
+        "tipo_label": "Porte e mura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566998224395475,
+          44.0647603732882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Soleri",
+        "Numero": 310,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Soleri",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564553498856753,
+          44.06298959223941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Ricciardelli - Monticoli",
+        "Numero": 311,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Ricciardelli - Monticoli",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564757074417702,
+          44.062793090073164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Tonini",
+        "Numero": 312,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Tonini",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56592609408045,
+          44.06347868208417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di Santa Maria ad Nives",
+        "Numero": 313,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Maria ad Nives",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565013503059227,
+          44.06259414956993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio pubblico",
+        "USO": "Ospedale",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Ospedale di Santa Maria della Misericordia",
+        "Numero": 314,
+        "tipo": "palazzo_pubblico",
+        "nome": "Ospedale di Santa Maria della Misericordia",
+        "tipo_label": "Edifici pubblici storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565119153209746,
+          44.06244714524435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Spina",
+        "Numero": 315,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Spina",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56547920864982,
+          44.06210586284977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Zavagli",
+        "Numero": 316,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Zavagli",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565975979153716,
+          44.062567200470426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Baldini",
+        "Numero": 317,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Baldini",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566271714866517,
+          44.06140233125817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Valloni - Cinema Fulgor",
+        "Numero": 318,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Valloni - Cinema Fulgor",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56587036194715,
+          44.06162163865699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "FONDAZIONE": "XIX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "resti_facciata",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Contemporanea",
+        "NOME": "Palazzo Romagnoli - Albergo Aquila d'oro",
+        "Numero": 319,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Romagnoli - Albergo Aquila d'oro",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566080494902641,
+          44.061441929366325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Palazzo pubblico",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Belmonti - Gioia",
+        "Numero": 320,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Belmonti - Gioia",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56677161596714,
+          44.06096295643956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Pubblico",
+        "USO": "Palazzo pubblico",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Palazzo del Podestà",
+        "Numero": 321,
+        "tipo": "palazzo_pubblico",
+        "nome": "Palazzo del Podestà",
+        "tipo_label": "Edifici pubblici storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565323949871177,
+          44.06062637968389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Pubblico",
+        "USO": "Palazzo pubblico",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Palazzo dell'Arengo",
+        "Numero": 322,
+        "tipo": "palazzo_pubblico",
+        "nome": "Palazzo dell'Arengo",
+        "tipo_label": "Edifici pubblici storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565690545391954,
+          44.06080509350487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Pubblico",
+        "USO": "Palazzo pubblico",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Garampi - Comune",
+        "Numero": 323,
+        "tipo": "palazzo_pubblico",
+        "nome": "Palazzo Garampi - Comune",
+        "tipo_label": "Edifici pubblici storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566084995487254,
+          44.0610109839054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "FONDAZIONE": "XIX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Pubblico",
+        "USO": "Teatro",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Contemporanea",
+        "NOME": "Teatro Vittorio Emanuele II - Amintore",
+        "Numero": 324,
+        "tipo": "teatro",
+        "nome": "Teatro Vittorio Emanuele II - Amintore",
+        "tipo_label": "Teatri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565271607608699,
+          44.06042588286819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Infrastrutture",
+        "USO": "Fontana",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Fontana",
+        "Numero": 325,
+        "tipo": "infrastruttura",
+        "nome": "Fontana",
+        "tipo_label": "Infrastrutture storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565960876416518,
+          44.06063426278124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Monumento",
+        "USO": "Monumento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Statua di Paolo V",
+        "Numero": 326,
+        "tipo": "monumento",
+        "nome": "Statua di Paolo V",
+        "tipo_label": "Monumenti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565992731848379,
+          44.06075646936399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "FONDAZIONE": "XVIII d.C_1747",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio pubblico",
+        "USO": "Pescheria",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Vecchia Pescheria",
+        "Numero": 327,
+        "tipo": "palazzo_pubblico",
+        "nome": "Vecchia Pescheria",
+        "tipo_label": "Edifici pubblici storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566091965780421,
+          44.06036925413545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "FONDAZIONE": "XI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Cattadrale",
+        "STATO_ATT": "resti_campanile",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Santa Colomba",
+        "Numero": 328,
+        "tipo": "chiesa",
+        "nome": "Santa Colomba",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564356442053604,
+          44.06065321509376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "FONDAZIONE": "II d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": " ",
+        "USO": " ",
+        "STATO_ATT": "resti_fondazioni",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Romana",
+        "NOME": "Scavo archeologico Camera di Commercio",
+        "Numero": 329,
+        "tipo": "altro",
+        "nome": "Scavo archeologico Camera di Commercio",
+        "tipo_label": "Altro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565651353959769,
+          44.05989850159045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di Santa Maria dei Servi",
+        "Numero": 330,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Maria dei Servi",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564692146428827,
+          44.06254784185507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Convento dei Serviti",
+        "Numero": 331,
+        "tipo": "convento",
+        "nome": "Convento dei Serviti",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564613649536685,
+          44.062342989466686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "borgo san giuliano",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa della Madonna della Scala",
+        "Numero": 332,
+        "tipo": "chiesa",
+        "nome": "Chiesa della Madonna della Scala",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56780659056557,
+          44.06643523540094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Gambalunga - Biblioteca",
+        "Numero": 333,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Gambalunga - Biblioteca",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567723270051466,
+          44.06147373339068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "FONDAZIONE": "XVII ca.",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Ripa",
+        "Numero": 334,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Ripa",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567652448245562,
+          44.06015951884654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "FONDAZIONE": "XIX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Contemporanea",
+        "NOME": "Palazzo Giovannini",
+        "Numero": 335,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Giovannini",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567798261704686,
+          44.06000691876705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Tingoli",
+        "Numero": 336,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Tingoli",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567962180012355,
+          44.0598622999565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "FONDAZIONE": "I d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio pubblico",
+        "USO": "Teatro",
+        "STATO_ATT": "non esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Romana",
+        "NOME": "Teatro Romano",
+        "Numero": 337,
+        "tipo": "teatro",
+        "nome": "Teatro Romano",
+        "tipo_label": "Teatri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568115837552462,
+          44.06041814100211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "resti_facciata",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Lettimi",
+        "Numero": 338,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Lettimi",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56872507924104,
+          44.06078050599318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Diotallevi",
+        "Numero": 339,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Diotallevi",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568661903950957,
+          44.06097284427076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "FONDAZIONE": "VI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di Santa Croce vecchia",
+        "Numero": 340,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Croce vecchia",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569120692373943,
+          44.060897505456026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "resti_",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Convento dei Teatini",
+        "Numero": 341,
+        "tipo": "convento",
+        "nome": "Convento dei Teatini",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570081234146997,
+          44.06052264894411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Convento di San Francesco",
+        "Numero": 342,
+        "tipo": "convento",
+        "nome": "Convento di San Francesco",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570785055580544,
+          44.06024710000009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "resti_cappelle/ingresso",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di San Giovannino - San Girolamo",
+        "Numero": 343,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Giovannino - San Girolamo",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.571566842146186,
+          44.0612490870048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "FONDAZIONE": "VI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "resti_abside",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di San Michelino in Foro",
+        "Numero": 344,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Michelino in Foro",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569078062156747,
+          44.0597966896805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Carli",
+        "Numero": 345,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Carli",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569029179623032,
+          44.058719401305176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Buonadrata",
+        "Numero": 346,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Buonadrata",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569361163135857,
+          44.058430346247434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di Santa Croce Nuova",
+        "Numero": 347,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Croce Nuova",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57004963521198,
+          44.058430815803604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "FONDAZIONE": "XV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di San Bernardino",
+        "Numero": 348,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Bernardino",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568006069908352,
+          44.05825608833877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Garattoni - Cima",
+        "Numero": 349,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Garattoni - Cima",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570076684439638,
+          44.05752954565635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Brighenti",
+        "Numero": 350,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Brighenti",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.571169875383124,
+          44.05797482601064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "FONDAZIONE": "I a.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": " ",
+        "USO": "Arco",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Romana",
+        "NOME": "Arco di Augusto",
+        "Numero": 351,
+        "tipo": "altro",
+        "nome": "Arco di Augusto",
+        "tipo_label": "Altro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.571181847316694,
+          44.05696081553414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "FONDAZIONE": "XIX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "borgo San Giovanni",
+        "EPOCA": "Contemporanea",
+        "NOME": "Palazzo Ghetti",
+        "Numero": 352,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Ghetti",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572002261319897,
+          44.05541785667288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Convento dei Carmelitani",
+        "Numero": 353,
+        "tipo": "convento",
+        "nome": "Convento dei Carmelitani",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572365612960779,
+          44.05482979022855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "FONDAZIONE": "XII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di Sant'Agnese",
+        "Numero": 354,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Sant'Agnese",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566580377353642,
+          44.05800477202628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Oratorio",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di San Nicola da Tolentino",
+        "Numero": 355,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Nicola da Tolentino",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565838955688703,
+          44.057616597455414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 51,
+        "FONDAZIONE": "XV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di Sant'Onofrio",
+        "Numero": 356,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Sant'Onofrio",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565234497744353,
+          44.05808601626392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 52,
+        "FONDAZIONE": "XX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Monumento",
+        "USO": "Monumento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Contemporanea",
+        "NOME": "Monumento ai Caduti",
+        "Numero": 357,
+        "tipo": "monumento",
+        "nome": "Monumento ai Caduti",
+        "tipo_label": "Monumenti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568184438609537,
+          44.0621351150995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di San Francesco Saverio - Suffragio",
+        "Numero": 358,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Francesco Saverio - Suffragio",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567197828783971,
+          44.06245619881063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 54,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di San Marino  - Santa Rita",
+        "Numero": 359,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Marino  - Santa Rita",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.573302045481357,
+          44.05858983565317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 55,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di San Giovanni Evangelista - Sa",
+        "Numero": 360,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Giovanni Evangelista - Sa",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565999872023408,
+          44.059531663157145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 56,
+        "FONDAZIONE": "XV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Fortificazione",
+        "USO": "Rocca",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Rocca Malatestiana - Castel Sismondo",
+        "Numero": 361,
+        "tipo": "castello",
+        "nome": "Rocca Malatestiana - Castel Sismondo",
+        "tipo_label": "Rocche e torri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563531236496024,
+          44.05931682723307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 57,
+        "FONDAZIONE": "X d.C ca",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "borgo San Giovanni",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di San Giovanni Battista",
+        "Numero": 362,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Giovanni Battista",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572225561975703,
+          44.055009080313475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 58,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di Santa Chiara",
+        "Numero": 363,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Chiara",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569404492126576,
+          44.05679914841035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 59,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Oratorio",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Tempietto di Sant'Antonio",
+        "Numero": 364,
+        "tipo": "chiesa",
+        "nome": "Tempietto di Sant'Antonio",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568970337067698,
+          44.059107259570155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 60,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio pubblico",
+        "USO": "Torre civica",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Torre dell'Orologio",
+        "Numero": 365,
+        "tipo": "palazzo_pubblico",
+        "nome": "Torre dell'Orologio",
+        "tipo_label": "Edifici pubblici storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56858824448587,
+          44.059545810248146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 61,
+        "FONDAZIONE": "III d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": " ",
+        "USO": " ",
+        "STATO_ATT": "resti_fondazioni",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Romana",
+        "NOME": "Domus del Chirurgo - Piazza Ferrari",
+        "Numero": 366,
+        "tipo": "altro",
+        "nome": "Domus del Chirurgo - Piazza Ferrari",
+        "tipo_label": "Altro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567699308766155,
+          44.06237066214349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 62,
+        "FONDAZIONE": "XIV d.C.",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Area produttivo/commerciale",
+        "USO": "Magazzino",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Canevone dei Veneziani",
+        "Numero": 367,
+        "tipo": "commerciale",
+        "nome": "Canevone dei Veneziani",
+        "tipo_label": "Edifici commerciali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56591810809215,
+          44.063124516135346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 63,
+        "FONDAZIONE": "XI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "borgo San Giuliano",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di San Giuliano",
+        "Numero": 368,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Giuliano",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.562854713964912,
+          44.065230130152415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 64,
+        "FONDAZIONE": "XI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "borgo San Giuliano",
+        "EPOCA": "Moderna",
+        "NOME": "Convento di San Giuliano",
+        "Numero": 369,
+        "tipo": "convento",
+        "nome": "Convento di San Giuliano",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.562451690806192,
+          44.0652311317843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 65,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Collegio dei Gesuiti - Museo Comunali",
+        "Numero": 370,
+        "tipo": "convento",
+        "nome": "Collegio dei Gesuiti - Museo Comunali",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566948483540365,
+          44.06261346470585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 66,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Convento degli Agostiniani",
+        "Numero": 371,
+        "tipo": "convento",
+        "nome": "Convento degli Agostiniani",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565725088895608,
+          44.05939352248625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 67,
+        "FONDAZIONE": "XIX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "borgo Sant'Andrea",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di San Gaudenzo",
+        "Numero": 372,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Gaudenzo",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564175242861046,
+          44.056747741896565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 68,
+        "FONDAZIONE": "II a.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Fortificazioni",
+        "USO": "Porta urbica",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Romana",
+        "NOME": "Porta Montanara",
+        "Numero": 373,
+        "tipo": "arco",
+        "nome": "Porta Montanara",
+        "tipo_label": "Porte e mura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565211401118491,
+          44.05730295385478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 69,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Logo di culto",
+        "USO": "Chiesa-Cattedrale",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "(Medievale)",
+        "NOME": "Chiesa di San Francesco - Tempio Malatestiano",
+        "Numero": 374,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Francesco - Tempio Malatestiano",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570108707828096,
+          44.05981369965612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 70,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro_colonnella",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di Santa Maria della Colonnella",
+        "Numero": 375,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Maria della Colonnella",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.582894273875613,
+          44.04638195358155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 71,
+        "FONDAZIONE": "III a.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Infrastruttura",
+        "USO": "Miliario",
+        "STATO_ATT": "?",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro_colonella",
+        "EPOCA": "Romana",
+        "NOME": "Miliario romano",
+        "Numero": 376,
+        "tipo": "infrastruttura",
+        "nome": "Miliario romano",
+        "tipo_label": "Infrastrutture storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583210340679786,
+          44.046209518010976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 72,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Convento",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro_",
+        "EPOCA": "Contemporanea",
+        "NOME": "Convento di Santo Spirito",
+        "Numero": 377,
+        "tipo": "convento",
+        "nome": "Convento di Santo Spirito",
+        "tipo_label": "Conventi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.571767931304661,
+          44.0531437239082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 73,
+        "FONDAZIONE": "XX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Strutture ricettive",
+        "USO": "Colonia",
+        "STATO_ATT": " ",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Bellariva",
+        "EPOCA": "Contemporanea",
+        "NOME": "Colonia Comasca",
+        "Numero": 378,
+        "tipo": "ricettivo",
+        "nome": "Colonia Comasca",
+        "tipo_label": "Strutture ricettive storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.601018124160626,
+          44.04897341552859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 74,
+        "FONDAZIONE": " ",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Casalecchio",
+        "EPOCA": " ",
+        "NOME": "Chiesa di Casalecchio",
+        "Numero": 379,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Casalecchio",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611324678556114,
+          44.00660317624982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 75,
+        "FONDAZIONE": " ",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Corpolò",
+        "EPOCA": " ",
+        "NOME": "Chiesa di Corpolò",
+        "Numero": 380,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Corpolò",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.455540030569063,
+          44.01859097721762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 76,
+        "FONDAZIONE": "XX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Infrastrutture",
+        "USO": "Fontana",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "Marina centro",
+        "EPOCA": "Contemporanea",
+        "NOME": "Fontana dei Quattro Cavalli",
+        "Numero": 381,
+        "tipo": "infrastruttura",
+        "nome": "Fontana dei Quattro Cavalli",
+        "tipo_label": "Infrastrutture storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576520090447074,
+          44.0712120223542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 77,
+        "FONDAZIONE": "XX d.C 1908",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Strutture ricettive",
+        "USO": "Albergo",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "Marina centro",
+        "EPOCA": "Contemporanea",
+        "NOME": "Grand  Hotel",
+        "Numero": 382,
+        "tipo": "ricettivo",
+        "nome": "Grand  Hotel",
+        "tipo_label": "Strutture ricettive storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576969096238265,
+          44.072753434942946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 78,
+        "FONDAZIONE": "XVIII d.C 1754",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Infrastruttura",
+        "USO": "Faro",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "Marina centro",
+        "EPOCA": "Moderna",
+        "NOME": "Faro",
+        "Numero": 383,
+        "tipo": "infrastruttura",
+        "nome": "Faro",
+        "tipo_label": "Infrastrutture storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.573959058805928,
+          44.07409127595061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 79,
+        "FONDAZIONE": "IX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Vito",
+        "EPOCA": "Medievale",
+        "NOME": "Pieve di San Vito",
+        "Numero": 384,
+        "tipo": "chiesa",
+        "nome": "Pieve di San Vito",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.455442485014583,
+          44.085801781605596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 80,
+        "FONDAZIONE": "I d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "resti_ruderi",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Vito",
+        "EPOCA": "Romana",
+        "NOME": "Ponte di San Vito",
+        "Numero": 385,
+        "tipo": "chiesa",
+        "nome": "Ponte di San Vito",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453600582825842,
+          44.08651902177288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 81,
+        "FONDAZIONE": " ",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Spadarolo",
+        "EPOCA": " ",
+        "NOME": "Il palazzone",
+        "Numero": 386,
+        "tipo": "palazzo_privato",
+        "nome": "Il palazzone",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510844162878238,
+          44.04604869189751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 82,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di Santa Maria della Neve",
+        "Numero": 387,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Maria della Neve",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.502489937955689,
+          44.04091255899221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 83,
+        "FONDAZIONE": "XIX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Vergiano",
+        "EPOCA": "Contemporanea",
+        "NOME": "Villa Mattioli",
+        "Numero": 388,
+        "tipo": "palazzo_privato",
+        "nome": "Villa Mattioli",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.502978340904086,
+          44.041661153717676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 84,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Lorenzo in Correggiano",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di San Lorenzo in Correggiano",
+        "Numero": 389,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Lorenzo in Correggiano",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580467575590957,
+          44.006665219199554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 85,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Lorenzo in Correggiano",
+        "EPOCA": "Moderna",
+        "NOME": "Villa Des Verges",
+        "Numero": 390,
+        "tipo": "palazzo_privato",
+        "nome": "Villa Des Verges",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580926227464177,
+          44.0134446905284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 86,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Martino Monte l'Abate",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di San Martino Monte l'Abate",
+        "Numero": 391,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Martino Monte l'Abate",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.579148533393507,
+          44.022393892380826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 87,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Martino in Riparotta",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di San Martino in Riparotta",
+        "Numero": 392,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Martino in Riparotta",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51208027329636,
+          44.07242437910555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 88,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Santa Giustina",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di Santa Giustina",
+        "Numero": 393,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Giustina",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482568991886115,
+          44.06886454015814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 89,
+        "FONDAZIONE": "III d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Infrastrutture",
+        "USO": "Miliario",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Santa Giustina",
+        "EPOCA": "Romana",
+        "NOME": "Miliario Romano - S.Giustina",
+        "Numero": 394,
+        "tipo": "infrastruttura",
+        "nome": "Miliario Romano - S.Giustina",
+        "tipo_label": "Infrastrutture storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482430613162427,
+          44.06843986135429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 90,
+        "FONDAZIONE": "XII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Santa Cristina",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di Santa Cristina",
+        "Numero": 395,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Cristina",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.461856000928186,
+          43.98910155898874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 91,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Santa Maria in Cerreto",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di Santa Maria in Cerreto",
+        "Numero": 396,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Maria in Cerreto",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55861735444455,
+          43.997279351756426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 92,
+        "FONDAZIONE": "XII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "centro_celle",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di Santa Maria delle Celle",
+        "Numero": 397,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Maria delle Celle",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545853651267027,
+          44.06955347667183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 93,
+        "FONDAZIONE": "XX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Viserba",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di Viserba monte",
+        "Numero": 398,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Viserba monte",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524951326251552,
+          44.08239511213886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 94,
+        "FONDAZIONE": "XIX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Area cimiteriale",
+        "USO": "Cimitero",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano?",
+        "LOCALITA": "centro_celle",
+        "EPOCA": "Contemporanea",
+        "NOME": "Cimitero Monumentale",
+        "Numero": 399,
+        "tipo": "cimitero",
+        "nome": "Cimitero Monumentale",
+        "tipo_label": "Cimiteri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549523702344718,
+          44.07225383033753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 95,
+        "FONDAZIONE": "XX d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Strutture ricettive",
+        "USO": "Colonia",
+        "STATO_ATT": "resti_struttura",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Miramare",
+        "EPOCA": "Contemporanea",
+        "NOME": "Colonia Novarese",
+        "Numero": 400,
+        "tipo": "ricettivo",
+        "nome": "Colonia Novarese",
+        "tipo_label": "Strutture ricettive storiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.627259653262978,
+          44.02618480176016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 96,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio Residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "?",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Covignano",
+        "EPOCA": "Contemporanea",
+        "NOME": "Villa Ruffi",
+        "Numero": 401,
+        "tipo": "palazzo_privato",
+        "nome": "Villa Ruffi",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.547203936934771,
+          44.0348278471101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 97,
+        "FONDAZIONE": "XV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Covignano",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di San Fortunato",
+        "Numero": 402,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Fortunato",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545133713084116,
+          44.03105817714577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 98,
+        "FONDAZIONE": "XIV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Santuario",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Covignano",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di Santa Maria delle Grazie",
+        "Numero": 403,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Santa Maria delle Grazie",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548347086082197,
+          44.0400554233405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 99,
+        "FONDAZIONE": "VI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Pieve",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Covignano",
+        "EPOCA": "Medievale",
+        "NOME": "Pieve di San Lorenzo in Monte",
+        "Numero": 404,
+        "tipo": "chiesa",
+        "nome": "Pieve di San Lorenzo in Monte",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.530065863606207,
+          44.03979612348116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 100,
+        "FONDAZIONE": "II d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio pubblico",
+        "USO": "Anfiteatro",
+        "STATO_ATT": "resti_struttura",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Romana",
+        "NOME": "Anfiteatro romano",
+        "Numero": 405,
+        "tipo": "teatro",
+        "nome": "Anfiteatro romano",
+        "tipo_label": "Teatri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57537117927823,
+          44.06026229105427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 101,
+        "FONDAZIONE": "XVI d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Edificio residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Vergiano",
+        "EPOCA": "Moderna",
+        "NOME": "Il palazzone di Vergiano",
+        "Numero": 406,
+        "tipo": "palazzo_privato",
+        "nome": "Il palazzone di Vergiano",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.500847150507353,
+          44.03945564335472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 102,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Covignano",
+        "EPOCA": "Moderna",
+        "NOME": "Chiesa di Sant'Andrea dell'Ausa",
+        "Numero": 407,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Sant'Andrea dell'Ausa",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.550825164256203,
+          44.04451476550034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 103,
+        "FONDAZIONE": "XVIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "Sant'Aquilina",
+        "EPOCA": "Contemporanea",
+        "NOME": "Chiesa di Sant'Aquilina",
+        "Numero": 408,
+        "tipo": "chiesa",
+        "nome": "Chiesa di Sant'Aquilina",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528316830175264,
+          44.010701483435405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 104,
+        "FONDAZIONE": "XIII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di Culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Salvatore?",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di San Salvatore",
+        "Numero": 409,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Salvatore",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587170177059358,
+          43.990505840092766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 105,
+        "FONDAZIONE": "XII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "Luogo di Culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "extraurbano",
+        "LOCALITA": "San Martino in Venti",
+        "EPOCA": "Medievale",
+        "NOME": "Chiesa di San Martino in Venti",
+        "Numero": 410,
+        "tipo": "chiesa",
+        "nome": "Chiesa di San Martino in Venti",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.501277864633325,
+          44.011828666500165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 106,
+        "FONDAZIONE": "XV d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "edificio residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Massani",
+        "Numero": 411,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Massani",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569853355546716,
+          44.06011974697549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 107,
+        "FONDAZIONE": "XVII d.C",
+        "TIPOLOGIA": "Componente insediativa",
+        "CATEGORIAU": "edificio residenziale",
+        "USO": "Abitazione",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "centro storico",
+        "EPOCA": "Moderna",
+        "NOME": "Palazzo Felici",
+        "Numero": 412,
+        "tipo": "palazzo_privato",
+        "nome": "Palazzo Felici",
+        "tipo_label": "Edifici residenziali storici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566540850690226,
+          44.061944073894814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 108,
+        "FONDAZIONE": null,
+        "TIPOLOGIA": null,
+        "CATEGORIAU": "Luogo di Culto",
+        "USO": "Chiesa",
+        "STATO_ATT": "esistente",
+        "AMBITO": "urbano",
+        "LOCALITA": "Santo Spirito - Pomposa",
+        "EPOCA": null,
+        "NOME": "Chiesa Gesù Nostra Riconciliazione",
+        "Numero": 413,
+        "tipo": "chiesa",
+        "nome": "Chiesa Gesù Nostra Riconciliazione",
+        "tipo_label": "Chiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563695903940049,
+          44.04614368439196
+        ]
+      }
+    }
+  ]
+}

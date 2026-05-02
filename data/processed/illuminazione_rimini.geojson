@@ -1,0 +1,4799 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9035771839,
+        "lamp_type": "led",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5360649,
+          44.0896169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9952792883,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5750421,
+          44.0783315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10670105136,
+        "lamp_type": "high_pressure_sodium",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5999005,
+          44.039816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10670105137,
+        "lamp_type": "high_pressure_sodium",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005579,
+          44.0390832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10673248908,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5978199,
+          44.037096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10678807419,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5237933,
+          44.0778626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10678807514,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5234195,
+          44.0676035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10679343210,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4684202,
+          44.0802319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10679343857,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5141206,
+          44.0899082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10688664441,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5796019,
+          44.039387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10688664452,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5773831,
+          44.0410179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10697427612,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6260907,
+          44.0236668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705391845,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5412025,
+          44.0640067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10765874906,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5360042,
+          44.0040866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11040192513,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5885377,
+          44.0570023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11109618418,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5849905,
+          44.0451917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11148880784,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5972545,
+          44.0393062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11184063729,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738641,
+          44.0622888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11186174373,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525631,
+          44.0790381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11186174413,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5268101,
+          44.0780907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11187961924,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.619808,
+          44.0232422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11190537712,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6174573,
+          44.0237725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11190537713,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6165203,
+          44.024298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11190537714,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6181283,
+          44.0229839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11190537715,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6199463,
+          44.0218432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11203186096,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5420025,
+          44.0689436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11659600979,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866025,
+          44.0499981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12150465298,
+        "lamp_type": "electric",
+        "light_source": "",
+        "support": "pole",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5359966,
+          44.0896834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12155459584,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5778883,
+          44.0390561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12202588359,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5744013,
+          44.0632686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12336880685,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5511935,
+          44.0569492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12573774640,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5383853,
+          44.0738973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12573774641,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391248,
+          44.0732954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12633709010,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5668903,
+          44.0359372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12633709011,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5659818,
+          44.0363352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12754677055,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "pole",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5974641,
+          44.0493011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12754677056,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5971369,
+          44.0491288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12754677070,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.596173,
+          44.0486312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12754677071,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5964823,
+          44.048792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12754677076,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5958604,
+          44.0484754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12804361780,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5968009,
+          44.0489578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12875291650,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5983445,
+          44.0476771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12875384004,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5953227,
+          44.0465332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12983923198,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5827405,
+          44.0430207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12983986207,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5823133,
+          44.0415912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12983986208,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5809119,
+          44.0414623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12992007771,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5912851,
+          44.0482244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336131,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4535367,
+          44.0229601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336132,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4536383,
+          44.0230465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336133,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4537302,
+          44.022986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336134,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538628,
+          44.0228963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336135,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4539251,
+          44.0230369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336136,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4535994,
+          44.0232663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336137,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4535279,
+          44.0234012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336138,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4533365,
+          44.0233023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336139,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4530893,
+          44.0232385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336140,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4528251,
+          44.0231009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336141,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4536565,
+          44.0235424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336142,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538419,
+          44.0236399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336143,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4540413,
+          44.0238127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336144,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4543179,
+          44.0225535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336145,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4544263,
+          44.0225833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336146,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4544336,
+          44.0223837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336147,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4546375,
+          44.0224753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336148,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4546748,
+          44.0223567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336149,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4548978,
+          44.0222988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336150,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4548554,
+          44.0221576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336151,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4552399,
+          44.0220115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336152,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.455053,
+          44.0218969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336153,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4548692,
+          44.0217848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336154,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4546901,
+          44.0216678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336155,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4546872,
+          44.0219166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336156,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4544478,
+          44.0220042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336157,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4545009,
+          44.0217348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336158,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4545053,
+          44.0216316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336159,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4542625,
+          44.0216319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336160,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4543849,
+          44.0218362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336161,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4539347,
+          44.0218841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336162,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4537622,
+          44.0216207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336163,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453816,
+          44.0216547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336164,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4533456,
+          44.0215198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336165,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4535296,
+          44.0214907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336166,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453565,
+          44.0216522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336167,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538188,
+          44.0213543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336168,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4541346,
+          44.0215018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336169,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4536171,
+          44.0210942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336170,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4534709,
+          44.0219909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336171,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4535246,
+          44.0221537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336172,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4536588,
+          44.0221948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336173,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538435,
+          44.0221253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336174,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4540379,
+          44.0222454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336176,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4540973,
+          44.0220965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336177,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4542652,
+          44.0222197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336178,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4537001,
+          44.0220393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336179,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4534258,
+          44.0218302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336180,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453129,
+          44.0220621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336181,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4532361,
+          44.0223253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336182,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4534155,
+          44.0227621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336183,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4530576,
+          44.0222253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336184,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4528386,
+          44.0219833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336185,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.452596,
+          44.021818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336186,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538366,
+          44.0224005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336187,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4536631,
+          44.022491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336188,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4538842,
+          44.0225923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336189,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4536331,
+          44.0226444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13159336195,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4535846,
+          44.0229185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13319453339,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5853767,
+          44.0648026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13352613895,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587846,
+          44.0557431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13352623832,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881793,
+          44.0575059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13357068700,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5870542,
+          44.0565652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13357156601,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5873052,
+          44.0563028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358789025,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880543,
+          44.0585542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358880836,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880574,
+          44.0586366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13369319753,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "pole",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5710044,
+          44.0564445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699306,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890876,
+          44.0612561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699308,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5893326,
+          44.0610765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699309,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5895387,
+          44.0608786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699310,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5899824,
+          44.0604082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13412699311,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5904583,
+          44.0600118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415105376,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903351,
+          44.0600542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415105381,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5902433,
+          44.0602116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415105391,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5897892,
+          44.0606417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415140366,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5899646,
+          44.060296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447916,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5888805,
+          44.0614793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447928,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886692,
+          44.0617014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447930,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886953,
+          44.0615718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447941,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884385,
+          44.0618945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447947,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5882358,
+          44.0621124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420447950,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5879661,
+          44.0623147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420460731,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903042,
+          44.0599725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420460732,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5907305,
+          44.0597958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420460733,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5909243,
+          44.0596153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420460734,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591128,
+          44.0594252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420460735,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5901165,
+          44.0596307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13420460736,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589914,
+          44.0595228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13423125368,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5869216,
+          44.0633857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13423125370,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5871091,
+          44.0631531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13423125371,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5873457,
+          44.0629671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13423125372,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5875393,
+          44.0627559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13423125373,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5877403,
+          44.062553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13429967615,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881383,
+          44.0576269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13429967616,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5883205,
+          44.057587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13429967617,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5878956,
+          44.0577074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13429967618,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5878105,
+          44.057656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13429967619,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5879819,
+          44.057762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820039,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311166,
+          44.0842884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820040,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5306336,
+          44.0840213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820041,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5304772,
+          44.0840721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820042,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5306268,
+          44.084131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820043,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5304558,
+          44.0842344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820044,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5302705,
+          44.0840265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820045,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5304971,
+          44.0839083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820046,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5305185,
+          44.0837449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820047,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531069,
+          44.08374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820048,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5313752,
+          44.0838881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820050,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5316417,
+          44.0840862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820051,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5318846,
+          44.0842582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13518820053,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5321834,
+          44.0844807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13525653248,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587805,
+          44.0584725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383116,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866869,
+          44.0635992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383117,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5859376,
+          44.0643449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383118,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5857135,
+          44.0645746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383119,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5850165,
+          44.0652446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383120,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5848045,
+          44.0654737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383121,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5845716,
+          44.065701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383122,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5839146,
+          44.066335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13528383123,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5836734,
+          44.0665726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984070,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5984543,
+          44.0410273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984071,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.597945,
+          44.0412328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984072,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5987106,
+          44.0405853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984073,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5984937,
+          44.0406189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984075,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5986695,
+          44.0404796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984076,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5972183,
+          44.0418513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984077,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.597014,
+          44.0422642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984078,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5964915,
+          44.0424611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984080,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5999859,
+          44.040151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984081,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5998136,
+          44.0402236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984082,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5996993,
+          44.0400592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984083,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5994666,
+          44.0399266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984084,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5995004,
+          44.0399295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984085,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6002239,
+          44.0400246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984086,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005642,
+          44.0400543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984096,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.600466,
+          44.0401896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535984097,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6005809,
+          44.0402285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052016,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5985912,
+          44.040295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052017,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5984379,
+          44.0401942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052018,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5985571,
+          44.0401056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052019,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5986992,
+          44.0402065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052020,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5982889,
+          44.0399553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052021,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5982161,
+          44.0400081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052023,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5980586,
+          44.0399063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052024,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5981287,
+          44.03985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052025,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5978798,
+          44.039781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052026,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5979533,
+          44.0397286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052027,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5976859,
+          44.0396496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052028,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5977601,
+          44.0395962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052029,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5974308,
+          44.0395028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052030,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5975346,
+          44.0394168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052054,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5968933,
+          44.0396777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052055,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5970521,
+          44.0395482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052057,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5968124,
+          44.0395558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052058,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5969863,
+          44.0394231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052061,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5976888,
+          44.0390701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052062,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5975774,
+          44.039148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052063,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5975517,
+          44.0389775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052064,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5973994,
+          44.0391006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052065,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5973153,
+          44.0390522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052066,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5972077,
+          44.0389775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052067,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5970467,
+          44.0388849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052068,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5968947,
+          44.0389584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052069,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5967253,
+          44.0390784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052070,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5966593,
+          44.0391732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052071,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5967628,
+          44.0392681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536052072,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5968669,
+          44.039342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13536061604,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6002395,
+          44.0403554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008181,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5901073,
+          44.0589988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008182,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5899079,
+          44.0589604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008183,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589853,
+          44.0588308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008184,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5896234,
+          44.0587866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008185,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5895631,
+          44.0586457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008186,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5893784,
+          44.0586268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008187,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5892594,
+          44.0584641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008188,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589079,
+          44.0584414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008189,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5889593,
+          44.058275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008190,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5888539,
+          44.058254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008191,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588703,
+          44.0581607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008192,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588576,
+          44.0580984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008193,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5885179,
+          44.0581631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008194,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884543,
+          44.0580507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008195,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5883504,
+          44.057981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008196,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886903,
+          44.0581023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13540008197,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5882764,
+          44.0583669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216533,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5722406,
+          44.071796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216534,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5723774,
+          44.0720574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216535,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5725053,
+          44.0723105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216536,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572631,
+          44.0725644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216537,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5721048,
+          44.0715524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216538,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5718498,
+          44.0710365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216539,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717147,
+          44.0707759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216540,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5714551,
+          44.0702662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216541,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5713138,
+          44.0700039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216542,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5711815,
+          44.0697637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216543,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5709996,
+          44.0695166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216544,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5708199,
+          44.0692821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216545,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5704291,
+          44.068817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216546,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5702473,
+          44.0685773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216547,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5700478,
+          44.0683458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551216548,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5698586,
+          44.0681166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599981,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884095,
+          44.048171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599982,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5886631,
+          44.0479701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599983,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588165,
+          44.0483681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599984,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587905,
+          44.0485689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599985,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5889218,
+          44.0477683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599986,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5895872,
+          44.0476971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599987,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5893401,
+          44.0478943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599988,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890911,
+          44.0480923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599989,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5888384,
+          44.0482922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599990,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5885875,
+          44.0484901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599991,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5883329,
+          44.0486942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599992,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880915,
+          44.0488968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599993,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587884,
+          44.0490676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599994,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5879349,
+          44.0490263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599996,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5876364,
+          44.0492841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599997,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5873762,
+          44.0494911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563612603,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589836,
+          44.0475028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563612604,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5900878,
+          44.0472972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563612605,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903385,
+          44.0471043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563612606,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5906036,
+          44.0468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563612607,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5909526,
+          44.0464239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563612608,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5910576,
+          44.0467144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621069,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5875076,
+          44.0473142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621070,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5875767,
+          44.0471619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621071,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5873295,
+          44.0472058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621072,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5869913,
+          44.0475056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621073,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5873085,
+          44.0474431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621074,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5872692,
+          44.0475759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621075,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5882891,
+          44.047511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621076,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884183,
+          44.0475896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621077,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5883344,
+          44.04765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621078,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880373,
+          44.0477571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621079,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5877666,
+          44.047736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563621080,
+        "lamp_type": "",
+        "light_source": "",
+        "support": "",
+        "lit": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5876233,
+          44.0476757
+        ]
+      }
+    }
+  ]
+}

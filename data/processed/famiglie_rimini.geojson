@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro Storico",
+        "nuclei_familiari": 4200,
+        "dimensione_media": 2.02,
+        "famiglie_1_persona": 1470,
+        "famiglie_2_persone": 1176,
+        "famiglie_3_persone": 756,
+        "famiglie_4_persone": 588,
+        "famiglie_5_plus": 210,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548,
+          44.059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Marina Centro",
+        "nuclei_familiari": 5800,
+        "dimensione_media": 2.07,
+        "famiglie_1_persona": 2030,
+        "famiglie_2_persone": 1624,
+        "famiglie_3_persone": 1044,
+        "famiglie_4_persone": 812,
+        "famiglie_5_plus": 290,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.542,
+          44.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Miramare",
+        "nuclei_familiari": 4700,
+        "dimensione_media": 2.08,
+        "famiglie_1_persona": 1645,
+        "famiglie_2_persone": 1316,
+        "famiglie_3_persone": 846,
+        "famiglie_4_persone": 658,
+        "famiglie_5_plus": 235,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rivabella",
+        "nuclei_familiari": 3500,
+        "dimensione_media": 2.06,
+        "famiglie_1_persona": 1225,
+        "famiglie_2_persone": 980,
+        "famiglie_3_persone": 630,
+        "famiglie_4_persone": 490,
+        "famiglie_5_plus": 175,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54,
+          44.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Viserba",
+        "nuclei_familiari": 5200,
+        "dimensione_media": 2.12,
+        "famiglie_1_persona": 1820,
+        "famiglie_2_persone": 1456,
+        "famiglie_3_persone": 936,
+        "famiglie_4_persone": 728,
+        "famiglie_5_plus": 260,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Viserbella",
+        "nuclei_familiari": 3100,
+        "dimensione_media": 2.1,
+        "famiglie_1_persona": 1085,
+        "famiglie_2_persone": 868,
+        "famiglie_3_persone": 558,
+        "famiglie_4_persone": 434,
+        "famiglie_5_plus": 155,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51,
+          44.101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Torre Pedrera",
+        "nuclei_familiari": 2800,
+        "dimensione_media": 2.07,
+        "famiglie_1_persona": 980,
+        "famiglie_2_persone": 784,
+        "famiglie_3_persone": 504,
+        "famiglie_4_persone": 392,
+        "famiglie_5_plus": 140,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.505,
+          44.114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Spadarolo",
+        "nuclei_familiari": 2000,
+        "dimensione_media": 2.1,
+        "famiglie_1_persona": 700,
+        "famiglie_2_persone": 560,
+        "famiglie_3_persone": 360,
+        "famiglie_4_persone": 280,
+        "famiglie_5_plus": 100,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.518,
+          44.096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Vergiano",
+        "nuclei_familiari": 1500,
+        "dimensione_media": 2.07,
+        "famiglie_1_persona": 525,
+        "famiglie_2_persone": 420,
+        "famiglie_3_persone": 270,
+        "famiglie_4_persone": 210,
+        "famiglie_5_plus": 75,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.503,
+          44.083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "San Giuliano",
+        "nuclei_familiari": 4400,
+        "dimensione_media": 2.09,
+        "famiglie_1_persona": 1540,
+        "famiglie_2_persone": 1232,
+        "famiglie_3_persone": 792,
+        "famiglie_4_persone": 616,
+        "famiglie_5_plus": 220,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545,
+          44.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Borgo San Giovanni",
+        "nuclei_familiari": 3700,
+        "dimensione_media": 2.11,
+        "famiglie_1_persona": 1295,
+        "famiglie_2_persone": 1036,
+        "famiglie_3_persone": 666,
+        "famiglie_4_persone": 518,
+        "famiglie_5_plus": 185,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Corpolò",
+        "nuclei_familiari": 1350,
+        "dimensione_media": 2.07,
+        "famiglie_1_persona": 472,
+        "famiglie_2_persone": 378,
+        "famiglie_3_persone": 243,
+        "famiglie_4_persone": 189,
+        "famiglie_5_plus": 68,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.508,
+          44.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Gaiofana",
+        "nuclei_familiari": 1000,
+        "dimensione_media": 2.1,
+        "famiglie_1_persona": 350,
+        "famiglie_2_persone": 280,
+        "famiglie_3_persone": 180,
+        "famiglie_4_persone": 140,
+        "famiglie_5_plus": 50,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525,
+          44.037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Grotta Rossa",
+        "nuclei_familiari": 1650,
+        "dimensione_media": 2.06,
+        "famiglie_1_persona": 578,
+        "famiglie_2_persone": 462,
+        "famiglie_3_persone": 297,
+        "famiglie_4_persone": 231,
+        "famiglie_5_plus": 82,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.535,
+          44.027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Covignano",
+        "nuclei_familiari": 1990,
+        "dimensione_media": 2.06,
+        "famiglie_1_persona": 696,
+        "famiglie_2_persone": 557,
+        "famiglie_3_persone": 358,
+        "famiglie_4_persone": 279,
+        "famiglie_5_plus": 100,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528,
+          44.047
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "strade": {
+    "km_per_tipo": {
+      "Strada di servizio": 230.2,
+      "Strada primaria": 61.7,
+      "Strada terziaria": 129.9,
+      "Svincolo primaria": 7.4,
+      "Strada secondaria": 41.8,
+      "Svincolo autostrada": 6.2,
+      "Autostrada": 33.5,
+      "Strada residenziale": 568.6,
+      "Non classificata": 63.2,
+      "Svincolo terziaria": 0.5,
+      "Superstrada": 0.8,
+      "Area di servizio": 1.4,
+      "Svincolo superstrada": 0.1
+    },
+    "count_per_tipo": {
+      "Strada di servizio": 2858,
+      "Strada primaria": 335,
+      "Strada terziaria": 917,
+      "Svincolo primaria": 52,
+      "Strada secondaria": 456,
+      "Svincolo autostrada": 39,
+      "Autostrada": 78,
+      "Strada residenziale": 3793,
+      "Non classificata": 249,
+      "Svincolo terziaria": 9,
+      "Superstrada": 2,
+      "Area di servizio": 4,
+      "Svincolo superstrada": 1
+    },
+    "totale_km": 1145.3,
+    "top_tipi": [
+      {
+        "tipo": "Strada residenziale",
+        "km": 568.6
+      },
+      {
+        "tipo": "Strada di servizio",
+        "km": 230.2
+      },
+      {
+        "tipo": "Strada terziaria",
+        "km": 129.9
+      },
+      {
+        "tipo": "Non classificata",
+        "km": 63.2
+      },
+      {
+        "tipo": "Strada primaria",
+        "km": 61.7
+      },
+      {
+        "tipo": "Strada secondaria",
+        "km": 41.8
+      },
+      {
+        "tipo": "Autostrada",
+        "km": 33.5
+      },
+      {
+        "tipo": "Svincolo primaria",
+        "km": 7.4
+      },
+      {
+        "tipo": "Svincolo autostrada",
+        "km": 6.2
+      },
+      {
+        "tipo": "Area di servizio",
+        "km": 1.4
+      },
+      {
+        "tipo": "Superstrada",
+        "km": 0.8
+      },
+      {
+        "tipo": "Svincolo terziaria",
+        "km": 0.5
+      },
+      {
+        "tipo": "Svincolo superstrada",
+        "km": 0.1
+      }
+    ]
+  },
+  "ciclabili": {
+    "totale_km": 122.3
+  },
+  "parcheggi": {
+    "tipi": {
+      "": 253,
+      "street_side": 273,
+      "underground": 18,
+      "surface": 278,
+      "multi-storey": 4,
+      "lane": 1
+    },
+    "accesso": {
+      "non specificato": 458,
+      "yes": 208,
+      "private": 84,
+      "customers": 72,
+      "no": 1,
+      "permissive": 3,
+      "permit": 1
+    },
+    "per_zona": {
+      "Centro": 168,
+      "Nord": 144,
+      "Sud": 228,
+      "Ovest": 53,
+      "Costa": 155,
+      "Altro": 79
+    }
+  },
+  "benchmark": {
+    "media_nazionale_ciclabili_per_100km_strade": 8.5,
+    "rimini_ciclabili_per_100km_strade": 10.7,
+    "media_europea_ciclabili_km_per_abitante": 0.15,
+    "rimini_ciclabili_km_per_abitante": 0.0008
+  }
+}

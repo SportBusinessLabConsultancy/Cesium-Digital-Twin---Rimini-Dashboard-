@@ -1,0 +1,2101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 250994929,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4530478,
+          44.0200952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 252914098,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6011474,
+          44.0405005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 252914618,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5942512,
+          44.0443677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 253071197,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5633571,
+          44.0612771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 253352026,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5372963,
+          44.0643521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 254137579,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5295601,
+          44.0427792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 256137003,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5591524,
+          44.0519889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 276087319,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5577441,
+          44.0507425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 276087322,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5576818,
+          44.0506838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 276457854,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5805337,
+          44.0529744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 277660208,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6061157,
+          44.032044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 278233901,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737214,
+          44.0580115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 278602794,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6028846,
+          43.9964238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 279544889,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5929484,
+          44.0468734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 279544890,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5934042,
+          44.0471314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 279547238,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5933425,
+          44.047188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 279547239,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5928865,
+          44.0469298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 279547242,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6017899,
+          44.0480288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 280727561,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391362,
+          43.9956227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 281250727,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5463777,
+          44.0122564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 281250728,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5462754,
+          44.01235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 287664429,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5912748,
+          44.0520066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 291050159,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717744,
+          44.0666162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 291723038,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5545321,
+          44.0529357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 291723077,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5544321,
+          44.0528915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 295266855,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5366464,
+          44.0865964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 298735209,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6184498,
+          44.0288949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 298735429,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5339663,
+          44.0850345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 299575406,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6199222,
+          44.0233308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 299575413,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589094,
+          44.0481431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 299575420,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890208,
+          44.0480963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 299575444,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5953061,
+          44.0542159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 299575454,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.612547,
+          44.0388591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 301282738,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6111361,
+          44.0380452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 303196521,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6183831,
+          44.0289488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 303196523,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6185299,
+          44.0288341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 313403628,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6205551,
+          44.0302523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 323117895,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5497948,
+          44.0250933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 352786289,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4534988,
+          44.0203085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 353935191,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4820504,
+          44.0685247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1343832967,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5819487,
+          44.0496799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1871562456,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.605544,
+          44.032268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872020867,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6057397,
+          44.0321426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872020893,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6090132,
+          44.0330471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872020897,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6090795,
+          44.0330961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872020960,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6074062,
+          44.034105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872020963,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6074646,
+          44.0341551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872403729,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.604315,
+          44.0358208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872403730,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6043981,
+          44.0358718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872403880,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.594571,
+          44.0443869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1872482342,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5818987,
+          44.0497157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2338029657,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5500666,
+          44.0247676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2444393861,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5650462,
+          44.0573209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2673658507,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5910972,
+          44.051911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2680287410,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5611253,
+          44.0347525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2691995781,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5647555,
+          44.0569984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3567187733,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.594509,
+          44.0443453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3609615988,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5951347,
+          44.0541292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4378829729,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5818495,
+          44.0497477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5183088381,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5535579,
+          44.0778823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5271916300,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5390172,
+          43.9956864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5641938402,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5536484,
+          44.0457973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6308881376,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5536959,
+          44.0458559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7115546812,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5944888,
+          44.0444853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787389,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6150238,
+          44.0283969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787390,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6150963,
+          44.0284406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7540723781,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.531155,
+          44.0903883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7540723782,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5314279,
+          44.0902324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7540723783,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311808,
+          44.090025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7540723784,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5310051,
+          44.0901874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7912187074,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5718389,
+          44.0665808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7912187077,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717101,
+          44.0666493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8235463982,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.579739,
+          44.0614862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8235463989,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5883496,
+          44.0576668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8242285481,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5748301,
+          44.0631442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9014722602,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5340164,
+          44.0849995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9251497822,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5844546,
+          44.0244547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921118609,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5555577,
+          44.030691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921118610,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5555376,
+          44.0310617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921137817,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5557436,
+          44.0307457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921137822,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5608818,
+          44.0347707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921137823,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5498017,
+          44.0247618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921137824,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.550131,
+          44.0252399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921137825,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5557771,
+          44.0310733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921137829,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5608853,
+          44.0350512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9921137833,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5611553,
+          44.0350846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10168651725,
+        "tipo": "autovelox",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4495072,
+          44.015715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10168651726,
+        "tipo": "autovelox",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4542132,
+          44.0206195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10223955218,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4524463,
+          44.0193991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555069264,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4511541,
+          44.0177951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555069269,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4530079,
+          44.0201364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10996650749,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5646373,
+          44.0571308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11068707789,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6124605,
+          44.0389336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11068707790,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6125946,
+          44.0388192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11069129326,
+        "tipo": "autovelox",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5882158,
+          44.0488573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080857876,
+        "tipo": "autovelox",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5182678,
+          44.0534728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11080857877,
+        "tipo": "autovelox",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5154401,
+          44.0526306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11259277694,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5625624,
+          44.0666224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11291795110,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6190678,
+          44.0238592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11383282483,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5546113,
+          44.0529627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11383282486,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5543321,
+          44.0528473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11459140889,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5965645,
+          44.0363707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11459140913,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5959798,
+          44.0361249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11459140914,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5962297,
+          44.0361111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11465532425,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.498782,
+          44.0453663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11753296444,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5632644,
+          44.0611538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11919496018,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5318781,
+          44.0899267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12040535849,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6017269,
+          44.048087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12137674761,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311912,
+          44.0903695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12137674762,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5315488,
+          44.0901461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12258083920,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59423,
+          44.0444985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12643813613,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5989141,
+          44.0505762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12643813614,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5995407,
+          44.0499946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12643813616,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5991581,
+          44.050126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12672623991,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6020095,
+          44.0478299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12672671701,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5952967,
+          44.0540878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12672671702,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5951289,
+          44.0542538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12754750932,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5928483,
+          44.0469654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12754750933,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.593304,
+          44.0472233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12802004775,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6056481,
+          44.0322008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12804361745,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5929816,
+          44.0468425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12804361746,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5934438,
+          44.0470938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12816822125,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5736699,
+          44.0580586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12816822126,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737845,
+          44.0580478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12951083420,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6017141,
+          44.0479845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13081317866,
+        "tipo": "autovelox",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5685505,
+          44.043396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13176788410,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5640023,
+          44.070903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13320040489,
+        "tipo": "attraversamento_semaforico",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6010891,
+          44.0405473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371436649,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564769,
+          44.0569888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13371436650,
+        "tipo": "semaforo",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5646036,
+          44.0571746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535985748,
+        "tipo": "autovelox",
+        "name": "",
+        "ref": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5971529,
+          44.0419808
+        ]
+      }
+    }
+  ]
+}

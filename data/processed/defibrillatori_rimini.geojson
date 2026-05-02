@@ -1,0 +1,765 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718097831,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5606255,
+          44.0590333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718101696,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5637913,
+          44.0706782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718121730,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": "Club Nautico Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.574377,
+          44.0741899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718124310,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5660663,
+          44.0460376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718136246,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5694786,
+          44.0298341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718147898,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4809978,
+          44.066148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718154242,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5643574,
+          44.0465629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718154341,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5765976,
+          44.0535016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718155483,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": "Comune di Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5752773,
+          44.0725569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718155754,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5662861,
+          44.0611095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718155956,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5773858,
+          44.0379707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718167947,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4824426,
+          44.068316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718187367,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5591791,
+          44.0345444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718194804,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5805324,
+          44.0362112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718196145,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5757884,
+          44.0519185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4358982694,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5681312,
+          44.0592713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5811114439,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851874,
+          44.063685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7902451099,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5653649,
+          44.0620312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7902451100,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5656054,
+          44.0623139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7902451101,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5652383,
+          44.0632766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7902957236,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": "Comune di Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5638129,
+          44.0697713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7912990054,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "",
+        "opening_hours": "Mo-Fr 08:00-23:00; Sa 8:00-13:00",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5126395,
+          44.0497856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7913122878,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.522626,
+          44.0725415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7913122879,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5302218,
+          44.0721405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7913122880,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5259426,
+          44.0721366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7913122881,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5662305,
+          44.0464886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7977683993,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "yes",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5363763,
+          44.0897318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7977683994,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5785786,
+          44.0752748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9885968017,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5714595,
+          44.0590245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10057520692,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6064824,
+          44.0441922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12813964606,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "yes",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5121239,
+          44.0501711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13014277501,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5607236,
+          44.0658015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13336879201,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "yes",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6051144,
+          44.0364444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408323527,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5662435,
+          44.0520088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13408327289,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "yes",
+        "access": "private",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5722695,
+          44.071842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415132161,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5646179,
+          44.065531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13415134416,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5839258,
+          44.0550932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13432002516,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "yes",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5743631,
+          44.0714595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13535062196,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "",
+        "access": "",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5351208,
+          44.0843057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13551205429,
+        "tipo": "defibrillatore",
+        "name": "",
+        "indoor": "no",
+        "access": "yes",
+        "opening_hours": "",
+        "operator": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5630493,
+          44.0607212
+        ]
+      }
+    }
+  ]
+}
