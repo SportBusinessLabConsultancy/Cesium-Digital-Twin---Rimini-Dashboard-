@@ -1,3 +1,33 @@
+#  Sport Business Lab Consultancy (SBL Consultancy)
+
+Benvenuti nel repository ufficiale di SBL Consultancy, l'osservatorio sportivo innovativo che trasforma la complessità dei dati in contenuti strategici e soluzioni a 360° per il mercato dello sport.
+
+---
+
+##  Chi Siamo
+
+Siamo una piattaforma online progettata per integrare e analizzare dati provenienti da fonti longitudinali, accademiche e governative. La nostra missione è professionalizzare il mercato sportivo attraverso l'uso consapevole della tecnologia e della scienza dei dati.
+
+---
+
+## Cosa facciamo su GitHub
+
+In questo spazio condividiamo i nostri progetti e le nostre pipeline di analisi, focalizzandoci su:
+
+- **Modelli Predittivi Avanzati:** Utilizziamo metodologie di Machine Learning e Deep Learning per anticipare trend sportivi, economici e ambientali.
+- **Geomarketing & GIS:** Sviluppiamo strumenti di analisi geospaziale per la monitorizzazione territoriale e la pianificazione delle strutture sportive.
+- **Data Storytelling & Visualizzazione:** Creiamo dashboard interattive e mappe tematiche (sviluppate principalmente in R e Python) utilizzando dataset globali open source.
+- **Algoritmo SEI (Sport Event Impact):** Codice e modelli per la valutazione olistica dell'impatto economico, sociale e ambientale degli eventi sportivi.
+
+---
+
+> *"Pensa fuori dagli schemi insieme a noi"*
+
+🌐 [Visita il nostro sito](http://www.sblconsultancy.it)
+📧 [Contattaci](mailto:info@sblconsultancy.it)
+
+
+
 # Rimini Dashboard
 
 Dashboard interattiva per la visualizzazione e l'analisi dei dati territoriali, infrastrutturali e demografici del Comune di Rimini.
