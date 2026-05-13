@@ -32,7 +32,7 @@ In questo spazio condividiamo i nostri progetti e le nostre pipeline di analisi,
 
 Dashboard interattiva per la visualizzazione e l'analisi dei dati territoriali, infrastrutturali e demografici del Comune di Rimini.
 
-Sviluppato da **SBL Consultancy** nell'ambito dello STAGE 2026 SPORT LAB.
+Visualizza la dashboard qui: https://sportbusinesslabconsultancy.github.io/Cesium-Digital-Twin---Rimini-Dashboard-/
 
 ---
 
