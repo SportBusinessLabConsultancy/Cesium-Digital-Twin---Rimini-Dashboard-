@@ -6,7 +6,7 @@ if (window.pmtiles) {
   maplibregl.addProtocol('pmtiles', protocol.tile);
 }
 
-const DATA_BASE = '../data/';
+const DATA_BASE = 'data/';
 const CATASTO_USE_PMTILES = true;
 
 const FILE_MAP = {
